@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<passed>
+<pass_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485136221917">
+<span class="pass_span">验证是否出现预期的错误提示信息::pass</span></br>
+</pass_assert_info>
+<pass_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485136221917">
+<span class="pass_span">验证是否出现预期的错误提示信息::pass</span></br>
+</pass_assert_info>
+</passed>
