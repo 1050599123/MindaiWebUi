@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="4" total="5" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="19379" started-at="2017-01-23T01:50:09Z" finished-at="2017-01-23T01:50:28Z">
+  <suite name="Suite" duration-ms="36891" started-at="2017-01-24T06:11:06Z" finished-at="2017-01-24T06:11:43Z">
     <groups>
     </groups>
-    <test name="运费贷发标测试用例" duration-ms="19379" started-at="2017-01-23T01:50:09Z" finished-at="2017-01-23T01:50:28Z">
+    <test name="运费贷发标测试用例" duration-ms="36891" started-at="2017-01-24T06:11:06Z" finished-at="2017-01-24T06:11:43Z">
       <class name="org.webdriver.mindaiwebui.cases.LoginTest">
-        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@57855c9a]" name="setup" is-config="true" duration-ms="2946" started-at="2017-01-23T09:50:09Z" finished-at="2017-01-23T09:50:12Z">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@79be0360]" name="setup" is-config="true" duration-ms="3212" started-at="2017-01-24T14:11:06Z" finished-at="2017-01-24T14:11:10Z">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@57855c9a]" name="Login" duration-ms="3741" started-at="2017-01-23T09:50:12Z" description="发标失败用例" data-provider="longinData" finished-at="2017-01-23T09:50:16Z">
+        <test-method status="FAIL" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@79be0360]" name="Login" duration-ms="13179" started-at="2017-01-24T14:11:10Z" description="发标失败用例" data-provider="longinData" finished-at="2017-01-24T14:11:23Z">
           <params>
             <param index="0">
               <value>
@@ -89,7 +89,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="FAIL" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@57855c9a]" name="Login" duration-ms="2949" started-at="2017-01-23T09:50:16Z" description="发标失败用例" data-provider="longinData" finished-at="2017-01-23T09:50:19Z">
+        <test-method status="FAIL" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@79be0360]" name="Login" duration-ms="2820" started-at="2017-01-24T14:11:23Z" description="发标失败用例" data-provider="longinData" finished-at="2017-01-24T14:11:26Z">
           <params>
             <param index="0">
               <value>
@@ -155,7 +155,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@57855c9a]" name="Login" duration-ms="2678" started-at="2017-01-23T09:50:19Z" description="发标失败用例" data-provider="longinData" finished-at="2017-01-23T09:50:21Z">
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@79be0360]" name="Login" duration-ms="3243" started-at="2017-01-24T14:11:26Z" description="发标失败用例" data-provider="longinData" finished-at="2017-01-24T14:11:29Z">
           <params>
             <param index="0">
               <value>
@@ -181,7 +181,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="FAIL" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@57855c9a]" name="Login" duration-ms="2863" started-at="2017-01-23T09:50:21Z" description="发标失败用例" data-provider="longinData" finished-at="2017-01-23T09:50:24Z">
+        <test-method status="FAIL" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@79be0360]" name="Login" duration-ms="10340" started-at="2017-01-24T14:11:29Z" description="发标失败用例" data-provider="longinData" finished-at="2017-01-24T14:11:39Z">
           <params>
             <param index="0">
               <value>
@@ -247,7 +247,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="FAIL" signature="login(java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@57855c9a]" name="login" duration-ms="3638" started-at="2017-01-23T09:50:24Z" description="登录成功测试" finished-at="2017-01-23T09:50:28Z">
+        <test-method status="FAIL" signature="login(java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@79be0360]" name="login" duration-ms="3575" started-at="2017-01-24T14:11:39Z" description="登录成功测试" finished-at="2017-01-24T14:11:43Z">
           <params>
             <param index="0">
               <value>
@@ -298,7 +298,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@57855c9a]" name="tearDown" is-config="true" duration-ms="412" started-at="2017-01-23T09:50:28Z" finished-at="2017-01-23T09:50:28Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest@79be0360]" name="tearDown" is-config="true" duration-ms="361" started-at="2017-01-24T14:11:43Z" finished-at="2017-01-24T14:11:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

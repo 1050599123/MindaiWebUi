@@ -29,7 +29,7 @@
         <entry key="$PROJECT_DIR$">
           <value>
             <SvnBranchConfiguration>
-              <option name="trunkUrl" value="svn://git.oschina.net/zhengshuheng/PatatiumWebUi" />
+              <option name="trunkUrl" value="svn://git.oschina.net/hepeng/MindaiWebUi" />
             </SvnBranchConfiguration>
           </value>
         </entry>

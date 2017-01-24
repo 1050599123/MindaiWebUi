@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="PatatiumWebUi" />
+        <module name="MindaiWebUi" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
-      <module name="PatatiumWebUi" target="1.8" />
+      <module name="MindaiWebUi" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
