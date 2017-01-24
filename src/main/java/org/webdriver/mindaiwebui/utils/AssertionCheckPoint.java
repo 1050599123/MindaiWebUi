@@ -117,7 +117,7 @@ public class AssertionCheckPoint extends TestBaseCase {
 	 * @param actual 实际值
 	 * @param exceptStr 预期值
 	 * @param Message 验证中文描述
-	 *  @author Administrator 郑树恒
+	 *  @author Administrator 
 	 */
 	public static void verityString(String actual,String exceptStr,String Message)
 	{
@@ -144,7 +144,7 @@ public class AssertionCheckPoint extends TestBaseCase {
 	 * @param actual 实际值
 	 * @param exceptStr 预期值
 	 * @param Message 验证中文描述
-	 *  @author Administrator 郑树恒
+	 *  @author Administrator 
 	 */
 	public static void verityNotString(String actual,String exceptStr,String Message)
 	{
