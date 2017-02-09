@@ -51,7 +51,7 @@ public class TestListener  extends TestListenerAdapter{
 		ScreenShot screenShot=new ScreenShot(driver);
 		//设置截图名字
 		//screenShot.setscreenName(tr.getMethod().getDescription()+Assertion.errorIndex.toString());
-		log.error(Assertion.errorIndex.toString());
+		//log.error(Assertion.errorIndex.toString());
 		//screenShot.takeScreenshot();
 		for(int i=0;i<Assertion.messageList.size();i++)
 		{
