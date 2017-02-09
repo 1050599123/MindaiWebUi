@@ -7,28 +7,27 @@
   <parameter name="reportTitle" value="自动化测试报告"/>
   <parameter name="nodeURL" value=""/>
   <parameter name="smtpPassWord" value="Mindaitianxia2017"/>
-  <parameter name="reportUrl" value="http://192.168.1.162:8087/report.html"/>
+  <parameter name="reportUrl" value="http://192.168.1.224:8087/report.html"/>
   <parameter name="PassWord" value=""/>
   <parameter name="smtpHost" value="smtp.exmail.qq.com"/>
   <parameter name="driver" value="FirefoxDriver"/>
   <parameter name="smtpUserName" value="hepeng@mindai.com"/>
   <parameter name="recipients" value="hepeng@mindai.com"/>
-  <parameter name="BaseUrl" value="http://121.196.208.139:3030"/>
-  <parameter name="logUrl" value="http://192.168.1.162:8088/log_2017-01-16.html"/>
+  <parameter name="BaseUrl" value="http://192.168.1.75:8088/"/>
+  <parameter name="logUrl" value="http://192.168.1.224:8088/log_2017-02-09.html"/>
   <listeners>
     <listener class-name="org.webdriver.mindaiwebui.utils.TestListener"/>
     <listener class-name="org.webdriver.mindaiwebui.utils.TestReport"/>
   </listeners>
-  <test name="运费贷发标测试用例(failed)">
+  <test name="消费金融进件发标测试用例(failed)">
     <classes>
-      <class name="org.webdriver.mindaiwebui.cases.LoginTest">
+      <class name="org.webdriver.mindaiwebui.cases.Jjfabiaotest">
         <methods>
           <include name="tearDown"/>
+          <include name="ts" invocation-numbers="0 1 3"/>
           <include name="setup"/>
-          <include name="Login" invocation-numbers="0 1 3"/>
-          <include name="login" invocation-numbers="0"/>
         </methods>
-      </class> <!-- org.webdriver.mindaiwebui.cases.LoginTest -->
+      </class> <!-- org.webdriver.mindaiwebui.cases.Jjfabiaotest -->
     </classes>
-  </test> <!-- 运费贷发标测试用例(failed) -->
+  </test> <!-- 消费金融进件发标测试用例(failed) -->
 </suite> <!-- Failed suite [Suite] -->

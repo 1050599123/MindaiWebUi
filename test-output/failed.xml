@@ -1,187 +1,141 @@
 <?xml version="1.0" encoding="utf-8"?>
 <failed>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238283355">
-<span class="err_span">验证是否出现预期的错误提示信息:15011840000:failed</span></br>
+<err_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635534488">
+<span class="err_span">验证是否出现预期的错误提示信息:成功:failed</span></br>
 </err_assert_info>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238283355">
+<err_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635534488">
 <span class="err_span">&lt;a class="clickbox" href="#url"&gt;
-&lt;img src="snapshot/2017-01-24 141123185.jpg" height="100" width="100" alt="" /&gt;
+&lt;img src="snapshot/2017-02-09 181854384.jpg" height="100" width="100" alt="" /&gt;
 &lt;b class="lightbox"&gt;
 &lt;b class="light"&gt;&lt;/b&gt;
 &lt;b class="box"&gt;
-&lt;img src="snapshot/2017-01-24 141123185.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
+&lt;img src="snapshot/2017-02-09 181854384.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
 &lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;
 &lt;/b&gt;
 &lt;/b&gt;
 &lt;/a&gt;
 &lt;br class="clear" /&gt;
-&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-01-24 141123185.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
+&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-02-09 181854384.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
 &lt;/br&gt;&lt;div id="close"&gt;&lt;/div&gt;
 </span>
 </err_assert_info>
-<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238283355">
+<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635534488">
 <span class="err_span" >expected [true] but found [false]</span></br>
-<span class="err_span">org.webdriver.mindaiwebui.cases.LoginTest.Login(LoginTest.java:55)</span></br>
+<span class="err_span">org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts(Jjfabiaotest.java:39)</span></br>
 </err_assert_info_StackTrace>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238283355">
-<span class="err_span">验证是否出现预期的错误提示信息:15011840000:failed</span></br>
+<err_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635534488">
+<span class="err_span">验证是否出现预期的错误提示信息:成功:failed</span></br>
 </err_assert_info>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238283355">
+<err_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635534488">
 <span class="err_span">&lt;a class="clickbox" href="#url"&gt;
-&lt;img src="snapshot/2017-01-24 141123185.jpg" height="100" width="100" alt="" /&gt;
+&lt;img src="snapshot/2017-02-09 181854384.jpg" height="100" width="100" alt="" /&gt;
 &lt;b class="lightbox"&gt;
 &lt;b class="light"&gt;&lt;/b&gt;
 &lt;b class="box"&gt;
-&lt;img src="snapshot/2017-01-24 141123185.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
+&lt;img src="snapshot/2017-02-09 181854384.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
 &lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;
 &lt;/b&gt;
 &lt;/b&gt;
 &lt;/a&gt;
 &lt;br class="clear" /&gt;
-&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-01-24 141123185.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
+&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-02-09 181854384.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
 &lt;/br&gt;&lt;div id="close"&gt;&lt;/div&gt;
 </span>
 </err_assert_info>
-<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238283355">
+<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635534488">
 <span class="err_span" >expected [true] but found [false]</span></br>
-<span class="err_span">org.webdriver.mindaiwebui.cases.LoginTest.Login(LoginTest.java:55)</span></br>
+<span class="err_span">org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts(Jjfabiaotest.java:39)</span></br>
 </err_assert_info_StackTrace>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238286184">
-<span class="err_span">验证是否出现预期的错误提示信息:13928755754:failed</span></br>
+<err_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635537997">
+<span class="err_span">验证是否出现预期的错误提示信息:该订单已存在！:failed</span></br>
 </err_assert_info>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238286184">
+<err_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635537997">
 <span class="err_span">&lt;a class="clickbox" href="#url"&gt;
-&lt;img src="snapshot/2017-01-24 141126013.jpg" height="100" width="100" alt="" /&gt;
+&lt;img src="snapshot/2017-02-09 181857900.jpg" height="100" width="100" alt="" /&gt;
 &lt;b class="lightbox"&gt;
 &lt;b class="light"&gt;&lt;/b&gt;
 &lt;b class="box"&gt;
-&lt;img src="snapshot/2017-01-24 141126013.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
+&lt;img src="snapshot/2017-02-09 181857900.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
 &lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;
 &lt;/b&gt;
 &lt;/b&gt;
 &lt;/a&gt;
 &lt;br class="clear" /&gt;
-&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-01-24 141126013.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
+&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-02-09 181857900.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
 &lt;/br&gt;&lt;div id="close"&gt;&lt;/div&gt;
 </span>
 </err_assert_info>
-<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238286184">
+<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635537997">
 <span class="err_span" >expected [true] but found [false]</span></br>
-<span class="err_span">org.webdriver.mindaiwebui.cases.LoginTest.Login(LoginTest.java:55)</span></br>
+<span class="err_span">org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts(Jjfabiaotest.java:39)</span></br>
 </err_assert_info_StackTrace>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238286184">
-<span class="err_span">验证是否出现预期的错误提示信息:13928755754:failed</span></br>
+<err_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635537997">
+<span class="err_span">验证是否出现预期的错误提示信息:该订单已存在！:failed</span></br>
 </err_assert_info>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238286184">
+<err_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635537997">
 <span class="err_span">&lt;a class="clickbox" href="#url"&gt;
-&lt;img src="snapshot/2017-01-24 141126013.jpg" height="100" width="100" alt="" /&gt;
+&lt;img src="snapshot/2017-02-09 181857900.jpg" height="100" width="100" alt="" /&gt;
 &lt;b class="lightbox"&gt;
 &lt;b class="light"&gt;&lt;/b&gt;
 &lt;b class="box"&gt;
-&lt;img src="snapshot/2017-01-24 141126013.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
+&lt;img src="snapshot/2017-02-09 181857900.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
 &lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;
 &lt;/b&gt;
 &lt;/b&gt;
 &lt;/a&gt;
 &lt;br class="clear" /&gt;
-&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-01-24 141126013.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
+&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-02-09 181857900.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
 &lt;/br&gt;&lt;div id="close"&gt;&lt;/div&gt;
 </span>
 </err_assert_info>
-<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238286184">
+<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635537997">
 <span class="err_span" >expected [true] but found [false]</span></br>
-<span class="err_span">org.webdriver.mindaiwebui.cases.LoginTest.Login(LoginTest.java:55)</span></br>
+<span class="err_span">org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts(Jjfabiaotest.java:39)</span></br>
 </err_assert_info_StackTrace>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238299776">
-<span class="err_span">验证是否出现预期的错误提示信息:13928755754:failed</span></br>
+<err_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635545153">
+<span class="err_span">验证是否出现预期的错误提示信息:银行卡号不能为空:failed</span></br>
 </err_assert_info>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238299776">
+<err_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635545153">
 <span class="err_span">&lt;a class="clickbox" href="#url"&gt;
-&lt;img src="snapshot/2017-01-24 141139623.jpg" height="100" width="100" alt="" /&gt;
+&lt;img src="snapshot/2017-02-09 181905058.jpg" height="100" width="100" alt="" /&gt;
 &lt;b class="lightbox"&gt;
 &lt;b class="light"&gt;&lt;/b&gt;
 &lt;b class="box"&gt;
-&lt;img src="snapshot/2017-01-24 141139623.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
+&lt;img src="snapshot/2017-02-09 181905058.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
 &lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;
 &lt;/b&gt;
 &lt;/b&gt;
 &lt;/a&gt;
 &lt;br class="clear" /&gt;
-&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-01-24 141139623.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
+&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-02-09 181905058.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
 &lt;/br&gt;&lt;div id="close"&gt;&lt;/div&gt;
 </span>
 </err_assert_info>
-<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238299776">
+<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635545153">
 <span class="err_span" >expected [true] but found [false]</span></br>
-<span class="err_span">org.webdriver.mindaiwebui.cases.LoginTest.Login(LoginTest.java:55)</span></br>
+<span class="err_span">org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts(Jjfabiaotest.java:39)</span></br>
 </err_assert_info_StackTrace>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238299776">
-<span class="err_span">验证是否出现预期的错误提示信息:13928755754:failed</span></br>
+<err_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635545153">
+<span class="err_span">验证是否出现预期的错误提示信息:银行卡号不能为空:failed</span></br>
 </err_assert_info>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238299776">
+<err_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635545153">
 <span class="err_span">&lt;a class="clickbox" href="#url"&gt;
-&lt;img src="snapshot/2017-01-24 141139623.jpg" height="100" width="100" alt="" /&gt;
+&lt;img src="snapshot/2017-02-09 181905058.jpg" height="100" width="100" alt="" /&gt;
 &lt;b class="lightbox"&gt;
 &lt;b class="light"&gt;&lt;/b&gt;
 &lt;b class="box"&gt;
-&lt;img src="snapshot/2017-01-24 141139623.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
+&lt;img src="snapshot/2017-02-09 181905058.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
 &lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;
 &lt;/b&gt;
 &lt;/b&gt;
 &lt;/a&gt;
 &lt;br class="clear" /&gt;
-&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-01-24 141139623.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
+&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-02-09 181905058.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
 &lt;/br&gt;&lt;div id="close"&gt;&lt;/div&gt;
 </span>
 </err_assert_info>
-<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.LoginTest.Login.1485238299776">
+<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635545153">
 <span class="err_span" >expected [true] but found [false]</span></br>
-<span class="err_span">org.webdriver.mindaiwebui.cases.LoginTest.Login(LoginTest.java:55)</span></br>
-</err_assert_info_StackTrace>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.login.1485238303357">
-<span class="err_span">输入正确的用户名和密码，验证是否成功进入主页:failed</span></br>
-</err_assert_info>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.login.1485238303357">
-<span class="err_span">&lt;a class="clickbox" href="#url"&gt;
-&lt;img src="snapshot/2017-01-24 141143193.jpg" height="100" width="100" alt="" /&gt;
-&lt;b class="lightbox"&gt;
-&lt;b class="light"&gt;&lt;/b&gt;
-&lt;b class="box"&gt;
-&lt;img src="snapshot/2017-01-24 141143193.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
-&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;
-&lt;/b&gt;
-&lt;/b&gt;
-&lt;/a&gt;
-&lt;br class="clear" /&gt;
-&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-01-24 141143193.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
-&lt;/br&gt;&lt;div id="close"&gt;&lt;/div&gt;
-</span>
-</err_assert_info>
-<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.LoginTest.login.1485238303357">
-<span class="err_span" >expected [true] but found [false]</span></br>
-<span class="err_span">org.webdriver.mindaiwebui.cases.LoginTest.login(LoginTest.java:32)</span></br>
-</err_assert_info_StackTrace>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.login.1485238303357">
-<span class="err_span">输入正确的用户名和密码，验证是否成功进入主页:failed</span></br>
-</err_assert_info>
-<err_assert_info   method="org.webdriver.mindaiwebui.cases.LoginTest.login.1485238303357">
-<span class="err_span">&lt;a class="clickbox" href="#url"&gt;
-&lt;img src="snapshot/2017-01-24 141143193.jpg" height="100" width="100" alt="" /&gt;
-&lt;b class="lightbox"&gt;
-&lt;b class="light"&gt;&lt;/b&gt;
-&lt;b class="box"&gt;
-&lt;img src="snapshot/2017-01-24 141143193.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;
-&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;
-&lt;/b&gt;
-&lt;/b&gt;
-&lt;/a&gt;
-&lt;br class="clear" /&gt;
-&lt;a class="clickbox" href="#url"&gt;点击查看大图&lt;b class="lightbox"&gt;&lt;b class="light"&gt;&lt;/b&gt;&lt;b class="box"&gt;&lt;img src="snapshot/2017-01-24 141143193.jpg" height="530" width="1024" onmousewheel="return bigimg(this)" alt="" /&gt;&lt;span&gt;滚动鼠标缩放大小,点击X关闭当前图片，返回报表界面.&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/b&gt;&lt;/b&gt; &lt;/a&gt;
-&lt;/br&gt;&lt;div id="close"&gt;&lt;/div&gt;
-</span>
-</err_assert_info>
-<err_assert_info_StackTrace   method="org.webdriver.mindaiwebui.cases.LoginTest.login.1485238303357">
-<span class="err_span" >expected [true] but found [false]</span></br>
-<span class="err_span">org.webdriver.mindaiwebui.cases.LoginTest.login(LoginTest.java:32)</span></br>
+<span class="err_span">org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts(Jjfabiaotest.java:39)</span></br>
 </err_assert_info_StackTrace>
 </failed>

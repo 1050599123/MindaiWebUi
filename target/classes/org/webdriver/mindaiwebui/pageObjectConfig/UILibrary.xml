@@ -19,20 +19,26 @@
 		<locator type="id" timeout="3" value="imgCode"  desc="验证码">验证码输入框</locator>
 		<locator type="id" timeout="3" value="sub"  desc="登录">登录按钮</locator>
 	</page>
-	    <page pagename="org.webdriver.mindaiwebui.pageObject.FabiaoPage" value="" desc="运费贷发标页面">
-		   <locator type="id" timeout="3" value="orderId"  desc="订单号输入框">订单号输入框</locator>
+	    <page pagename="org.webdriver.mindaiwebui.pageObject.JjFabiaoPage" value="" desc="消费贷发标页面">
+	       <locator type="id" timeout="3" value="realName"  desc="真实姓名输入框">真实姓名输入框</locator>
+		   <locator type="id" timeout="3" value="cardId"  desc="身份证号输入框">身份证号输入框</locator>
+		   <locator type="id" timeout="3" value="bankCardNo"  desc="银行卡号输入框">银行卡号输入框</locator>
+		   <locator type="id" timeout="3" value="phone"  desc="借款人联系方式输入框">借款人联系方式输入框</locator>
+           <locator type="id" timeout="3" value="orderId"  desc="订单号输入框">订单号输入框</locator>
+		   <locator type="id" timeout="3" value="channel"  desc="渠道编号输入框">渠道编号输入框</locator>
+		   <locator type="id" timeout="3" value="product"  desc="产品编号输入框">产品编号输入框</locator>
 		   <locator type="id" timeout="3" value="amount"  desc="借款金额输入框">借款金额输入框</locator>
 		   <locator type="id" timeout="3" value="interestRate"  desc="借款利率输入框">借款利率输入框</locator>
-		   <locator type="id" timeout="3" value="borrowTerm"  desc="借款期限输入框">借款期限输入框</locator>
-		   <locator type="id" timeout="3" value="realName"  desc="真实姓名输入框">真实姓名输入框</locator>
-		   <locator type="id" timeout="3" value="cardId"  desc="身份证号输入框">身份证号输入框</locator>
-           <locator type="id" timeout="3" value="bankCardName"  desc="银行名称输入框">银行名称输入框</locator>
-		   <locator type="id" timeout="3" value="bankCardNo"  desc="银行卡号输入框">银行卡号输入框</locator>
-           <locator type="id" timeout="3" value="logisticsCompany"  desc="物流公司输入框">物流公司输入框</locator>
-           <locator type="id" timeout="3" value="waybillNo"  desc="运单号输入框">运单号输入框</locator>
-           <locator type="id" timeout="3" value="phone"  desc="借款人联系方式输入框">借款人联系方式输入框</locator>
-		    <locator type="xpath" timeout="3" value="/html/body/form[1]/table/tbody/tr[13]/td/button[1]"  desc="提交按钮">提交按钮</locator>
-            <locator type="xpath" timeout="3" value="/html/body"  desc="提示信息">提示信息</locator>
+		   <locator type="id" timeout="3" value="isPreReceiveRate"  desc="扣费方式输入框">扣费方式输入框</locator>
+		   <locator type="id" timeout="3" value="platformReceiveServiceRate"  desc="总费率输入框">总费率输入框</locator>	   	   
+           <locator type="id" timeout="3" value="borrowStyle"  desc="还款方式输入框">还款方式输入框</locator>
+           <locator type="id" timeout="3" value="borrowTermType"  desc="借款期限类型输入框">借款期限类型输入框</locator>
+           <locator type="id" timeout="3" value="borrowTermUnit"  desc="借款期限单位输入框">借款期限单位输入框</locator>
+		   <locator type="id" timeout="3" value="borrowTerm"  desc="项目期限输入框">项目期限输入框</locator>
+		   <locator type="id" timeout="3" value="address"  desc="借款申请所在地输入框">借款申请所在地输入框</locator>
+		   <locator type="id" timeout="3" value="borrowExpireDate"  desc="到期日输入框">到期日输入框</locator>
+		   <locator type="xpath" timeout="3" value="/html/body/form[1]/table/tbody/tr[19]/td/button[1]"  desc="提交按钮">提交按钮</locator>
+           <locator type="xpath" timeout="3" value="/html/body"  desc="提示信息">提示信息</locator>
 	</page>
 		    <page pagename="org.webdriver.mindaiwebui.pageObject.HomePage" value="" desc="前台首页">
 		   <locator type="linkText" timeout="3" value="首页"  desc="首页按钮">首页按钮</locator>

@@ -1,7 +1,7 @@
 package org.webdriver.mindaiwebui.action;
 
 import org.openqa.selenium.By;
-import org.webdriver.mindaiwebui.pageObject.FabiaoPage;
+import org.webdriver.mindaiwebui.pageObject.JjFabiaoPage;
 import org.webdriver.mindaiwebui.pageObject.LoginPage;
 import org.webdriver.mindaiwebui.utils.ElementAction;
 import org.webdriver.mindaiwebui.utils.TestBaseCase;
