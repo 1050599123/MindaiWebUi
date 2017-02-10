@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <passed>
-<pass_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635541704">
+<pass_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486692790355">
+<span class="pass_span">验证是否出现预期的错误提示信息:该订单已存在！:pass</span></br>
+</pass_assert_info>
+<pass_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486692790355">
+<span class="pass_span">验证是否出现预期的错误提示信息:该订单已存在！:pass</span></br>
+</pass_assert_info>
+<pass_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486692793855">
 <span class="pass_span">验证是否出现预期的错误提示信息:真实姓名不能为空:pass</span></br>
 </pass_assert_info>
-<pass_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486635541704">
+<pass_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486692793855">
 <span class="pass_span">验证是否出现预期的错误提示信息:真实姓名不能为空:pass</span></br>
 </pass_assert_info>
 </passed>

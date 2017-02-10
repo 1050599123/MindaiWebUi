@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="3" total="4" passed="1">
+<testng-results skipped="0" failed="2" total="4" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="18502" started-at="2017-02-09T10:18:47Z" finished-at="2017-02-09T10:19:05Z">
+  <suite name="Suite" duration-ms="18759" started-at="2017-02-10T02:12:59Z" finished-at="2017-02-10T02:13:17Z">
     <groups>
     </groups>
-    <test name="消费金融进件发标测试用例" duration-ms="18502" started-at="2017-02-09T10:18:47Z" finished-at="2017-02-09T10:19:05Z">
+    <test name="消费金融进件发标测试用例" duration-ms="18759" started-at="2017-02-10T02:12:59Z" finished-at="2017-02-10T02:13:17Z">
       <class name="org.webdriver.mindaiwebui.cases.Jjfabiaotest">
-        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Jjfabiaotest@79be0360]" name="setup" is-config="true" duration-ms="3174" started-at="2017-02-09T18:18:47Z" finished-at="2017-02-09T18:18:50Z">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Jjfabiaotest@79be0360]" name="setup" is-config="true" duration-ms="3613" started-at="2017-02-10T10:12:59Z" finished-at="2017-02-10T10:13:02Z">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="ts(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Jjfabiaotest@79be0360]" name="ts" duration-ms="4111" started-at="2017-02-09T18:18:50Z" description="发标失败用例" data-provider="JjfabiaoData" finished-at="2017-02-09T18:18:54Z">
+        <test-method status="FAIL" signature="ts(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Jjfabiaotest@79be0360]" name="ts" duration-ms="4083" started-at="2017-02-10T10:13:02Z" description="发标失败用例" data-provider="JjfabiaoData" finished-at="2017-02-10T10:13:06Z">
           <params>
             <param index="0">
               <value>
@@ -159,7 +159,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ts -->
-        <test-method status="FAIL" signature="ts(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Jjfabiaotest@79be0360]" name="ts" duration-ms="3501" started-at="2017-02-09T18:18:54Z" description="发标失败用例" data-provider="JjfabiaoData" finished-at="2017-02-09T18:18:57Z">
+        <test-method status="PASS" signature="ts(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Jjfabiaotest@79be0360]" name="ts" duration-ms="3477" started-at="2017-02-10T10:13:06Z" description="发标失败用例" data-provider="JjfabiaoData" finished-at="2017-02-10T10:13:10Z">
           <params>
             <param index="0">
               <value>
@@ -252,50 +252,10 @@
               </value>
             </param>
           </params>
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[expected [0] but found [1]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [0] but found [1]
-	at org.testng.Assert.fail(Assert.java:94)
-	at org.testng.Assert.failNotEquals(Assert.java:496)
-	at org.testng.Assert.assertEquals(Assert.java:125)
-	at org.testng.Assert.assertEquals(Assert.java:372)
-	at org.testng.Assert.assertEquals(Assert.java:382)
-	at org.webdriver.mindaiwebui.utils.Assertion.VerityError(Assertion.java:1042)
-	at org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts(Jjfabiaotest.java:41)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:85)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:639)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:821)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1131)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
-	at org.testng.TestRunner.privateRun(TestRunner.java:773)
-	at org.testng.TestRunner.run(TestRunner.java:623)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:357)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:352)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:310)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:259)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1185)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1110)
-	at org.testng.TestNG.run(TestNG.java:1018)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ts -->
-        <test-method status="PASS" signature="ts(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Jjfabiaotest@79be0360]" name="ts" duration-ms="3701" started-at="2017-02-09T18:18:58Z" description="发标失败用例" data-provider="JjfabiaoData" finished-at="2017-02-09T18:19:01Z">
+        <test-method status="PASS" signature="ts(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Jjfabiaotest@79be0360]" name="ts" duration-ms="3496" started-at="2017-02-10T10:13:10Z" description="发标失败用例" data-provider="JjfabiaoData" finished-at="2017-02-10T10:13:13Z">
           <params>
             <param index="0">
               <value>
@@ -391,7 +351,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ts -->
-        <test-method status="FAIL" signature="ts(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Jjfabiaotest@79be0360]" name="ts" duration-ms="3447" started-at="2017-02-09T18:19:01Z" description="发标失败用例" data-provider="JjfabiaoData" finished-at="2017-02-09T18:19:05Z">
+        <test-method status="FAIL" signature="ts(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Jjfabiaotest@79be0360]" name="ts" duration-ms="3492" started-at="2017-02-10T10:13:13Z" description="发标失败用例" data-provider="JjfabiaoData" finished-at="2017-02-10T10:13:17Z">
           <params>
             <param index="0">
               <value>
@@ -527,7 +487,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ts -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.webdriver.mindaiwebui.cases.Jjfabiaotest@79be0360]" name="tearDown" is-config="true" duration-ms="436" started-at="2017-02-09T18:19:05Z" finished-at="2017-02-09T18:19:05Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.webdriver.mindaiwebui.cases.Jjfabiaotest@79be0360]" name="tearDown" is-config="true" duration-ms="447" started-at="2017-02-10T10:13:17Z" finished-at="2017-02-10T10:13:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
