@@ -16,14 +16,14 @@
 	<parameter name="recipients" value="lirenjie@mindai.com" /> <!-- 测试报告邮件发送：收件人，多个用,号隔开-->
     <parameter name="reportTitle" value="自动化测试报告" />  <!--测试报告标题-->
 	<listeners><!-- 监听器设置-->
-        <listener class-name="org.webdriver.patatiumwebui.utils.TestListener"></listener>
-        <listener class-name="org.webdriver.patatiumwebui.utils.TestReport"></listener>
+        <listener class-name="org.webdriver.mindaiwebui.utils.TestListener"></listener>
+        <listener class-name="org.webdriver.mindaiwebui.utils.TestReport"></listener>
     </listeners>
     <test name="后台管理登录"> <!-- 测试用例描述-->
         <!--<parameter name="driver" value="FirefoxDriver" /> &lt;!&ndash;测试浏览器：支持火狐，谷歌，IE&ndash;&gt;-->
         <!--<parameter name="nodeURL" value="" /> &lt;!&ndash;selenium grid分布式运行node节点url，如不用分布式运行，则留空&ndash;&gt;-->
         <classes>
-                  <class name="cases.fabiaotest">                          
+                  <class name="org.webdriver.mindaiwebui.cases.fabiaotest">                          
                   </class>
         </classes>
       </test> <!-- Test -->
