@@ -55,4 +55,55 @@
            <locator type="linkText" timeout="3" value="登录"  desc="登录按钮">登录按钮</locator>
            <locator type="linkText" timeout="3" value="注册"  desc="注册按钮">注册按钮</locator>
 	</page>
+	
+		    <page pagename="org.webdriver.mindaiwebui.pageObject.FabiaoPage" value="" desc="后台发标页面">
+        <!--Desc:元素的描述，元素的中文描述信息     lirenjie-->
+           <!-- 借款人信息 -->
+		   <locator type="xpath" timeout="3" value=".//*[@id='userName']"  desc="借款人用户名输入框">借款人用户名输入框</locator>
+		    <!-- 项目基本信息    lirenjie-->
+		   <locator type="xpath" timeout="3" value="(//input[@name='isNovice'])[2]"  desc="选择是新手标">选择是新手标</locator>		   
+		   <locator type="id" timeout="3" value="borrowAccountFront"  desc="借款金额输入框">借款金额输入框</locator>
+		   <locator type="id" timeout="3" value="borrowApr"  desc="借款利率输入框">借款利率输入框</locator>
+		   <locator type="xpath" timeout="3" value=".//*[@id='fm']/div/div[2]/div[2]/div[1]/div/span[2]/input[1]"  desc="期限类型选择">期限类型选择</locator>
+		   <locator type="id" timeout="3" value="_easyui_combobox_14"  desc="固定期限选择">固定期限选择</locator>
+		   		   		   
+		   <locator type="id" timeout="3" value="borrowTerm"  desc="借款期限输入框">借款期限输入框</locator> 
+		   <locator type="xpath" timeout="3" value=".//*[@id='fm']/div/div[2]/div[3]/div[1]/div/span[2]/input[1]"  desc="业务类型选择">业务类型选择</locator>
+		   <locator type="id" timeout="3" value="_easyui_combobox_3"  desc="选择民担保">选择民担保</locator>
+
+		   <locator type="id" timeout="3" value="receiveCheckBox"  desc="勾选代收账户">勾选代收账户</locator>		   
+		   <locator type="id" timeout="3" value="proxyReceiveUserName"  desc="代收账户输入框">代收账户输入框</locator>	
+		   
+		   <locator type="id" timeout="3" value="repayCheckBox"  desc="勾选代还账户">勾选代还账户</locator>		   
+		   <locator type="id" timeout="3" value="proxyRepayUserName"  desc="代还账户输入框">代还账户输入框</locator>		
+		   
+			<locator type="xpath" timeout="3" value="//form[@id='fm']/div/div[2]/div[7]/div[2]"  desc="勾选标题是否自动">勾选标题是否自动</locator>			   	 
+			<locator type="xpath" timeout="3" value="(//input[@name='isAutoCreateName'])[2]"  desc="标题选择否">标题选择否</locator>					   	 
+		   <locator type="id" timeout="3" value="projectName"  desc="标题输入框">标题输入框</locator>			   		   
+		   	<locator type="id" timeout="3" value="borrowNote"  desc="备注输入框">备注输入框</locator>
+		    <locator type="xpath" timeout="3" value="//a[@id='project_save']/span/span"  desc="保存按钮">保存按钮</locator>	    
+		    
+		   <!-- 费率设置     lirenjie-->
+		   	<locator type="name" timeout="3" value="isPreReceiveInterest"  desc="投资人利息为前置扣费">投资人利息为前置扣费</locator>		
+		   	<locator type="id" timeout="3" value="borrowerBreachRate_0"  desc="借款人提前还款违约金费率">借款人提前还款违约金费率</locator>
+		   	<locator type="id" timeout="3" value="fixed_day"  desc="借款人提前还款违约金天数">借款人提前还款违约金天数</locator>		 
+		   	<locator type="id" timeout="3" value="investorReceiveAdvanceRate"  desc="投资人提前还款补偿金费率">投资人提前还款补偿金费率</locator>	  	
+		   	<locator type="id" timeout="3" value="investorReceiveAdvanceDay"  desc="投资人提前还款补偿金天数">投资人提前还款补偿金天数</locator>	 
+		   	<locator type="xpath" timeout="3" value="(//input[@name='isPreReceiveRate'])[2]"  desc="借款费用扣收为前置扣费">借款费用扣收为前置扣费</locator>	
+		   	
+		   	<locator type="id" timeout="3" value="platformReceivePayRate"  desc="支付费率">支付费率</locator>	
+		   	<locator type="id" timeout="3" value="platformReceiveGuaranteeRate"  desc="担保费率">担保费率</locator>	
+		   	<locator type="id" timeout="3" value="platformReceiveConsultingRate"  desc="咨询费率">咨询费率</locator>		
+		   	<locator type="id" timeout="3" value="platformReceiveCommissionRate"  desc="佣金费率">佣金费率</locator>
+		   	<locator type="id" timeout="3" value="platformReceiveServiceRate"  desc="平台服务费率">平台服务费率</locator>					   		   		   				   		   				   			   	
+	</page>
+	
+	    <page pagename="org.webdriver.mindaiwebui.pageObject.HtLoginPage" value="" desc="存管后台录页面">
+        <!--Desc:后台登录页面     lirenjie-->	
+        
+		<locator type="xpath" timeout="3" value="//input[@id='username' and @class='login_text']"  desc="用户名">用户名输入框</locator>
+		<locator type="xpath" timeout="3" value="//input[@name='password' and @class='login_text1']"  desc="密码">密码输入框</locator>
+		<locator type="xpath" timeout="3" value="//input[contains(@id,'valicode')]"  desc="验证码">验证码输入框</locator>
+		<locator type="xpath" timeout="3" value=".//*[@id='loginInfo']/p[4]/input"  desc="登录">登录按钮</locator>
+	</page>
 </map>

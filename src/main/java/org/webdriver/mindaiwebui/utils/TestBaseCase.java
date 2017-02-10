@@ -13,6 +13,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.concurrent.TimeUnit;
 
 import org.testng.annotations.Parameters;
 import org.testng.annotations.BeforeTest;
@@ -37,7 +38,10 @@ public class TestBaseCase {
 				e.printStackTrace();
 			}
 			System.out.println(nodeURL);
-			this.driver.manage().window().maximize();
+			//最大化浏览器
+			//this.driver.manage().window().maximize();
+		    //等待页面加载，30秒内不加载成功即报超时
+			this.driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		}
 		else {
 			log.info("读取xml配置：浏览器:"+driver+"；gridNodeURL:"+nodeURL);
@@ -72,8 +76,8 @@ public class TestBaseCase {
 		{
 
 			case "FirefoxDriver" :
-				System.setProperty("webdriver.firefox.marionette","D:\\huohu\\geckodriver.exe");
-				System.setProperty("webdriver.firefox.bin", "D:\\huohu\\firefox.exe");
+				System.setProperty("webdriver.firefox.marionette","C:\\Program Files\\Mozilla Firefox\\geckodriver.exe");
+				System.setProperty("webdriver.firefox.bin", "C:\\Program Files\\Mozilla Firefox\\firefox.exe");
 				FirefoxProfile firefoxProfile=new FirefoxProfile();
 				//设置默认下载路径
 				firefoxProfile.setPreference("browser.download.folderList", 2);
