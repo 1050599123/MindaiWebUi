@@ -100,10 +100,18 @@
 	
 	    <page pagename="org.webdriver.mindaiwebui.pageObject.HtLoginPage" value="" desc="存管后台录页面">
         <!--Desc:后台登录页面     lirenjie-->	
-        
 		<locator type="xpath" timeout="3" value="//input[@id='username' and @class='login_text']"  desc="用户名">用户名输入框</locator>
 		<locator type="xpath" timeout="3" value="//input[@name='password' and @class='login_text1']"  desc="密码">密码输入框</locator>
 		<locator type="xpath" timeout="3" value="//input[contains(@id,'valicode')]"  desc="验证码">验证码输入框</locator>
 		<locator type="xpath" timeout="3" value=".//*[@id='loginInfo']/p[4]/input"  desc="登录">登录按钮</locator>
 	</page>
+	
+	 <page pagename="org.webdriver.mindaiwebui.pageObject.HouTai_LoginPage" value="" desc="存管后台登录页面">
+        <!--存管后台登陆页面，刘素娥-->	
+		<locator type="id" timeout="3" value="username"  desc="用户名">后台登陆用户名输入框</locator>
+		<locator type="id" timeout="3" value="loginPassword"  desc="密码">后台密码输入框</locator>
+		<locator type="id" timeout="3" value="valicode"  desc="验证码">后台验证码输入框</locator>
+		<locator type="className" timeout="3" value="login_button"  desc="登录">后台登录按钮</locator>
+	</page>
+	
 </map>
