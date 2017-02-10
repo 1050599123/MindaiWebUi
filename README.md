@@ -7,6 +7,7 @@
 2、idea/eclipse
 3、maven
 4、git
+5、selenium
 <h1>注意事项</h1>
 工程项目编码需要设置为UTF-8否则会出现中文乱码情况
 <h1>实现的功能</h1>
