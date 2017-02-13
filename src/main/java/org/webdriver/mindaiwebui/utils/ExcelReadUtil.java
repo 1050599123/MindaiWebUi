@@ -304,8 +304,8 @@ public class ExcelReadUtil {
 	private  static String formatDate(Date date,String format)
 	{
 		SimpleDateFormat formatter = new SimpleDateFormat(format);
-		System.out.println(formatter.format(date).toString());
-		return formatter.format(date).toString();
+		//System.out.println(formatter.format(date).toString());
+	    return formatter.format(date).toString();
 
 	}
 	public  static  void  main(String[] args)
