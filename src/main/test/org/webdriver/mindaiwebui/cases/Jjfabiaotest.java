@@ -25,7 +25,7 @@ import org.webdriver.mindaiwebui.utils.*;
 				//读取登录用例测试数据 
 				String filePath="src/main/resources/data/ExcelTests.xls";
 				//读取第一个sheet，第2行到第5行-第2到第18列之间的数据
-				return ExcelReadUtil.case_data_excel(0, 1, 4, 1, 18,filePath);
+				return ExcelReadUtil.case_data_excel(0, 1, 32, 1, 18,filePath);
 			}
 		   
 	    @Test(description="发标失败用例",dataProvider = "JjfabiaoData")
@@ -34,7 +34,7 @@ import org.webdriver.mindaiwebui.utils.*;
 			String BaseUrl= XmlReadUtil.getTestngParametersValue("testng.xml","BaseUrl");		
 			//调用发标方法
 			UpAction upAction=new UpAction(BaseUrl,realName,cardId,bankCardNo,phone,orderId,channel,product,amount,interestRate,isPreReceiveRate,platformReceiveServiceRate,borrowStyle,borrowTermType,borrowTermUnit,borrowTerm,borrowExpireDate,address,message);
-			action.sleep(2);   
+			action.sleep(1);   
 			//设置检查点
 		    Assertion.VerityTextPresent(message,"验证是否出现预期的错误提示信息:"+message);		    
 			//设置断言
