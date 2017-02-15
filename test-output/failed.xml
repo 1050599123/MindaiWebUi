@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <failed>
+<err_assert_info   method="org.webdriver.mindaiwebui.cases.fabiaotest.ts.1486992792076">
+<span class="pass_span">输入正确的用户名和密码，验证是否成功进入主页:pass</span></br>
+</err_assert_info>
 </failed>

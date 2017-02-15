@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <passed>
-<pass_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486694929084">
-<span class="pass_span">验证是否出现预期的错误提示信息:该订单已存在！:pass</span></br>
+<pass_assert_info   method="org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login.houtaiTaiLogin.1486992294458">
+<span class="pass_span">验证是否出现预期的错误提示信息:验证码错误:pass</span></br>
 </pass_assert_info>
-<pass_assert_info   method="org.webdriver.mindaiwebui.cases.Jjfabiaotest.ts.1486694929084">
-<span class="pass_span">验证是否出现预期的错误提示信息:该订单已存在！:pass</span></br>
+<pass_assert_info   method="org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login.houtaiTaiLogin.1486992311784">
+<span class="pass_span">验证是否出现预期的错误提示信息:验证码错误:pass</span></br>
+</pass_assert_info>
+<pass_assert_info   method="org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login.houtaiTaiLogin.1486992319492">
+<span class="pass_span">验证是否出现预期的错误提示信息:验证码错误:pass</span></br>
 </pass_assert_info>
 </passed>

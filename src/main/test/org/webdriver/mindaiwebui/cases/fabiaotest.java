@@ -41,11 +41,11 @@ import org.webdriver.mindaiwebui.utils.*;
 	    		String investorReceiveAdvanceDay, String platformReceivePayRate, String platformReceiveGuaranteeRate, 
 	    		String platformReceiveConsultingRate, String platformReceiveCommissionRate, String platformReceiveServiceRate) throws Exception, DocumentException{ 
 			//代替testng参数化的方法
-			String BaseUrl= XmlReadUtil.getTestngParametersValue("testing/lirenjie/testng.xml","BaseUrl");	
+			String BaseUrl= XmlReadUtil.getTestngParametersValue("testng.xml","HouTaiUrl");	
 			
 			 /***************************登录*********************/
 			//调用登录方法，输入正确的用户名和密码
-			new HtLoginAction(BaseUrl+"/admin/index/login","lirenjie" ,"123456","5781");
+			new HtLoginAction(BaseUrl+"admin/index/login","lirenjie" ,"123456","5781");
 			action.sleep(2);
 			//设置检查点
 			Assertion.VerityTextPresentPrecision("存管后台","输入正确的用户名和密码，验证是否成功进入主页");

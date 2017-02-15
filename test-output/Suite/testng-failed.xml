@@ -6,28 +6,29 @@
   <parameter name="smtpPort" value="465"/>
   <parameter name="reportTitle" value="自动化测试报告"/>
   <parameter name="nodeURL" value=""/>
-  <parameter name="smtpPassWord" value="Mindaitianxia2017"/>
-  <parameter name="reportUrl" value="http://192.168.1.224:8087/report.html"/>
+  <parameter name="smtpPassWord" value="123456Su"/>
+  <parameter name="reportUrl" value="http://192.168.1.193:8087/report.html"/>
   <parameter name="PassWord" value=""/>
   <parameter name="smtpHost" value="smtp.exmail.qq.com"/>
   <parameter name="driver" value="FirefoxDriver"/>
-  <parameter name="smtpUserName" value="hepeng@mindai.com"/>
-  <parameter name="recipients" value="hepeng@mindai.com"/>
-  <parameter name="BaseUrl" value="http://192.168.1.75:8088/"/>
-  <parameter name="logUrl" value="http://192.168.1.224:8088/log_2017-02-09.html"/>
+  <parameter name="smtpUserName" value="liusue@mindai.com"/>
+  <parameter name="recipients" value="liusue@mindai.com"/>
+  <parameter name="HouTaiUrl" value="http://121.196.208.139:8085/"/>
+  <parameter name="BaseUrl" value="http://121.196.215.15:8088/"/>
+  <parameter name="logUrl" value="http://192.168.1.193:8088/log_2017-02-10.html"/>
   <listeners>
     <listener class-name="org.webdriver.mindaiwebui.utils.TestListener"/>
     <listener class-name="org.webdriver.mindaiwebui.utils.TestReport"/>
   </listeners>
-  <test name="消费金融进件发标测试用例(failed)">
+  <test name="后台用户登陆用例(failed)">
     <classes>
-      <class name="org.webdriver.mindaiwebui.cases.Jjfabiaotest">
+      <class name="org.webdriver.mindaiwebui.cases.fabiaotest">
         <methods>
           <include name="tearDown"/>
-          <include name="ts" invocation-numbers="0 3"/>
           <include name="setup"/>
+          <include name="ts" invocation-numbers="0"/>
         </methods>
-      </class> <!-- org.webdriver.mindaiwebui.cases.Jjfabiaotest -->
+      </class> <!-- org.webdriver.mindaiwebui.cases.fabiaotest -->
     </classes>
-  </test> <!-- 消费金融进件发标测试用例(failed) -->
+  </test> <!-- 后台用户登陆用例(failed) -->
 </suite> <!-- Failed suite [Suite] -->
