@@ -87,7 +87,7 @@
                         <suiteXmlFile>${recipients}</suiteXmlFile>
                     </suiteXmlFiles>
                     <suiteXmlFiles>
-                        <suiteXmlFile>testng.xml</suiteXmlFile>
+                        <suiteXmlFile>testing\hepeng\testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
                 <dependencies>
