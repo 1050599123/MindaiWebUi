@@ -73,7 +73,7 @@ public class TestBaseCase {
 
 			case "FirefoxDriver" :
 				System.setProperty("webdriver.firefox.marionette","src\\main\\resources\\driver\\firefox\\geckodriver.exe");
-				System.setProperty("webdriver.firefox.bin", "D:\\firefox18\\an\\firefox.exe");
+				System.setProperty("webdriver.firefox.bin", "D:\\huohu\\firefox.exe");
 				FirefoxProfile firefoxProfile=new FirefoxProfile();
 				//设置默认下载路径
 				firefoxProfile.setPreference("browser.download.folderList", 2);
@@ -116,7 +116,7 @@ public class TestBaseCase {
 
 			case "FirefoxDriver" :
 				System.setProperty("webdriver.firefox.marionette","src\\main\\resources\\driver\\firefox\\geckodriver.exe");
-				System.setProperty("webdriver.firefox.bin", "D:\\firefox18\\an\\firefox.exe");
+				System.setProperty("webdriver.firefox.bin", "D:\\huohu\\firefox.exe");
 				FirefoxProfile firefoxProfile=new FirefoxProfile();
 				//设置默认下载路径
 				firefoxProfile.setPreference("browser.download.folderList", 2);
