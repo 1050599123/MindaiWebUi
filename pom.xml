@@ -81,6 +81,12 @@
                         -Dfile.encoding=UTF-8
                     </argLine>
                     <suiteXmlFiles>
+                        <suiteXmlFile>${driver}</suiteXmlFile>
+                    </suiteXmlFiles>
+                    <suiteXmlFiles>
+                        <suiteXmlFile>${recipients}</suiteXmlFile>
+                    </suiteXmlFiles>
+                    <suiteXmlFiles>
                         <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
