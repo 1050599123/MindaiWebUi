@@ -27,8 +27,8 @@
         <!--<parameter name="nodeURL" value="" /> &lt;!&ndash;selenium grid分布式运行node节点url，如不用分布式运行，则留空&ndash;&gt;-->
         <classes>
                   <!-- <class name="org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login" />    --> 
-                    <class name="org.webdriver.mindaiwebui.cases.Jjfabiaotest"> </class>     
-                 <!--  <class name="org.webdriver.mindaiwebui.cases.LoginTest1"> </class> --> 
+                 <!--   <class name="org.webdriver.mindaiwebui.cases.Jjfabiaotest"> </class>   -->   
+                   <class name="org.webdriver.mindaiwebui.cases.LoginTest1"> </class> 
         </classes>
       </test> <!-- Test -->
 </suite> <!-- Suite -->
