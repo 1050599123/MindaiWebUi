@@ -54,7 +54,10 @@
            <locator type="xpath" timeout="3" value="p/html/body/div[1]/div/ul[3]/li[1]/a[2]"  desc="退出按钮">退出按钮</locator>
            <locator type="linkText" timeout="3" value="登录"  desc="登录按钮">登录按钮</locator>
            <locator type="linkText" timeout="3" value="注册"  desc="注册按钮">注册按钮</locator>
+           <locator type="linkText" timeout="3" value="[退出]"  desc="退出按钮">退出按钮</locator>
 	</page>
+	
+
 	
 		    <page pagename="org.webdriver.mindaiwebui.pageObject.FabiaoPage" value="" desc="后台发标页面">
         <!--Desc:元素的描述，元素的中文描述信息     lirenjie-->
@@ -112,6 +115,38 @@
 		<locator type="id" timeout="3" value="loginPassword"  desc="密码">后台密码输入框</locator>
 		<locator type="id" timeout="3" value="valicode"  desc="验证码">后台验证码输入框</locator>
 		<locator type="className" timeout="3" value="login_button"  desc="登录">后台登录按钮</locator>
+	</page>
+			    
+	<page pagename="org.webdriver.mindaiwebui.pageObject.Registrationpage" value="" desc="注册页面">
+        <!--前台注册页面-->	
+		<locator type="id" timeout="3" value="regName"  desc="用户名">注册用户名输入框</locator>
+		<locator type="id" timeout="3" value="regPass"  desc="密码">注册密码输入框</locator>
+		<locator type="id" timeout="3" value="imgCode"  desc="图形验证码">图形验证码输入框</locator>
+		<locator type="id" timeout="3" value=""         desc="获取短信验证码">获取短信验证码</locator>
+		<locator type="id" timeout="3" value="smsCode"  desc="短信验证码">短信验证码输入框</locator>
+		<locator type="id" timeout="3" value="inviter"  desc="推荐人">推荐人输入框</locator>
+		<locator type="id" timeout="3" value="sub"  desc="立即注册">立即注册按钮</locator>
+	</page>
+		<page pagename="org.webdriver.mindaiwebui.pageObject.Accountpage" value="" desc="开户页面">
+        <!--存管开户页面-->	
+		<locator type="id" timeout="3" value="realName"  desc="真实姓名">真实姓名输入框</locator>
+		<locator type="id" timeout="3" value="cardId"  desc="身份证号">身份证号输入框</locator>
+		<locator type="id" timeout="3" value="bankCard"  desc="银行卡号">银行卡号输入框</locator>
+		<locator type="id" timeout="3" value="bankCardName"  desc="银行名称">银行名称输入框</locator>
+		<locator type="id" timeout="3" value="province"  desc="选择省份">选择省份</locator>
+		<locator type="id" timeout="3" value="city"  desc="选择地区">选择地区</locator>
+		<locator type="id" timeout="3" value="SMScode"  desc="短信验证码">短信验证码输入框</locator>
+		<locator type="id" timeout="3" value="phone"  desc="银行卡预留手机号">银行卡预留手机号输入框</locator>
+		<locator type="className" timeout="3" value="open-submit"  desc="开通存管账户">开通存管账户按钮</locator>
+	</page>
+		<page pagename="org.webdriver.mindaiwebui.pageObject.Rechargepage" value="" desc="充值页面">
+        <!--存管充值页面页面-->	
+		<locator type="linkText" timeout="3" value="充值"  desc="充值">充值按钮</locator>
+		<locator type="id" timeout="3" value="money"  desc="充值金额">充值金额输入框</locator>
+		<locator type="id" timeout="3" value="smsCode"  desc="短信验证码">短信验证码输入框</locator>
+		<locator type="xpath" timeout="3" value="/html/body/div[6]/div[2]"  desc="充值提示框">充值提示框</locator>
+		<locator type="linkText" timeout="3" value="我的账户 "   desc="我的账户">我的账户</locator>
+		<locator type="id" timeout="3" value="agentSubmit"  desc="提交">提交按钮</locator>
 	</page>
 	
 </map>
