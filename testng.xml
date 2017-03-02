@@ -28,7 +28,7 @@
         <classes>
                   <!-- <class name="org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login" />    --> 
                  <!--   <class name="org.webdriver.mindaiwebui.cases.Jjfabiaotest"> </class>   -->   
-                   <class name="org.webdriver.mindaiwebui.cases.LoginTest1"> </class> 
+                   <class name="org.webdriver.mindaiwebui.cases.InvestmentTest"> </class> 
         </classes>
       </test> <!-- Test -->
 </suite> <!-- Suite -->
