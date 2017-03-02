@@ -87,7 +87,7 @@
                         <suiteXmlFile>${recipients}</suiteXmlFile>
                     </suiteXmlFiles>
                     <suiteXmlFiles>
-                        <suiteXmlFile>${testing}</suiteXmlFile>
+                        <suiteXmlFile>${testng}</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
                 <dependencies>
