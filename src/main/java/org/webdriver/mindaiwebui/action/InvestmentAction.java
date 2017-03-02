@@ -20,6 +20,7 @@ public class InvestmentAction extends TestBaseCase{
     	InvestmentPage InvestmentPage=new InvestmentPage();
         ElementAction action=new ElementAction(); 
         action.click(InvestmentPage.我要投资按钮());
+        action.sleep(1);
         action.click(InvestmentPage.立即去投资按钮());
         action.clear(InvestmentPage.投资金额输入框());
         action.type(InvestmentPage.投资金额输入框(),amount);
@@ -30,7 +31,7 @@ public class InvestmentAction extends TestBaseCase{
         action.type(InvestmentPage.短信验证码输入框(),smsCode);
         action.sleep(1);
         action.click(InvestmentPage.确认投资按钮());
-        action.sleep(3);
+        action.sleep(4);
      //   System.out.println("当前网址为:"+action.getUrl());
         
   

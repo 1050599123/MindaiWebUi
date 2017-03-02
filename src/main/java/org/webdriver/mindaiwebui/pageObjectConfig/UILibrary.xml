@@ -154,7 +154,7 @@
         <!--存管投资页面-->	
 		<locator type="linkText" timeout="3" value="我要投资"  desc="我要投资">我要投资按钮</locator>
 		<locator type="xpath" timeout="3" value="/html/body/div[3]/ul"  desc="项目列表">项目列表</locator>
-		<locator type="xpath" timeout="3" value="/html/body/div[3]/ul/li[1]/div/div/a"  desc="立即去投资按钮">立即去投资按钮</locator>
+		<locator type="xpath" timeout="3" value="/html/body/div[3]/ul/li[3]/div/div/a"  desc="立即去投资按钮">立即去投资按钮</locator>
 		<locator type="id" timeout="3" value="amount"  desc="投资金额输入框">投资金额输入框</locator>
 		<locator type="xpath" timeout="3" value="//*[@id='investBtn']"  desc="立即投资按钮">立即投资按钮</locator>
 		<locator type="xpath" timeout="3" value="//div[2]/div/i"  desc="关闭按钮">关闭按钮</locator>

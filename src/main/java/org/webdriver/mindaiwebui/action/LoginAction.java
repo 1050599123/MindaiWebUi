@@ -29,6 +29,7 @@ public class LoginAction extends TestBaseCase{
         action.type(loginPage.验证码输入框(),imgCode);
         action.sleep(1);
         action.click(loginPage.登录按钮());
+        action.sleep(3);
      //   System.out.println("当前网址为:"+action.getUrl());
         
   
