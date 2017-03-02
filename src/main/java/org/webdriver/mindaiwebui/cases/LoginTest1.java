@@ -28,7 +28,7 @@ import org.webdriver.mindaiwebui.utils.*;
 				//读取登录用例测试数据 
 			   String filePath="src/main/resources/data/ExcelTests.xls";
 				//读取第一个sheet，第2行到第5行-第2到第4列之间的数据
-			   return ExcelReadUtil.case_data_excel(1, 9, 26, 1, 12,filePath);
+			   return ExcelReadUtil.case_data_excel(1, 1, 1, 1, 12,filePath);
 			}
 		   
 	    @Test(description="测试用例",dataProvider = "longinData")

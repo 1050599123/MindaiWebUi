@@ -25,13 +25,13 @@ import org.webdriver.mindaiwebui.utils.*;
 				//读取登录用例测试数据 
 				String filePath="src/main/resources/data/ExcelTests.xls";
 				//读取第一个sheet，第2行到第5行-第2到第18列之间的数据
-				return ExcelReadUtil.case_data_excel(0, 1, 32, 1, 18,filePath);
+				return ExcelReadUtil.case_data_excel(3, 1, 6, 1, 18,filePath);
 			}
 		   
 	    @Test(description="发标失败用例",dataProvider = "JjfabiaoData")
 	    public void ts( String realName,String cardId,String bankCardNo,String phone,String orderId ,String  channel , String product,String amount,String interestRate, String isPreReceiveRate,String platformReceiveServiceRate, String borrowStyle,String borrowTermType,String borrowTermUnit, String borrowTerm, String borrowExpireDate,String address, String message) throws Exception, DocumentException{ 
 			//代替testng参数化的方法
-			String BaseUrl= XmlReadUtil.getTestngParametersValue("testng.xml","BaseUrl");		
+			String BaseUrl= XmlReadUtil.getTestngParametersValue("testng.xml","XfdUrl");		
 			//调用发标方法
 			UpAction upAction=new UpAction(BaseUrl,realName,cardId,bankCardNo,phone,orderId,channel,product,amount,interestRate,isPreReceiveRate,platformReceiveServiceRate,borrowStyle,borrowTermType,borrowTermUnit,borrowTerm,borrowExpireDate,address,message);
 			action.sleep(2);   

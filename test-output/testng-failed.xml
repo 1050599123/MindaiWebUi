@@ -9,6 +9,7 @@
   <parameter name="smtpPassWord" value="123456Su"/>
   <parameter name="reportUrl" value="http://192.168.1.193:8087/report.html"/>
   <parameter name="PassWord" value=""/>
+  <parameter name="XfdUrl" value="http://121.196.215.15:8088/"/>
   <parameter name="smtpHost" value="smtp.exmail.qq.com"/>
   <parameter name="driver" value="FirefoxDriver"/>
   <parameter name="smtpUserName" value="liusue@mindai.com"/>
@@ -22,13 +23,13 @@
   </listeners>
   <test name="后台用户登陆用例(failed)">
     <classes>
-      <class name="org.webdriver.mindaiwebui.cases.LoginTest1">
+      <class name="org.webdriver.mindaiwebui.cases.Jjfabiaotest">
         <methods>
           <include name="tearDown"/>
+          <include name="ts" invocation-numbers="2 3 5 7"/>
           <include name="setup"/>
-          <include name="Login" invocation-numbers="0"/>
         </methods>
-      </class> <!-- org.webdriver.mindaiwebui.cases.LoginTest1 -->
+      </class> <!-- org.webdriver.mindaiwebui.cases.Jjfabiaotest -->
     </classes>
   </test> <!-- 后台用户登陆用例(failed) -->
 </suite> <!-- Failed suite [Suite] -->
