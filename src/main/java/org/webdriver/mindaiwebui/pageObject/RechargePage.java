@@ -67,6 +67,26 @@ public Locator 我的账户() throws IOException
   return locator;
 }
 /***
+* 确认按钮
+* @return
+* @throws IOException
+*/
+public Locator 确认按钮() throws IOException
+{
+  Locator locator=getLocator("确认按钮");
+  return locator;
+}
+/***
+* 关闭按钮
+* @return
+* @throws IOException
+*/
+public Locator 关闭按钮() throws IOException
+{
+  Locator locator=getLocator("关闭按钮");
+  return locator;
+}
+/***
 * 提交
 * @return
 * @throws IOException

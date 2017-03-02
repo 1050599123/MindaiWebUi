@@ -28,7 +28,7 @@ import org.webdriver.mindaiwebui.utils.*;
 				//读取登录用例测试数据 
 			   String filePath="src/main/resources/data/ExcelTests.xls";
 				//读取第一个sheet，第2行到第5行-第2到第4列之间的数据
-			   return ExcelReadUtil.case_data_excel(1, 6, 7, 1, 12,filePath);
+			   return ExcelReadUtil.case_data_excel(1, 7, 8, 1, 12,filePath);
 			}
 		   
 	    @Test(description="测试用例",dataProvider = "longinData")
@@ -39,16 +39,16 @@ import org.webdriver.mindaiwebui.utils.*;
 			LoginAction loginAction=new LoginAction(BaseUrl+"/login.html",userName,password,imgCode);
 			action.sleep(1); 
 			//调用开户方法
-		  //  AccountAction AccountAction=new AccountAction(regName, cardId, bankCard, Province, region, phone, smsCode);
-		//	action.sleep(3); 
+    //      AccountAction AccountAction=new AccountAction(regName, cardId, bankCard, Province, region, phone, smsCode);
+	//		action.sleep(3); 
 			//调用充值方法
-		//	RechargeAction RechargeAction=new RechargeAction(money,smsCode); 
-		//	action.sleep(1); 
+			RechargeAction RechargeAction=new RechargeAction(money,smsCode); 
+	//		action.sleep(1); 
+			//调用退出方法
+			SignoutAction SignoutAction=new SignoutAction(); 
 			//设置检查点
 		//	Assertion.VerityTextPresent(message,"验证是否出现预期的错误提示信息:"+message);
 		//	action.sleep(1); 
-			
-			SignoutAction SignoutAction=new SignoutAction(); 
 		//	Assertion.VerityTextdb(message,"检查数据库用户表是否存在该电话号码的用户信息:"+message);
 			//Assertion.VerityText(locator, exceptText);
 		    

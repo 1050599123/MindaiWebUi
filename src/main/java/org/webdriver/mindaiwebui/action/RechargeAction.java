@@ -27,7 +27,8 @@ public class RechargeAction extends TestBaseCase{
         action.clear(RechargePage.短信验证码输入框());
         action.type(RechargePage.短信验证码输入框(),smsCode);   
         action.click(RechargePage.提交按钮());
-        action.sleep(3);       
+        action.sleep(3);   
+        action.click(RechargePage.确认按钮());
      //   System.out.println("当前网址为:"+action.getUrl());
         
   
