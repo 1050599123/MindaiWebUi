@@ -1,0 +1,123 @@
+[2017-02-28 21:54:17,757] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-28 21:54:17,760] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-02-28 21:54:21,983] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 21:54:21,988] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 21:54:23,025] INFO  org.webdriver.mindaiwebui.pageObject.LoginPage 打开浏览器，访问http://121.196.208.139:3030//login.html网址!
+[2017-02-28 21:54:23,038] ERROR org.webdriver.mindaiwebui.pageObject.LoginPage 没有找到用户名输入框页面元素
+[2017-02-28 21:54:23,141] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--failed
+[2017-02-28 21:54:23,141] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 21:54:23,147] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--failed
+[2017-02-28 21:54:23,148] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 21:54:23,148] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 21:54:23,150] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 21:54:25,104] INFO  org.webdriver.mindaiwebui.pageObject.LoginPage 打开浏览器，访问http://121.196.208.139:3030//login.html网址!
+[2017-02-28 21:54:25,231] ERROR org.webdriver.mindaiwebui.pageObject.LoginPage 没有找到用户名输入框页面元素
+[2017-02-28 21:54:25,234] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--failed
+[2017-02-28 21:54:25,234] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 21:54:25,242] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--failed
+[2017-02-28 21:54:25,242] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 21:54:25,242] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 21:54:25,243] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 21:54:26,076] INFO  org.webdriver.mindaiwebui.pageObject.LoginPage 打开浏览器，访问http://121.196.208.139:3030//login.html网址!
+[2017-02-28 21:54:26,115] ERROR org.webdriver.mindaiwebui.pageObject.LoginPage 没有找到用户名输入框页面元素
+[2017-02-28 21:54:26,119] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--failed
+[2017-02-28 21:54:26,119] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 21:54:26,125] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--failed
+[2017-02-28 21:54:26,126] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 21:54:26,126] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 21:54:26,127] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 21:54:26,491] INFO  org.webdriver.mindaiwebui.pageObject.LoginPage 打开浏览器，访问http://121.196.208.139:3030//login.html网址!
+[2017-02-28 21:54:26,537] ERROR org.webdriver.mindaiwebui.pageObject.LoginPage 没有找到用户名输入框页面元素
+[2017-02-28 21:54:26,540] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--failed
+[2017-02-28 21:54:26,540] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 21:54:26,548] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--failed
+[2017-02-28 21:54:26,548] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 21:54:27,031] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-02-28 22:01:27,748] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-28 22:01:27,750] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-02-28 22:01:31,116] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 22:01:31,120] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 22:01:34,311] INFO  org.webdriver.mindaiwebui.pageObject.LoginPage 打开浏览器，访问http://121.196.208.139:3030//login.html网址!
+[2017-02-28 22:01:34,328] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:34,433] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.id:userName]
+[2017-02-28 22:01:34,434] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:34,508] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.id:userNamevalue:13928755754]
+[2017-02-28 22:01:34,508] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:password]
+[2017-02-28 22:01:34,541] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.id:password]
+[2017-02-28 22:01:34,541] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:password]
+[2017-02-28 22:01:34,587] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.id:passwordvalue:123123]
+[2017-02-28 22:01:34,588] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:imgCode]
+[2017-02-28 22:01:34,610] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:imgCode]
+[2017-02-28 22:01:34,611] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:imgCode]
+[2017-02-28 22:01:34,650] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:imgCodevalue:123456]
+[2017-02-28 22:01:35,650] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:sub]
+[2017-02-28 22:01:35,734] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.id:sub]成功！
+[2017-02-28 22:01:36,735] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--passed
+[2017-02-28 22:01:36,736] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 22:01:36,737] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--passed
+[2017-02-28 22:01:36,738] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 22:01:36,738] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 22:01:36,739] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 22:01:37,672] INFO  org.webdriver.mindaiwebui.pageObject.LoginPage 打开浏览器，访问http://121.196.208.139:3030//login.html网址!
+[2017-02-28 22:01:37,686] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:37,811] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.id:userName]
+[2017-02-28 22:01:37,812] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:37,853] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.id:userNamevalue:13928755754]
+[2017-02-28 22:01:37,853] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:password]
+[2017-02-28 22:01:37,881] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.id:password]
+[2017-02-28 22:01:37,881] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:password]
+[2017-02-28 22:01:37,918] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.id:passwordvalue:123456]
+[2017-02-28 22:01:37,918] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:imgCode]
+[2017-02-28 22:01:37,938] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:imgCode]
+[2017-02-28 22:01:37,938] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:imgCode]
+[2017-02-28 22:01:37,973] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:imgCodevalue:123456]
+[2017-02-28 22:01:38,973] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:sub]
+[2017-02-28 22:01:39,065] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.id:sub]成功！
+[2017-02-28 22:01:40,067] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--passed
+[2017-02-28 22:01:40,067] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 22:01:40,071] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--passed
+[2017-02-28 22:01:40,071] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 22:01:40,072] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 22:01:40,072] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 22:01:40,761] INFO  org.webdriver.mindaiwebui.pageObject.LoginPage 打开浏览器，访问http://121.196.208.139:3030//login.html网址!
+[2017-02-28 22:01:40,877] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:41,434] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:41,946] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:42,454] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:42,964] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:43,474] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:43,981] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:44,490] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:44,999] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:45,511] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:46,024] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:46,533] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:47,039] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:01:47,547] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:04:42,851] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-28 22:04:42,853] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-02-28 22:04:46,139] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 22:04:46,144] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-02-28 22:04:47,078] INFO  org.webdriver.mindaiwebui.pageObject.LoginPage 打开浏览器，访问http://121.196.208.139:3030//login.html网址!
+[2017-02-28 22:04:47,093] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:04:47,185] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.id:userName]
+[2017-02-28 22:04:47,186] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-02-28 22:04:47,234] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.id:userNamevalue:13600005005]
+[2017-02-28 22:04:47,234] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:password]
+[2017-02-28 22:04:47,267] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.id:password]
+[2017-02-28 22:04:47,267] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:password]
+[2017-02-28 22:04:47,309] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.id:passwordvalue:123456]
+[2017-02-28 22:04:47,309] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:imgCode]
+[2017-02-28 22:04:47,336] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:imgCode]
+[2017-02-28 22:04:47,336] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:imgCode]
+[2017-02-28 22:04:47,370] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:imgCodevalue:1234]
+[2017-02-28 22:04:48,371] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:sub]
+[2017-02-28 22:04:48,451] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.id:sub]成功！
+[2017-02-28 22:04:49,453] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--passed
+[2017-02-28 22:04:49,454] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 22:04:49,476] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标失败用例--passed
+[2017-02-28 22:04:49,476] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---end
+[2017-02-28 22:04:49,907] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------

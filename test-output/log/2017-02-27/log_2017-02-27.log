@@ -1,0 +1,382 @@
+[2017-02-27 16:09:29,617] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-27 16:09:29,619] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的${driver}浏览器并将其初始化
+
+[2017-02-27 16:09:29,759] ERROR org.webdriver.mindaiwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2017-02-27 16:09:30,080] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:09:30,081] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:09:30,106] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:09:30,107] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:09:30,108] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:09:30,109] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:09:30,110] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:09:30,111] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:10:35,272] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-27 16:10:35,274] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-02-27 16:10:39,582] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:10:39,586] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:10:40,695] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:10:40,713] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:10:40,726] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:10:40,726] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:10:40,730] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:10:40,731] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:10:40,731] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:10:40,732] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:10:41,075] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:10:41,087] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:10:41,089] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:10:41,090] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:10:41,096] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:10:41,097] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:10:41,097] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:10:41,098] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:10:41,450] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:10:41,460] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:10:41,462] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:10:41,463] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:10:41,465] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:10:41,466] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:10:41,466] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:10:41,466] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:10:41,774] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:10:41,809] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:10:41,811] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:10:41,812] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:10:41,815] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:10:41,815] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:10:42,341] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-02-27 16:11:21,423] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-27 16:11:21,424] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-02-27 16:11:24,490] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:11:24,494] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:11:25,373] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:11:25,387] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:11:25,394] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:11:25,395] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:11:25,403] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:11:25,404] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:11:25,404] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:11:25,405] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:11:25,742] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:11:25,785] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:11:25,787] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:11:25,787] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:11:25,790] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:11:25,791] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:11:25,791] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:11:25,791] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:11:26,152] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:11:26,167] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:11:26,169] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:11:26,169] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:11:26,173] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:11:26,181] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:11:26,181] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:11:26,182] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:11:26,527] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:11:26,543] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:11:26,547] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:11:26,547] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:11:26,550] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:11:26,550] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:11:26,926] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-02-27 16:11:28,834] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-02-27 16:17:04,572] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-27 16:17:04,574] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-02-27 16:17:07,630] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:17:07,634] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:17:08,407] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:17:08,578] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:17:08,584] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:17:08,585] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:17:08,588] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:17:08,589] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:17:08,589] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:17:08,590] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:17:08,910] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:17:08,945] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:17:08,949] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:17:08,950] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:17:08,954] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:17:08,954] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:17:08,954] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:17:08,955] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:17:09,302] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:17:09,318] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:17:09,321] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:17:09,321] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:17:09,330] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:17:09,331] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:17:09,331] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:17:09,332] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:17:09,644] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:17:09,680] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:17:09,683] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:17:09,683] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:17:09,685] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:17:09,685] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:17:10,189] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-02-27 16:23:30,846] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-27 16:23:30,848] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-02-27 16:23:33,946] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标用例---start
+[2017-02-27 16:23:33,951] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标用例---start
+[2017-02-27 16:23:35,028] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://121.196.208.139:8085/admin/index/login网址!
+[2017-02-27 16:23:35,065] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2017-02-27 16:23:35,180] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2017-02-27 16:23:35,180] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2017-02-27 16:23:35,226] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:lirenjie]
+[2017-02-27 16:23:35,226] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2017-02-27 16:23:35,254] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.xpath://input[@name='password' and @class='login_text1']]
+[2017-02-27 16:23:35,254] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2017-02-27 16:23:35,293] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.xpath://input[@name='password' and @class='login_text1']value:123456]
+[2017-02-27 16:23:35,294] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.xpath://input[contains(@id,'valicode')]]
+[2017-02-27 16:23:35,315] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.xpath://input[contains(@id,'valicode')]]
+[2017-02-27 16:23:35,315] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.xpath://input[contains(@id,'valicode')]]
+[2017-02-27 16:23:35,355] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.xpath://input[contains(@id,'valicode')]value:5781]
+[2017-02-27 16:23:36,355] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2017-02-27 16:23:36,622] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2017-02-27 16:23:38,622] INFO  org.webdriver.mindaiwebui.utils.Assertion 输入正确的用户名和密码，验证是否成功进入主页:【Assert验证】:页面是否出现【预期值：存管后台】字符串
+[2017-02-27 16:23:38,662] ERROR org.webdriver.mindaiwebui.utils.Assertion 【Assert验证  failed!】
+[2017-02-27 16:23:39,122] ERROR org.webdriver.mindaiwebui.utils.ScreenShot 错误截图：F:\testcase\webuiauto\test-output\snapshot\2017-02-27 162338664.jpg
+[2017-02-27 16:23:39,126] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标用例--failed
+[2017-02-27 16:23:39,127] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标用例---end
+[2017-02-27 16:23:39,132] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 发标用例--failed
+[2017-02-27 16:23:39,132] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标用例---end
+[2017-02-27 16:23:39,502] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-02-27 16:26:46,026] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-27 16:26:46,027] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-02-27 16:26:49,077] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:26:49,082] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:26:49,939] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:26:49,953] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:26:49,959] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:26:49,959] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:26:49,962] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:26:49,962] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:26:49,963] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:26:49,964] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:26:50,315] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:26:50,327] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:26:50,333] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:26:50,333] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:26:50,341] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:26:50,341] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:26:50,341] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:26:50,342] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:26:50,710] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:26:50,722] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:26:50,724] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:26:50,724] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:26:50,735] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:26:50,735] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:26:50,735] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:26:50,736] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:26:51,043] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:26:51,076] ERROR org.webdriver.mindaiwebui.pageObject.Registrationpage 没有找到注册用户名框输入框页面元素
+[2017-02-27 16:26:51,079] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:26:51,079] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:26:51,087] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:26:51,087] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:26:51,477] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-02-27 16:30:39,051] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-27 16:30:39,053] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-02-27 16:30:42,134] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:30:42,138] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:30:43,310] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:30:43,353] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册用户名输入框方式[By.name:userName]
+[2017-02-27 16:30:43,428] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:注册用户名输入框[By.name:userName]
+[2017-02-27 16:30:43,429] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册用户名输入框方式[By.name:userName]
+[2017-02-27 16:30:43,488] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：注册用户名输入框[By.name:userNamevalue:15011540045]
+[2017-02-27 16:30:43,488] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册密码输入框方式[By.name:password]
+[2017-02-27 16:30:43,520] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:注册密码输入框[By.name:password]
+[2017-02-27 16:30:43,521] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册密码输入框方式[By.name:password]
+[2017-02-27 16:30:43,559] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：注册密码输入框[By.name:passwordvalue:123456]
+[2017-02-27 16:30:43,560] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码输入框方式[By.name:imgCode]
+[2017-02-27 16:30:43,591] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:图形验证码输入框[By.name:imgCode]
+[2017-02-27 16:30:43,591] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码输入框方式[By.name:imgCode]
+[2017-02-27 16:30:43,626] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：图形验证码输入框[By.name:imgCodevalue:1234]
+[2017-02-27 16:30:43,626] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：短信验证码输入框方式[By.name:smsCode]
+[2017-02-27 16:30:43,664] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:短信验证码输入框[By.name:smsCode]
+[2017-02-27 16:30:43,664] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：短信验证码输入框方式[By.name:smsCode]
+[2017-02-27 16:30:43,705] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：短信验证码输入框[By.name:smsCodevalue:123456]
+[2017-02-27 16:30:43,705] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：推荐人输入框方式[By.id:inviter]
+[2017-02-27 16:30:43,731] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:推荐人输入框[By.id:inviter]
+[2017-02-27 16:30:43,731] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：推荐人输入框方式[By.id:inviter]
+[2017-02-27 16:30:43,771] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：推荐人输入框[By.id:invitervalue:13928755754]
+[2017-02-27 16:30:44,771] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：立即注册按钮方式[By.id:sub]
+[2017-02-27 16:30:44,846] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：立即注册按钮[By.id:sub]成功！
+[2017-02-27 16:30:45,847] INFO  org.webdriver.mindaiwebui.utils.Assertion 验证是否出现预期的错误提示信息:账户名与密码不匹配，请重新输入:【Assert验证】:页面是否出现【预期值：账户名与密码不匹配，请重新输入】字符串
+[2017-02-27 16:30:45,858] ERROR org.webdriver.mindaiwebui.utils.Assertion 【Assert验证  failed!】
+[2017-02-27 16:30:46,075] ERROR org.webdriver.mindaiwebui.utils.ScreenShot 错误截图：F:\testcase\webuiauto\test-output\snapshot\2017-02-27 163045860.jpg
+[2017-02-27 16:30:46,078] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:30:46,078] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:30:46,082] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:30:46,082] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:30:46,083] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:30:46,084] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:30:46,829] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:30:46,839] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册用户名输入框方式[By.name:userName]
+[2017-02-27 16:30:46,965] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:注册用户名输入框[By.name:userName]
+[2017-02-27 16:30:46,965] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册用户名输入框方式[By.name:userName]
+[2017-02-27 16:30:47,008] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：注册用户名输入框[By.name:userNamevalue:15011540046]
+[2017-02-27 16:30:47,008] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册密码输入框方式[By.name:password]
+[2017-02-27 16:30:47,033] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:注册密码输入框[By.name:password]
+[2017-02-27 16:30:47,033] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册密码输入框方式[By.name:password]
+[2017-02-27 16:30:47,069] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：注册密码输入框[By.name:passwordvalue:123456]
+[2017-02-27 16:30:47,069] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码输入框方式[By.name:imgCode]
+[2017-02-27 16:30:47,091] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:图形验证码输入框[By.name:imgCode]
+[2017-02-27 16:30:47,092] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码输入框方式[By.name:imgCode]
+[2017-02-27 16:30:47,125] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：图形验证码输入框[By.name:imgCodevalue:1234]
+[2017-02-27 16:30:47,126] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：短信验证码输入框方式[By.name:smsCode]
+[2017-02-27 16:30:47,154] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:短信验证码输入框[By.name:smsCode]
+[2017-02-27 16:30:47,154] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：短信验证码输入框方式[By.name:smsCode]
+[2017-02-27 16:30:47,188] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：短信验证码输入框[By.name:smsCodevalue:123456]
+[2017-02-27 16:30:47,188] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：推荐人输入框方式[By.id:inviter]
+[2017-02-27 16:30:47,215] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:推荐人输入框[By.id:inviter]
+[2017-02-27 16:30:47,215] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：推荐人输入框方式[By.id:inviter]
+[2017-02-27 16:30:47,255] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：推荐人输入框[By.id:invitervalue:13928755754]
+[2017-02-27 16:30:48,256] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：立即注册按钮方式[By.id:sub]
+[2017-02-27 16:30:48,338] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：立即注册按钮[By.id:sub]成功！
+[2017-02-27 16:30:49,338] INFO  org.webdriver.mindaiwebui.utils.Assertion 验证是否出现预期的错误提示信息:成功:【Assert验证】:页面是否出现【预期值：成功】字符串
+[2017-02-27 16:30:49,347] ERROR org.webdriver.mindaiwebui.utils.Assertion 【Assert验证  failed!】
+[2017-02-27 16:30:49,559] ERROR org.webdriver.mindaiwebui.utils.ScreenShot 错误截图：F:\testcase\webuiauto\test-output\snapshot\2017-02-27 163049348.jpg
+[2017-02-27 16:30:49,562] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:30:49,562] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:30:49,566] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:30:49,566] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:30:49,566] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:30:49,567] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:30:50,283] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:30:50,294] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册用户名输入框方式[By.name:userName]
+[2017-02-27 16:30:50,332] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:注册用户名输入框[By.name:userName]
+[2017-02-27 16:30:50,332] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册用户名输入框方式[By.name:userName]
+[2017-02-27 16:30:50,425] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：注册用户名输入框[By.name:userNamevalue:15011540047]
+[2017-02-27 16:30:50,426] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册密码输入框方式[By.name:password]
+[2017-02-27 16:30:50,456] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:注册密码输入框[By.name:password]
+[2017-02-27 16:30:50,456] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册密码输入框方式[By.name:password]
+[2017-02-27 16:30:50,504] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：注册密码输入框[By.name:passwordvalue:123456]
+[2017-02-27 16:30:50,504] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码输入框方式[By.name:imgCode]
+[2017-02-27 16:30:50,536] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:图形验证码输入框[By.name:imgCode]
+[2017-02-27 16:30:50,537] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码输入框方式[By.name:imgCode]
+[2017-02-27 16:30:50,570] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：图形验证码输入框[By.name:imgCodevalue:1234]
+[2017-02-27 16:30:50,570] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：短信验证码输入框方式[By.name:smsCode]
+[2017-02-27 16:30:50,601] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:短信验证码输入框[By.name:smsCode]
+[2017-02-27 16:30:50,601] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：短信验证码输入框方式[By.name:smsCode]
+[2017-02-27 16:30:50,634] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：短信验证码输入框[By.name:smsCodevalue:123456]
+[2017-02-27 16:30:50,635] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：推荐人输入框方式[By.id:inviter]
+[2017-02-27 16:30:50,658] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:推荐人输入框[By.id:inviter]
+[2017-02-27 16:30:50,658] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：推荐人输入框方式[By.id:inviter]
+[2017-02-27 16:30:50,701] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：推荐人输入框[By.id:invitervalue:13928755754]
+[2017-02-27 16:30:51,701] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：立即注册按钮方式[By.id:sub]
+[2017-02-27 16:30:51,775] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：立即注册按钮[By.id:sub]成功！
+[2017-02-27 16:30:52,775] INFO  org.webdriver.mindaiwebui.utils.Assertion 验证是否出现预期的错误提示信息:请输入账户名和密码:【Assert验证】:页面是否出现【预期值：请输入账户名和密码】字符串
+[2017-02-27 16:30:52,784] ERROR org.webdriver.mindaiwebui.utils.Assertion 【Assert验证  failed!】
+[2017-02-27 16:30:52,976] ERROR org.webdriver.mindaiwebui.utils.ScreenShot 错误截图：F:\testcase\webuiauto\test-output\snapshot\2017-02-27 163052786.jpg
+[2017-02-27 16:30:52,979] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:30:52,979] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:30:52,983] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:30:52,983] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:30:52,983] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:30:52,984] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 16:30:53,609] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 16:30:53,640] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册用户名输入框方式[By.name:userName]
+[2017-02-27 16:30:53,673] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:注册用户名输入框[By.name:userName]
+[2017-02-27 16:30:53,673] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册用户名输入框方式[By.name:userName]
+[2017-02-27 16:30:53,722] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：注册用户名输入框[By.name:userNamevalue:15011540048]
+[2017-02-27 16:30:53,722] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册密码输入框方式[By.name:password]
+[2017-02-27 16:30:53,751] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:注册密码输入框[By.name:password]
+[2017-02-27 16:30:53,751] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册密码输入框方式[By.name:password]
+[2017-02-27 16:30:53,784] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：注册密码输入框[By.name:passwordvalue:123456]
+[2017-02-27 16:30:53,785] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码输入框方式[By.name:imgCode]
+[2017-02-27 16:30:53,810] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:图形验证码输入框[By.name:imgCode]
+[2017-02-27 16:30:53,811] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码输入框方式[By.name:imgCode]
+[2017-02-27 16:30:53,844] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：图形验证码输入框[By.name:imgCodevalue:1234]
+[2017-02-27 16:30:53,844] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：短信验证码输入框方式[By.name:smsCode]
+[2017-02-27 16:30:53,868] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:短信验证码输入框[By.name:smsCode]
+[2017-02-27 16:30:53,868] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：短信验证码输入框方式[By.name:smsCode]
+[2017-02-27 16:30:53,900] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：短信验证码输入框[By.name:smsCodevalue:123456]
+[2017-02-27 16:30:53,901] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：推荐人输入框方式[By.id:inviter]
+[2017-02-27 16:30:53,922] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:推荐人输入框[By.id:inviter]
+[2017-02-27 16:30:53,922] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：推荐人输入框方式[By.id:inviter]
+[2017-02-27 16:30:53,957] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：推荐人输入框[By.id:invitervalue:13928755754]
+[2017-02-27 16:30:54,958] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：立即注册按钮方式[By.id:sub]
+[2017-02-27 16:30:55,048] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：立即注册按钮[By.id:sub]成功！
+[2017-02-27 16:30:56,048] INFO  org.webdriver.mindaiwebui.utils.Assertion 验证是否出现预期的错误提示信息:请输入密码:【Assert验证】:页面是否出现【预期值：请输入密码】字符串
+[2017-02-27 16:30:56,056] ERROR org.webdriver.mindaiwebui.utils.Assertion 【Assert验证  failed!】
+[2017-02-27 16:30:56,254] ERROR org.webdriver.mindaiwebui.utils.ScreenShot 错误截图：F:\testcase\webuiauto\test-output\snapshot\2017-02-27 163056057.jpg
+[2017-02-27 16:30:56,256] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:30:56,256] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:30:56,259] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 16:30:56,259] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 16:30:56,661] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-02-27 18:16:37,759] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-02-27 18:16:37,760] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-02-27 18:16:40,824] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 18:16:40,831] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 18:16:41,784] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 18:16:41,797] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册用户名输入框方式[By.id:regName]
+[2017-02-27 18:16:41,867] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:注册用户名输入框[By.id:regName]
+[2017-02-27 18:16:41,867] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册用户名输入框方式[By.id:regName]
+[2017-02-27 18:16:41,921] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：注册用户名输入框[By.id:regNamevalue:15011540045]
+[2017-02-27 18:16:41,921] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册密码输入框方式[By.id:regPass]
+[2017-02-27 18:16:41,952] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:注册密码输入框[By.id:regPass]
+[2017-02-27 18:16:41,952] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册密码输入框方式[By.id:regPass]
+[2017-02-27 18:16:41,990] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：注册密码输入框[By.id:regPassvalue:123456]
+[2017-02-27 18:16:41,990] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码输入框方式[By.id:imgCode]
+[2017-02-27 18:16:42,019] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:图形验证码输入框[By.id:imgCode]
+[2017-02-27 18:16:42,019] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码输入框方式[By.id:imgCode]
+[2017-02-27 18:16:42,054] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：图形验证码输入框[By.id:imgCodevalue:1234]
+[2017-02-27 18:16:42,054] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：短信验证码输入框方式[By.id:smsCode]
+[2017-02-27 18:16:42,080] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:短信验证码输入框[By.id:smsCode]
+[2017-02-27 18:16:42,080] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：短信验证码输入框方式[By.id:smsCode]
+[2017-02-27 18:16:42,114] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：短信验证码输入框[By.id:smsCodevalue:123456]
+[2017-02-27 18:16:42,114] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：推荐人输入框方式[By.id:inviter]
+[2017-02-27 18:16:42,136] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:推荐人输入框[By.id:inviter]
+[2017-02-27 18:16:42,136] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：推荐人输入框方式[By.id:inviter]
+[2017-02-27 18:16:42,174] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：推荐人输入框[By.id:invitervalue:13928755754]
+[2017-02-27 18:16:43,174] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：立即注册按钮方式[By.id:sub]
+[2017-02-27 18:16:43,243] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：立即注册按钮[By.id:sub]成功！
+[2017-02-27 18:16:44,244] INFO  org.webdriver.mindaiwebui.utils.Assertion 验证是否出现预期的错误提示信息:账户名与密码不匹配，请重新输入:【Assert验证】:页面是否出现【预期值：账户名与密码不匹配，请重新输入】字符串
+[2017-02-27 18:16:44,254] ERROR org.webdriver.mindaiwebui.utils.Assertion 【Assert验证  failed!】
+[2017-02-27 18:16:44,476] ERROR org.webdriver.mindaiwebui.utils.ScreenShot 错误截图：F:\testcase\webuiauto\test-output\snapshot\2017-02-27 181644256.jpg
+[2017-02-27 18:16:44,479] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 18:16:44,479] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 18:16:44,485] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 18:16:44,485] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 18:16:44,485] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 18:16:44,486] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 18:16:44,874] INFO  org.webdriver.mindaiwebui.pageObject.Registrationpage 打开浏览器，访问http://121.196.208.139:3030//register.html网址!
+[2017-02-27 18:16:44,906] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册用户名输入框方式[By.id:regName]
+[2017-02-27 18:16:44,943] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:注册用户名输入框[By.id:regName]
+[2017-02-27 18:16:44,944] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册用户名输入框方式[By.id:regName]
+[2017-02-27 18:16:44,988] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：注册用户名输入框[By.id:regNamevalue:15011540046]
+[2017-02-27 18:16:44,989] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册密码输入框方式[By.id:regPass]
+[2017-02-27 18:16:45,016] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:注册密码输入框[By.id:regPass]
+[2017-02-27 18:16:45,016] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：注册密码输入框方式[By.id:regPass]
+[2017-02-27 18:16:45,051] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：注册密码输入框[By.id:regPassvalue:123456]
+[2017-02-27 18:16:45,051] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码输入框方式[By.id:imgCode]
+[2017-02-27 18:16:45,072] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:图形验证码输入框[By.id:imgCode]
+[2017-02-27 18:16:45,072] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码输入框方式[By.id:imgCode]
+[2017-02-27 18:16:45,103] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：图形验证码输入框[By.id:imgCodevalue:1234]
+[2017-02-27 18:16:45,103] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：短信验证码输入框方式[By.id:smsCode]
+[2017-02-27 18:16:45,131] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:短信验证码输入框[By.id:smsCode]
+[2017-02-27 18:16:45,131] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：短信验证码输入框方式[By.id:smsCode]
+[2017-02-27 18:16:45,166] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：短信验证码输入框[By.id:smsCodevalue:123456]
+[2017-02-27 18:16:45,166] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：推荐人输入框方式[By.id:inviter]
+[2017-02-27 18:16:45,188] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:推荐人输入框[By.id:inviter]
+[2017-02-27 18:16:45,188] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：推荐人输入框方式[By.id:inviter]
+[2017-02-27 18:16:45,237] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：推荐人输入框[By.id:invitervalue:13928755754]
+[2017-02-27 18:16:46,239] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：立即注册按钮方式[By.id:sub]
+[2017-02-27 18:16:47,265] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 18:16:47,265] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 18:16:47,275] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 注册失败用例--failed
+[2017-02-27 18:16:47,275] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---end
+[2017-02-27 18:16:47,275] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
+[2017-02-27 18:16:47,276] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:注册失败用例---start
