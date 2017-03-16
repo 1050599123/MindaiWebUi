@@ -56,7 +56,17 @@ public Locator 短信验证码输入框() throws IOException
   return locator;
 }
 /***
-* 短信验证码
+* 获取短信验证码
+* @return
+* @throws IOException
+*/
+public Locator 获取短信验证码() throws IOException
+{
+  Locator locator=getLocator("获取短信验证码");
+  return locator;
+}
+/***
+* 推荐人
 * @return
 * @throws IOException
 */
