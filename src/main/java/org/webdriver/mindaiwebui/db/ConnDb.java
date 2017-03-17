@@ -3,19 +3,19 @@ import  java.sql.*;
 import java.util.ArrayList;
 
 import org.webdriver.mindaiwebui.utils.Log;
+import org.webdriver.mindaiwebui.db.ReadProperties;
 public class ConnDb {
 	private Log log=new Log(this.getClass());
-	public  Connection getConn(String DataBaseName)
-	{
+	public  Connection getConn(String DataBaseName)	{
 		String driver = "com.mysql.jdbc.Driver";
-		String url = "jdbc:mysql://120.27.177.229:3306/"
+		String jdbcUrl = "jdbc:mysql://120.27.177.229:3306/"
 				+ DataBaseName;
 		String username = "test_admin";
 		String password = "7HuowaffDtoVtc58yiAw";
 		Connection conn = null;
 		try {
 			Class.forName(driver); //classLoader,加载对应驱动
-			conn = DriverManager.getConnection(url, username, password);
+			conn = DriverManager.getConnection(jdbcUrl, username, password);
 			log.info("连接数据库成功");
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();
@@ -28,6 +28,8 @@ public class ConnDb {
 	public static void main(String[] args)
 	{
 		ConnDb connDb=new ConnDb();
+	//	jdbcutil connDb=new jdbcutil();
+		
 		Connection connection=connDb.getConn("mdtx_business");
 		String sql="SELECT * from  account_tender WHERE user_id in (SELECT id from mdtx_user.user_basic_info WHERE phone='13928755754' ) ";
 		ArrayList<String> hospitaList=new ArrayList<String>();

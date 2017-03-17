@@ -18,10 +18,10 @@ public class jdbcutil {
         try {
             FileInputStream fis=new FileInputStream("db.properties");
             p.load(fis);
-            DRIVER_CLASS=p.getProperty("driver");
-            URL=p.getProperty("url");
-            USERRNAME=p.getProperty("user");
-            PASSWORD=p.getProperty("pass");
+            DRIVER_CLASS=p.getProperty("driverClass");
+            URL=p.getProperty("jdbcUrl");
+            USERRNAME=p.getProperty("username");
+            PASSWORD=p.getProperty("password");
             Class.forName(DRIVER_CLASS);
             fis.close();
         } catch (IOException e) {
@@ -30,7 +30,8 @@ public class jdbcutil {
             e.printStackTrace();
         }
     }
-    public static Connection getConection(){
+   
+    public static Connection getConn(String DataBaseName){
         Connection conn=null;
         try{
         conn=DriverManager.getConnection(URL, USERRNAME, PASSWORD);
@@ -48,5 +49,4 @@ public class jdbcutil {
                e.printStackTrace();
              }
          }
-    
       }
