@@ -82,16 +82,10 @@
                     </argLine>
                     <suiteXmlFiles>
                         <suiteXmlFile>${driver}</suiteXmlFile>
-                    </suiteXmlFiles>
-                    <suiteXmlFiles>
                         <suiteXmlFile>${mailTitle}</suiteXmlFile>
-                    </suiteXmlFiles>
-                    <suiteXmlFiles>
                         <suiteXmlFile>${recipients}</suiteXmlFile>
-                    </suiteXmlFiles>
-                    <suiteXmlFiles>
                         <suiteXmlFile>${testng}</suiteXmlFile>
-                    </suiteXmlFiles>
+                    </suiteXmlFiles>      
                 </configuration>
                 <dependencies>
                     <dependency>
