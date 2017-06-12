@@ -46,7 +46,7 @@ import org.webdriver.mindaiwebui.utils.*;
 			action.sleep(1); 
 			//调用退出方法
 			SignoutAction SignoutAction=new SignoutAction(); 
-			//设置检查点
+			//设置检查点 
 		//	Assertion.VerityTextPresent(message,"验证是否出现预期的错误提示信息:"+message);
 		//	action.sleep(1); 
 		//	Assertion.VerityTextdb(message,"检查数据库用户表是否存在该电话号码的用户信息:"+message);

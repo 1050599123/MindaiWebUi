@@ -23,6 +23,7 @@ public class LoginAction extends TestBaseCase{
         ElementAction action=new ElementAction();     
         action.clear(loginPage.用户名输入框());
         action.type(loginPage.用户名输入框(),userName);
+      //  System.out.println("当前文本:"+action.getAttribute(loginPage.用户名输入框(),"value"));
         action.clear(loginPage.密码输入框());
         action.type(loginPage.密码输入框(),password);
         action.clear(loginPage.验证码输入框());

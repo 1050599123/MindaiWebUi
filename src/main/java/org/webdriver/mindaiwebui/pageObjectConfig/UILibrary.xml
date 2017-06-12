@@ -37,7 +37,7 @@
 		   <locator type="id" timeout="3" value="borrowTerm"  desc="项目期限输入框">项目期限输入框</locator>
 		   <locator type="id" timeout="3" value="address"  desc="借款申请所在地输入框">借款申请所在地输入框</locator>
 		   <locator type="id" timeout="3" value="borrowExpireDate"  desc="到期日输入框">到期日输入框</locator>
-		   <locator type="xpath" timeout="3" value="/html/body/form[1]/table/tbody/tr[19]/td/button[1]"  desc="提交按钮">提交按钮</locator>
+		   <locator type="xpath" timeout="3" value="/html/body/form[1]/table/tbody/tr[20]/td/button[1]"  desc="提交按钮">提交按钮</locator>
            <locator type="xpath" timeout="3" value="/html/body"  desc="提示信息">提示信息</locator>
 	</page>
 		    <page pagename="org.webdriver.mindaiwebui.pageObject.HomePage" value="" desc="前台首页">

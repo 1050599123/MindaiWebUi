@@ -25,7 +25,7 @@ import org.webdriver.mindaiwebui.utils.*;
 				//读取登录用例测试数据 
 				String filePath="src/main/resources/data/ExcelTests.xls";
 				//读取第一个sheet，第2行到第5行-第2到第18列之间的数据
-				return ExcelReadUtil.case_data_excel(3, 1, 6, 1, 18,filePath);
+				return ExcelReadUtil.case_data_excel(3, 1, 5, 1, 18,filePath);
 			}
 		   
 	    @Test(description="发标失败用例",dataProvider = "JjfabiaoData")

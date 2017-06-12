@@ -33,7 +33,7 @@ import java.io.IOException;
 	    public void Login( String regName,String regPass,String imgCode,String inviter,String message) throws Exception, DocumentException{ 
 			//代替testng参数化的方法
 			String BaseUrl= XmlReadUtil.getTestngParametersValue("testng.xml","BaseUrl");			
-			//调用登录方法
+			//调用注册方法
 			RegistrationAction RegistrationAction=new RegistrationAction(BaseUrl+"/register.html",regName,regPass,imgCode,inviter);
 			action.sleep(1);   
 			//设置检查点
