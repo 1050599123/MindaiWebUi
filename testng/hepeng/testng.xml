@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-	<parameter name="driver" value="" /> <!--测试浏览器：支持火狐，谷歌，IE-->
+	<parameter name="driver" value="FirefoxDriver" /> <!--测试浏览器：支持火狐，谷歌，IE-->
 	<parameter name="nodeURL" value="" /> <!--selenium grid分布式运行node节点url，如不用分布式运行，则留空-->
 	<parameter name="BaseUrl" value="http://121.196.215.15:8088/" />  <!-- 测试系统基础Url-->
 	<parameter name="XfdUrl" value="http://121.196.215.15:8088/" />  <!-- 测试系统基础Url-->
