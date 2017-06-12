@@ -84,10 +84,10 @@
                         <suiteXmlFile>${driver}</suiteXmlFile>
                     </suiteXmlFiles>
                     <suiteXmlFiles>
-                        <suiteXmlFile>${recipients}</suiteXmlFile>
+                        <suiteXmlFile>${mailTitle}</suiteXmlFile>
                     </suiteXmlFiles>
                     <suiteXmlFiles>
-                        <suiteXmlFile>${reportTitle}</suiteXmlFile>
+                        <suiteXmlFile>${recipients}</suiteXmlFile>
                     </suiteXmlFiles>
                     <suiteXmlFiles>
                         <suiteXmlFile>${testng}</suiteXmlFile>
