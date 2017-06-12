@@ -87,6 +87,9 @@
                         <suiteXmlFile>${recipients}</suiteXmlFile>
                     </suiteXmlFiles>
                     <suiteXmlFiles>
+                        <suiteXmlFile>${reportTitle}</suiteXmlFile>
+                    </suiteXmlFiles>
+                    <suiteXmlFiles>
                         <suiteXmlFile>${testng}</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
