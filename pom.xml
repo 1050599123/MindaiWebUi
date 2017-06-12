@@ -84,6 +84,8 @@
                         <suiteXmlFile>${driver}</suiteXmlFile>
                         <suiteXmlFile>${mailTitle}</suiteXmlFile>
                         <suiteXmlFile>${recipients}</suiteXmlFile>
+                    </suiteXmlFiles>
+                    <suiteXmlFiles>          
                         <suiteXmlFile>${testng}</suiteXmlFile>
                     </suiteXmlFiles>      
                 </configuration>
