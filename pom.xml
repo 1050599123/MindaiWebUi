@@ -80,13 +80,17 @@
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
                         -Dfile.encoding=UTF-8
                     </argLine>
-                    <suiteXmlFiles>
-                        <suiteXmlFile>${driver}</suiteXmlFile>
-                        <suiteXmlFile>${mailTitle}</suiteXmlFile>
-                        <suiteXmlFile>${recipients}</suiteXmlFile>
-                    </suiteXmlFiles>
+                    <systempropertyVariables>
+                         <testEnvironment>${driver}</testEnvironment>
+                    </systempropertyVariables>
+                    <systempropertyVariables>                  
+                        <testEnvironment>${mailTitle}</testEnvironment>
+                    </systempropertyVariables>
+                    <systempropertyVariables>
+                        <testEnvironment>${recipients}</testEnvironment>
+                    </systempropertyVariables>
                     <suiteXmlFiles>          
-                        <suiteXmlFile>${testng}</suiteXmlFile>
+                        <suiteXmlFile>testng.xml</suiteXmlFile>
                     </suiteXmlFiles>      
                 </configuration>
                 <dependencies>
