@@ -14,7 +14,7 @@
     <parameter name="mailTitle" value="${mailTitle}" />  <!-- 测试报告邮件发送：邮件标题-->
     <parameter name="logUrl" value="http://192.168.1.224:8088/log_2017-02-09.html" />  <!-- 测试报告邮件发送：用例运行日志url-->
     <parameter name="reportUrl" value="http://192.168.1.224:8087/report.html" />  <!-- 测试报告邮件发送：完整测试报告url-->
-	<parameter name="recipients" value="${recipients}" /> <!-- 测试报告邮件发送：收件人，多个用,号隔开-->
+	<parameter name="recipients" value="hepeng@mindai.com" /> <!-- 测试报告邮件发送：收件人，多个用,号隔开-->
     <parameter name="reportTitle" value="自动化测试报告" />  <!--测试报告标题-->
 	<listeners><!-- 监听器设置-->
         <listener class-name="org.webdriver.mindaiwebui.utils.TestListener"></listener>
