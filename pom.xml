@@ -82,12 +82,15 @@
                     </argLine>
                     <systempropertyVariables>
                          <testEnvironment>${driver}</testEnvironment>
-                         <testEnvironment>${mailTitle}</testEnvironment>
-                         <testEnvironment>${recipients}</testEnvironment>
                     </systempropertyVariables>
-                 
+                    <systempropertyVariables>                  
+                        <testEnvironment>${mailTitle}</testEnvironment>
+                    </systempropertyVariables>
+                    <systempropertyVariables>
+                        <testEnvironment>${recipients}</testEnvironment>
+                    </systempropertyVariables>
                     <suiteXmlFiles>          
-                        <suiteXmlFile>testng.xml</suiteXmlFile>
+                        <suiteXmlFile>${testng}</suiteXmlFile>
                     </suiteXmlFiles>      
                 </configuration>
                 <dependencies>
