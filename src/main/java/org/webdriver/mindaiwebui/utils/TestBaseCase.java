@@ -87,7 +87,8 @@ public class TestBaseCase {
 				this.driver=new FirefoxDriver(firefoxProfile);
 				break;
 			case "ChormeDriver":
-				System.setProperty("webdriver.chrome.driver", "resource\\chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver", "resources\\driver\\chrome\\winchrome\\driver.exe");
+				System.setProperty("webdriver.firefox.bin", "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe");
 				this.driver=new ChromeDriver();
 				break;
 			case "InternetExplorerDriver":
