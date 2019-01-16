@@ -28,7 +28,7 @@ import java.io.IOException;
 				{	
 					//调用登录方法，输入正确的用户名和密码
 			  		//LoginAction loginAction=new LoginAction(BaseUrl+"/login.html","13928755754","123456","123456");
-				    HomeAction  homeAction=new HomeAction(BaseUrl+"/index.html");
+				    new HomeAction(BaseUrl+"/index.html");
 					action.sleep(2);
 					//设置检查点
 					Assertion.VerityURL("http://121.196.208.139:3030/register.html","验证是否成功进入注册页面");

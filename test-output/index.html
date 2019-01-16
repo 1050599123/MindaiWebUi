@@ -23,7 +23,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -37,7 +37,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-Suite">
-              <span class="suite-name border-passed">Suite</span>
+              <span class="suite-name border-failed">Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -90,56 +90,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">8 methods,   8 passed</span>
+                    <span class="method-stats">1 method, 1 failed,   </span>
                   </li>
                   <li>
-                    <span class="method-list-title passed">Passed methods</span>
-                    <span class="show-or-hide-methods passed">
-                      <a href="#" panel-name="suite-Suite" class="hide-methods passed suite-Suite"> (hide)</a> <!-- hide-methods passed suite-Suite -->
-                      <a href="#" panel-name="suite-Suite" class="show-methods passed suite-Suite"> (show)</a> <!-- show-methods passed suite-Suite -->
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods failed suite-Suite"> (hide)</a> <!-- hide-methods failed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
                     </span>
-                    <div class="method-list-content passed suite-Suite">
+                    <div class="method-list-content failed suite-Suite">
                       <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.webdriver.mindaiwebui.cases.InvestmentTest" hash-for-method="Login(13600005036, 123456, 1234, 1000, 123463, 成功)">Login(13600005036, 123456, 1234, 1000, 123463, 成功)</a> <!-- method navigator-link -->
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.webdriver.mindaiwebui.cases.LoginTest2" hash-for-method="Login(13620024019, 123456, 张大大, 210505199106040166)">Login(13620024019, 123456, 张大大, 210505199106040166)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.webdriver.mindaiwebui.cases.InvestmentTest" hash-for-method="Login(13600005027, 123456, 1234, 1000, 123456, 成功)">Login(13600005027, 123456, 1234, 1000, 123456, 成功)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.webdriver.mindaiwebui.cases.InvestmentTest" hash-for-method="Login(13600005031, 123456, 1234, 1000, 123460, 成功)">Login(13600005031, 123456, 1234, 1000, 123460, 成功)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.webdriver.mindaiwebui.cases.InvestmentTest" hash-for-method="Login(13600005030, 123456, 1234, 1000, 123458, 成功)">Login(13600005030, 123456, 1234, 1000, 123458, 成功)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.webdriver.mindaiwebui.cases.InvestmentTest" hash-for-method="Login(13600005041, 123456, 1234, 1000, 123462, 成功)">Login(13600005041, 123456, 1234, 1000, 123462, 成功)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.webdriver.mindaiwebui.cases.InvestmentTest" hash-for-method="Login(13600005033, 123456, 1234, 1000, 123461, 成功)">Login(13600005033, 123456, 1234, 1000, 123461, 成功)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.webdriver.mindaiwebui.cases.InvestmentTest" hash-for-method="Login(13600005028, 123456, 1234, 1000, 123457, 成功)">Login(13600005028, 123456, 1234, 1000, 123457, 成功)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                      <span>
-                        <img width="3%" src="passed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.webdriver.mindaiwebui.cases.InvestmentTest" hash-for-method="Login(13600005034, 123456, 1234, 1000, 123459, 成功)">Login(13600005034, 123456, 1234, 1000, 123459, 成功)</a> <!-- method navigator-link -->
-                      </span>
-                      <br/>
-                    </div> <!-- method-list-content passed suite-Suite -->
+                    </div> <!-- method-list-content failed suite-Suite -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -151,94 +116,41 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Suite" class="panel Suite">
-          <div class="suite-Suite-class-passed">
+          <div class="suite-Suite-class-failed">
             <div class="main-panel-header rounded-window-top">
-              <img src="passed.png"/>
-              <span class="class-name">org.webdriver.mindaiwebui.cases.InvestmentTest</span>
+              <img src="failed.png"/>
+              <span class="class-name">org.webdriver.mindaiwebui.cases.LoginTest2</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="Login(13600005036, 123456, 1234, 1000, 123463, 成功)">
-                  </a> <!-- Login(13600005036, 123456, 1234, 1000, 123463, 成功) -->
+                  <a name="Login(13620024019, 123456, 张大大, 210505199106040166)">
+                  </a> <!-- Login(13620024019, 123456, 张大大, 210505199106040166) -->
                   <span class="method-name">Login</span>
-                  <span class="parameters">(13600005036, 123456, 1234, 1000, 123463, 成功)</span>
-                  <em>
-(测试用例)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="Login(13600005027, 123456, 1234, 1000, 123456, 成功)">
-                  </a> <!-- Login(13600005027, 123456, 1234, 1000, 123456, 成功) -->
-                  <span class="method-name">Login</span>
-                  <span class="parameters">(13600005027, 123456, 1234, 1000, 123456, 成功)</span>
-                  <em>
-(测试用例)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="Login(13600005031, 123456, 1234, 1000, 123460, 成功)">
-                  </a> <!-- Login(13600005031, 123456, 1234, 1000, 123460, 成功) -->
-                  <span class="method-name">Login</span>
-                  <span class="parameters">(13600005031, 123456, 1234, 1000, 123460, 成功)</span>
-                  <em>
-(测试用例)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="Login(13600005030, 123456, 1234, 1000, 123458, 成功)">
-                  </a> <!-- Login(13600005030, 123456, 1234, 1000, 123458, 成功) -->
-                  <span class="method-name">Login</span>
-                  <span class="parameters">(13600005030, 123456, 1234, 1000, 123458, 成功)</span>
-                  <em>
-(测试用例)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="Login(13600005041, 123456, 1234, 1000, 123462, 成功)">
-                  </a> <!-- Login(13600005041, 123456, 1234, 1000, 123462, 成功) -->
-                  <span class="method-name">Login</span>
-                  <span class="parameters">(13600005041, 123456, 1234, 1000, 123462, 成功)</span>
-                  <em>
-(测试用例)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="Login(13600005033, 123456, 1234, 1000, 123461, 成功)">
-                  </a> <!-- Login(13600005033, 123456, 1234, 1000, 123461, 成功) -->
-                  <span class="method-name">Login</span>
-                  <span class="parameters">(13600005033, 123456, 1234, 1000, 123461, 成功)</span>
-                  <em>
-(测试用例)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="Login(13600005028, 123456, 1234, 1000, 123457, 成功)">
-                  </a> <!-- Login(13600005028, 123456, 1234, 1000, 123457, 成功) -->
-                  <span class="method-name">Login</span>
-                  <span class="parameters">(13600005028, 123456, 1234, 1000, 123457, 成功)</span>
-                  <em>
-(测试用例)                  </em>
-                </div> <!-- method-content -->
-              </div> <!-- method -->
-              <div class="method">
-                <div class="method-content">
-                  <a name="Login(13600005034, 123456, 1234, 1000, 123459, 成功)">
-                  </a> <!-- Login(13600005034, 123456, 1234, 1000, 123459, 成功) -->
-                  <span class="method-name">Login</span>
-                  <span class="parameters">(13600005034, 123456, 1234, 1000, 123459, 成功)</span>
+                  <span class="parameters">(13620024019, 123456, 张大大, 210505199106040166)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: Element is not clickable at point (1050.5, 554). Other element would receive the click: &lt;div id=&quot;loading&quot; class=&quot;loadingModal&quot;&gt;&lt;/div&gt;
+Command duration or timeout: 957 milliseconds
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;hepeng&apos;, ip: &apos;192.168.1.75&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_91&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dbc8251c-96ee-4fba-a469-e9e701cd99ea
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
+	at org.webdriver.mindaiwebui.utils.ElementAction.click(ElementAction.java:500)
+	at org.webdriver.mindaiwebui.action.joyreachadsAction.&lt;init&gt;(joyreachadsAction.java:30)
+	at org.webdriver.mindaiwebui.cases.LoginTest2.Login(LoginTest2.java:37)
+... Removed 28 stack frames
+</div> <!-- stack-trace -->
                   <em>
 (测试用例)                  </em>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Suite-class-passed -->
+          </div> <!-- suite-Suite-class-failed -->
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -249,21 +161,21 @@
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Suite&quot;&gt;
-  &lt;parameter name=&quot;mailTitle&quot; value=&quot;自动化测试报告&quot;/&gt;
+  &lt;parameter name=&quot;mailTitle&quot; value=&quot;${mailTitle}&quot;/&gt;
   &lt;parameter name=&quot;UserName&quot; value=&quot;&quot;/&gt;
   &lt;parameter name=&quot;smtpPort&quot; value=&quot;465&quot;/&gt;
   &lt;parameter name=&quot;reportTitle&quot; value=&quot;自动化测试报告&quot;/&gt;
   &lt;parameter name=&quot;nodeURL&quot; value=&quot;&quot;/&gt;
-  &lt;parameter name=&quot;smtpPassWord&quot; value=&quot;123456Su&quot;/&gt;
+  &lt;parameter name=&quot;smtpPassWord&quot; value=&quot;Mindaitianxia2018&quot;/&gt;
   &lt;parameter name=&quot;reportUrl&quot; value=&quot;http://192.168.1.193:8087/report.html&quot;/&gt;
   &lt;parameter name=&quot;PassWord&quot; value=&quot;&quot;/&gt;
   &lt;parameter name=&quot;XfdUrl&quot; value=&quot;http://121.196.215.15:8088/&quot;/&gt;
   &lt;parameter name=&quot;smtpHost&quot; value=&quot;smtp.exmail.qq.com&quot;/&gt;
   &lt;parameter name=&quot;driver&quot; value=&quot;FirefoxDriver&quot;/&gt;
-  &lt;parameter name=&quot;smtpUserName&quot; value=&quot;liusue@mindai.com&quot;/&gt;
-  &lt;parameter name=&quot;recipients&quot; value=&quot;&quot;/&gt;
+  &lt;parameter name=&quot;smtpUserName&quot; value=&quot;&quot;/&gt;
+  &lt;parameter name=&quot;recipients&quot; value=&quot;hepeng@mindai.com&quot;/&gt;
   &lt;parameter name=&quot;HouTaiUrl&quot; value=&quot;http://121.196.208.139:8085/&quot;/&gt;
-  &lt;parameter name=&quot;BaseUrl&quot; value=&quot;http://121.196.208.139:3030/&quot;/&gt;
+  &lt;parameter name=&quot;BaseUrl&quot; value=&quot;https://testbank.mindai.com/&quot;/&gt;
   &lt;parameter name=&quot;logUrl&quot; value=&quot;http://192.168.1.193:8088/log_2017-02-10.html&quot;/&gt;
   &lt;listeners&gt;
     &lt;listener class-name=&quot;org.webdriver.mindaiwebui.utils.TestListener&quot;/&gt;
@@ -271,7 +183,7 @@
   &lt;/listeners&gt;
   &lt;test name=&quot;后台用户登陆用例&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;org.webdriver.mindaiwebui.cases.InvestmentTest&quot;/&gt;
+      &lt;class name=&quot;org.webdriver.mindaiwebui.cases.LoginTest2&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- 后台用户登陆用例 --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -311,44 +223,16 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(8);
+data.addRows(1);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'Login')
-data.setCell(0, 2, 'org.webdriver.mindaiwebui.cases.InvestmentTest')
-data.setCell(0, 3, 12345);
-data.setCell(1, 0, 1)
-data.setCell(1, 1, 'Login')
-data.setCell(1, 2, 'org.webdriver.mindaiwebui.cases.InvestmentTest')
-data.setCell(1, 3, 11585);
-data.setCell(2, 0, 2)
-data.setCell(2, 1, 'Login')
-data.setCell(2, 2, 'org.webdriver.mindaiwebui.cases.InvestmentTest')
-data.setCell(2, 3, 11423);
-data.setCell(3, 0, 3)
-data.setCell(3, 1, 'Login')
-data.setCell(3, 2, 'org.webdriver.mindaiwebui.cases.InvestmentTest')
-data.setCell(3, 3, 11244);
-data.setCell(4, 0, 4)
-data.setCell(4, 1, 'Login')
-data.setCell(4, 2, 'org.webdriver.mindaiwebui.cases.InvestmentTest')
-data.setCell(4, 3, 11212);
-data.setCell(5, 0, 5)
-data.setCell(5, 1, 'Login')
-data.setCell(5, 2, 'org.webdriver.mindaiwebui.cases.InvestmentTest')
-data.setCell(5, 3, 11195);
-data.setCell(6, 0, 6)
-data.setCell(6, 1, 'Login')
-data.setCell(6, 2, 'org.webdriver.mindaiwebui.cases.InvestmentTest')
-data.setCell(6, 3, 11194);
-data.setCell(7, 0, 7)
-data.setCell(7, 1, 'Login')
-data.setCell(7, 2, 'org.webdriver.mindaiwebui.cases.InvestmentTest')
-data.setCell(7, 3, 11080);
+data.setCell(0, 2, 'org.webdriver.mindaiwebui.cases.LoginTest2')
+data.setCell(0, 3, 4015);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <span class="suite-total-time">Total running time: 4 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -374,46 +258,20 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">org.webdriver.mindaiwebui.cases.InvestmentTest</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">org.webdriver.mindaiwebui.cases.LoginTest2</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">setup(FirefoxDriver, )</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-test before -->
               <div class="test-method">
-                <span class="method-name">Login(13600005027, 123456, 1234, 1000, 123456, 成功)</span>
-                <span class="method-start">3475 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">Login(13600005028, 123456, 1234, 1000, 123457, 成功)</span>
-                <span class="method-start">15850 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">Login(13600005030, 123456, 1234, 1000, 123458, 成功)</span>
-                <span class="method-start">27439 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">Login(13600005034, 123456, 1234, 1000, 123459, 成功)</span>
-                <span class="method-start">38866 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">Login(13600005031, 123456, 1234, 1000, 123460, 成功)</span>
-                <span class="method-start">50066 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">Login(13600005033, 123456, 1234, 1000, 123461, 成功)</span>
-                <span class="method-start">61265 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">Login(13600005041, 123456, 1234, 1000, 123462, 成功)</span>
-                <span class="method-start">72350 ms</span>
-              </div> <!-- test-method -->
-              <div class="test-method">
-                <span class="method-name">Login(13600005036, 123456, 1234, 1000, 123463, 成功)</span>
-                <span class="method-start">83566 ms</span>
+                <img src="failed.png">
+                </img>
+                <span class="method-name">Login(13620024019, 123456, 张大大, 210505199106040166)</span>
+                <span class="method-start">3652 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-test after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">94814 ms</span>
+                <span class="method-start">7684 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

@@ -1,0 +1,507 @@
+[2017-03-14 10:19:42,036] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-14 10:19:42,038] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-03-14 10:19:45,080] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:45,084] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:45,556] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:45,556] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:45,562] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:45,562] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:45,563] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:45,564] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:45,789] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:45,789] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:45,793] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:45,793] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:45,794] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:45,794] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:46,018] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:46,018] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:46,021] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:46,022] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:46,022] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:46,023] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:46,244] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:46,244] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:46,248] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:46,248] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:46,249] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:46,249] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:46,473] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:46,473] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:46,477] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:46,477] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:46,478] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:46,478] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:47,236] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:47,236] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:47,239] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:47,239] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:47,239] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:47,240] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:47,458] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:47,458] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:47,462] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:47,462] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:47,463] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:47,463] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 10:19:47,683] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:47,683] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:47,688] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 10:19:47,689] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 10:19:48,014] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-03-14 10:19:48,760] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-03-14 11:16:56,840] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-14 11:16:56,847] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-03-14 11:17:02,454] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:02,460] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:03,012] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:03,012] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:03,017] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:03,017] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:03,018] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:03,020] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:03,239] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:03,239] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:03,244] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:03,244] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:03,244] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:03,247] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:03,469] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:03,474] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:03,478] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:03,480] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:03,480] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:03,482] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:03,704] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:03,705] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:03,711] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:03,714] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:03,715] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:03,718] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:03,934] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:03,934] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:03,937] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:03,937] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:03,937] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:03,938] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:04,160] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:04,161] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:04,166] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:04,166] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:04,166] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:04,168] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:04,388] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:04,388] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:04,392] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:04,392] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:04,393] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:04,394] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:17:04,616] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:04,617] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:04,624] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:17:04,624] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:17:05,067] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-03-14 11:17:05,879] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-03-14 11:26:24,413] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-14 11:26:24,415] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-03-14 11:26:27,435] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:27,439] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:28,534] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:28,535] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:28,543] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:28,544] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:28,544] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:28,545] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:28,768] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:28,768] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:28,772] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:28,772] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:28,772] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:28,773] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:28,991] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:28,992] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:28,998] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:28,998] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:28,998] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:28,999] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:29,221] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:29,222] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:29,226] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:29,226] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:29,227] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:29,228] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:29,446] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:29,446] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:29,449] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:29,449] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:29,450] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:29,450] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:29,671] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:29,671] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:29,676] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:29,676] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:29,676] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:29,677] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:29,896] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:29,897] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:29,901] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:29,901] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:29,901] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:29,902] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 11:26:30,122] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:30,122] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:30,126] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 11:26:30,126] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 11:26:30,464] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-03-14 11:26:31,199] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-03-14 14:14:46,371] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-14 14:14:46,387] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-03-14 14:14:50,420] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:50,424] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:50,933] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:50,933] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:50,938] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:50,938] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:50,939] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:50,940] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:51,137] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:51,138] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:51,143] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:51,143] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:51,143] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:51,144] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:51,343] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:51,343] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:51,349] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:51,349] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:51,349] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:51,350] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:51,546] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:51,546] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:51,549] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:51,549] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:51,551] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:51,552] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:51,750] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:51,751] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:51,756] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:51,756] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:51,757] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:51,760] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:51,956] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:51,957] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:51,962] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:51,962] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:51,962] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:51,963] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:52,161] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:52,162] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:52,166] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:52,166] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:52,166] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:52,167] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:14:52,365] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:52,365] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:52,371] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:14:52,371] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:14:52,788] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-03-14 14:14:53,508] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-03-14 14:23:38,927] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-14 14:23:38,929] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-03-14 14:23:41,916] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:41,920] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:42,346] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:42,346] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:42,358] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:42,358] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:42,359] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:42,359] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:42,566] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:42,566] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:42,570] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:42,570] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:42,572] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:42,573] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:42,774] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:42,774] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:42,779] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:42,779] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:42,779] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:42,780] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:42,996] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:42,996] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:43,000] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:43,000] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:43,000] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:43,001] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:43,201] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:43,201] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:43,206] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:43,206] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:43,207] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:43,208] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:43,404] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:43,404] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:43,407] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:43,407] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:43,407] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:43,408] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:43,606] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:43,606] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:43,612] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:43,612] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:43,612] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:43,613] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:23:43,813] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:43,813] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:43,816] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:23:43,816] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:23:44,152] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-03-14 14:23:44,825] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-03-14 14:27:35,602] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-14 14:27:35,603] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-03-14 14:27:38,623] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:38,628] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:39,098] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:39,098] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:39,105] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:39,105] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:39,106] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:39,107] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:39,342] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:39,342] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:39,347] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:39,347] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:39,348] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:39,349] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:39,569] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:39,570] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:39,574] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:39,574] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:39,575] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:39,575] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:39,797] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:39,797] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:39,802] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:39,802] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:39,803] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:39,803] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:40,020] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:40,021] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:40,028] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:40,028] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:40,028] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:40,029] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:40,248] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:40,249] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:40,253] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:40,253] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:40,254] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:40,255] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:40,472] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:40,472] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:40,476] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:40,476] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:40,476] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:40,477] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:27:40,695] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:40,695] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:40,700] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:27:40,700] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:27:41,048] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-03-14 14:27:41,787] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-03-14 14:33:37,054] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-14 14:33:37,056] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-03-14 14:33:40,085] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:40,089] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:40,491] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:40,491] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:40,496] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:40,496] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:40,497] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:40,498] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:40,690] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:40,690] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:40,695] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:40,695] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:40,695] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:40,696] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:40,883] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:40,883] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:40,887] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:40,887] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:40,887] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:40,888] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:41,073] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:41,073] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:41,077] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:41,077] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:41,078] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:41,078] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:41,264] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:41,264] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:41,268] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:41,268] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:41,268] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:41,269] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:41,455] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:41,455] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:41,460] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:41,460] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:41,461] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:41,461] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:41,646] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:41,647] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:41,653] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:41,653] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:41,653] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:41,654] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:33:41,840] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:41,840] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:41,845] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:33:41,845] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:33:42,176] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-03-14 14:33:42,816] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-03-14 14:41:46,288] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-14 14:41:46,290] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-03-14 14:41:49,292] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:49,297] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:49,705] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:49,705] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:49,710] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:49,710] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:49,711] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:49,713] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:49,907] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:49,907] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:49,910] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:49,911] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:49,911] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:49,912] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:50,104] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:50,105] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:50,110] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:50,110] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:50,110] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:50,111] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:50,293] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:50,293] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:50,297] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:50,297] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:50,298] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:50,298] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:50,480] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:50,480] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:50,484] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:50,484] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:50,485] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:50,486] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:50,668] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:50,668] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:50,673] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:50,674] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:50,674] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:50,675] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:50,862] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:50,862] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:50,866] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:50,866] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:50,866] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:50,867] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:41:51,057] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:51,057] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:51,060] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:41:51,061] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:41:51,391] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-03-14 14:41:52,017] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-03-14 14:48:12,990] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-14 14:48:12,992] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-03-14 14:48:16,014] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:48:16,018] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:48:16,620] INFO  org.webdriver.mindaiwebui.pageObject.LoginPage 打开浏览器，访问http://121.196.208.139:3030//login.html网址!
+[2017-03-14 14:48:16,631] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-03-14 14:48:16,706] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.id:userName]
+[2017-03-14 14:48:16,706] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2017-03-14 14:48:16,762] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.id:userNamevalue:13600005027]
+[2017-03-14 14:48:16,762] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:password]
+[2017-03-14 14:48:16,794] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.id:password]
+[2017-03-14 14:48:16,794] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:password]
+[2017-03-14 14:48:16,834] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.id:passwordvalue:123456]
+[2017-03-14 14:48:16,835] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:imgCode]
+[2017-03-14 14:48:16,858] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:imgCode]
+[2017-03-14 14:48:16,858] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:imgCode]
+[2017-03-14 14:48:16,893] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:imgCodevalue:1234]
+[2017-03-14 14:48:17,894] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:sub]
+[2017-03-14 14:48:17,973] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.id:sub]成功！
+[2017-03-14 14:48:21,988] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：我要投资按钮方式[By.linkText:我要投资]
+[2017-03-14 14:48:22,184] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：我要投资按钮[By.linkText:我要投资]成功！
+[2017-03-14 14:48:23,184] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：立即去投资按钮方式[By.xpath:/html/body/div[3]/ul/li[3]/div/div/a]
+[2017-03-14 14:48:23,528] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：立即去投资按钮[By.xpath:/html/body/div[3]/ul/li[3]/div/div/a]成功！
+[2017-03-14 14:48:23,529] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：投资金额输入框方式[By.id:amount]
+[2017-03-14 14:48:23,547] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:投资金额输入框[By.id:amount]
+[2017-03-14 14:48:23,547] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：投资金额输入框方式[By.id:amount]
+[2017-03-14 14:48:23,707] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：投资金额输入框[By.id:amountvalue:20000]
+[2017-03-14 14:48:24,707] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：立即投资按钮方式[By.xpath://*[@id='investBtn']]
+[2017-03-14 14:48:24,784] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：立即投资按钮[By.xpath://*[@id='investBtn']]成功！
+[2017-03-14 14:50:37,490] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-03-14 14:50:37,491] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2017-03-14 14:50:40,547] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:40,551] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:41,120] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:41,121] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:41,127] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:41,127] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:41,127] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:41,128] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:41,397] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:41,397] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:41,401] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:41,401] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:41,402] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:41,403] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:41,667] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:41,668] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:41,672] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:41,672] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:41,673] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:41,673] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:41,940] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:41,941] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:41,946] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:41,946] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:41,946] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:41,947] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:42,212] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:42,212] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:42,216] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:42,216] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:42,216] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:42,217] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:42,484] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:42,484] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:42,489] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:42,489] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:42,489] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:42,490] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:42,757] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:42,757] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:42,761] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:42,761] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:42,761] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:42,762] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2017-03-14 14:50:43,029] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:43,029] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:43,034] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2017-03-14 14:50:43,035] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2017-03-14 14:50:43,351] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2017-03-14 14:50:44,229] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！

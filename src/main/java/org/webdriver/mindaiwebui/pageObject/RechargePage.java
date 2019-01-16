@@ -37,13 +37,13 @@ public Locator 充值金额输入框() throws IOException
    return locator;
  }
 /***
-* 短信验证码输入框
+* 交易密码输入框
 * @return
 * @throws IOException
 */
-public Locator 短信验证码输入框() throws IOException
+public Locator 交易密码输入框() throws IOException
 {
-  Locator locator=getLocator("短信验证码输入框");
+  Locator locator=getLocator("交易密码输入框");
   return locator;
 }
 /***
@@ -96,5 +96,24 @@ public Locator 提交按钮() throws IOException
    Locator locator=getLocator("提交按钮");
    return locator;
  }
-
+/***
+* 立即开通按钮
+* @return
+* @throws IOException
+*/
+public Locator 立即开通按钮() throws IOException
+ {
+   Locator locator=getLocator("立即开通按钮");
+   return locator;
+ }
+/***
+* 同意协议并支付按钮
+* @return
+* @throws IOException
+*/
+public Locator 同意协议并支付按钮() throws IOException
+ {
+   Locator locator=getLocator("同意协议并支付按钮");
+   return locator;
+ }
 }

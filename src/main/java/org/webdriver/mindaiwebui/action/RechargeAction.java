@@ -20,15 +20,17 @@ public class RechargeAction extends TestBaseCase{
     	RechargePage RechargePage=new RechargePage();
         System.out.println(driver.getCurrentUrl());
         ElementAction action=new ElementAction(); 
-        action.click(RechargePage.我的账户());
+        if(!action.isElementDisplayed(RechargePage.充值按钮())){
+        	action.click(RechargePage.我的账户());
+		  }   
         action.click(RechargePage.充值按钮());
         action.clear(RechargePage.充值金额输入框());
         action.type(RechargePage.充值金额输入框(),money);
-        action.clear(RechargePage.短信验证码输入框());
-        action.type(RechargePage.短信验证码输入框(),smsCode);   
         action.click(RechargePage.提交按钮());
+        action.clear(RechargePage.交易密码输入框());
+        action.type(RechargePage.交易密码输入框(),smsCode);   
         action.sleep(3);   
-        action.click(RechargePage.确认按钮());
+        action.click(RechargePage.同意协议并支付按钮());
      //   System.out.println("当前网址为:"+action.getUrl());
         
   

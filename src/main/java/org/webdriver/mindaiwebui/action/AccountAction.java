@@ -32,7 +32,7 @@ public class AccountAction extends TestBaseCase {
 		action.type(AccountPage.银行卡预留手机号输入框(),phone);
 		action.clear(AccountPage.短信验证码输入框());
 		action.type(AccountPage.短信验证码输入框(),smsCode);
-		action.click(AccountPage.开通存管账户按钮());
+		action.click(AccountPage.下一步按钮());
 
 	}
 	

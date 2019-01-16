@@ -1,5 +1,6 @@
 package org.webdriver.mindaiwebui.cases;
 
+import org.webdriver.mindaiwebui.action.SignoutAction;
 import org.webdriver.mindaiwebui.action.UpAction;
 import org.webdriver.mindaiwebui.pageObject.LoginPage;
 import org.webdriver.mindaiwebui.utils.*;
@@ -15,6 +16,7 @@ import org.testng.annotations.Test;
 import org.testng.annotations.Parameters;
 import org.webdriver.mindaiwebui.action.RegistrationAction;
 import org.webdriver.mindaiwebui.utils.*;
+
 import java.io.IOException;
 
     public class RegistrationTest extends TestBaseCase {  
@@ -36,6 +38,8 @@ import java.io.IOException;
 			//调用注册方法
 			RegistrationAction RegistrationAction=new RegistrationAction(BaseUrl+"/register.html",regName,regPass,imgCode,inviter);
 			action.sleep(1);   
+			//调用退出方法
+			SignoutAction SignoutAction=new SignoutAction(); 
 			//设置检查点
 		//	Assertion.VerityTextPresent(message,"验证是否出现预期的错误提示信息:"+message);
 			//设置断言

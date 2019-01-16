@@ -49,7 +49,7 @@ import java.io.IOException;
 			//代替testng参数化的方法
 			String BaseUrl= XmlReadUtil.getTestngParametersValue("testng.xml","BaseUrl");			
 			//调用登录方法
-			LoginAction loginAction=new LoginAction(BaseUrl+"/login.html",userName,password,imgCode);
+			new LoginAction(BaseUrl+"/login.html",userName,password,imgCode);
 			action.sleep(1);   
 			//设置检查点
 			Assertion.VerityTextPresent(message,"验证是否出现预期的错误提示信息:"+message);

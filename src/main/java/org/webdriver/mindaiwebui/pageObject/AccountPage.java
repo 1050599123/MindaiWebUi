@@ -87,14 +87,65 @@ public Locator 短信验证码输入框() throws IOException
   return locator;
 }
 /***
-* 开通存管账户按钮
+* 发送验证码
 * @return
 * @throws IOException
 */
-public Locator 开通存管账户按钮() throws IOException
+public Locator 发送验证码() throws IOException
+{
+  Locator locator=getLocator("发送验证码");
+  return locator;
+}
+/***
+* 发送验证码
+* @return
+* @throws IOException
+*/
+public Locator 我知道了() throws IOException
+{
+  Locator locator=getLocator("我知道了");
+  return locator;
+}
+/***
+* 交易密码输入框
+* @return
+* @throws IOException
+*/
+public Locator 交易密码输入框() throws IOException
+{
+  Locator locator=getLocator("交易密码输入框");
+  return locator;
+}
+/***
+* 确认密码输入框
+* @return
+* @throws IOException
+*/
+public Locator 确认密码输入框() throws IOException
+{
+  Locator locator=getLocator("确认密码输入框");
+  return locator;
+}
+/***
+* 下一步按钮
+* @return
+* @throws IOException
+*/
+public Locator 下一步按钮() throws IOException
  {
-   Locator locator=getLocator("开通存管账户按钮");
+   Locator locator=getLocator("下一步按钮");
    return locator;
  }
+/***
+* 同意协议确定注册按钮
+* @return
+* @throws IOException
+*/
+public Locator 同意协议确定注册按钮() throws IOException
+ {
+   Locator locator=getLocator("同意协议确定注册按钮");
+   return locator;
+ }
+
 
 }

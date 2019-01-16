@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
-  <parameter name="mailTitle" value="自动化测试报告"/>
+  <parameter name="mailTitle" value="${mailTitle}"/>
   <parameter name="UserName" value=""/>
   <parameter name="smtpPort" value="465"/>
   <parameter name="reportTitle" value="自动化测试报告"/>
   <parameter name="nodeURL" value=""/>
-  <parameter name="smtpPassWord" value="123456Su"/>
+  <parameter name="smtpPassWord" value="Mindaitianxia2018"/>
   <parameter name="reportUrl" value="http://192.168.1.193:8087/report.html"/>
   <parameter name="PassWord" value=""/>
   <parameter name="XfdUrl" value="http://121.196.215.15:8088/"/>
   <parameter name="smtpHost" value="smtp.exmail.qq.com"/>
   <parameter name="driver" value="FirefoxDriver"/>
-  <parameter name="smtpUserName" value="liusue@mindai.com"/>
-  <parameter name="recipients" value=""/>
+  <parameter name="smtpUserName" value=""/>
+  <parameter name="recipients" value="hepeng@mindai.com"/>
   <parameter name="HouTaiUrl" value="http://121.196.208.139:8085/"/>
-  <parameter name="BaseUrl" value="http://121.196.208.139:3030/"/>
+  <parameter name="BaseUrl" value="https://testbank.mindai.com/"/>
   <parameter name="logUrl" value="http://192.168.1.193:8088/log_2017-02-10.html"/>
   <listeners>
     <listener class-name="org.webdriver.mindaiwebui.utils.TestListener"/>
@@ -23,13 +23,13 @@
   </listeners>
   <test name="后台用户登陆用例(failed)">
     <classes>
-      <class name="org.webdriver.mindaiwebui.cases.InvestmentTest">
+      <class name="org.webdriver.mindaiwebui.cases.LoginTest2">
         <methods>
           <include name="tearDown"/>
+          <include name="Login" invocation-numbers="0"/>
           <include name="setup"/>
-          <include name="Login" invocation-numbers="0 1 2 3 4 5 6 7"/>
         </methods>
-      </class> <!-- org.webdriver.mindaiwebui.cases.InvestmentTest -->
+      </class> <!-- org.webdriver.mindaiwebui.cases.LoginTest2 -->
     </classes>
   </test> <!-- 后台用户登陆用例(failed) -->
 </suite> <!-- Failed suite [Suite] -->

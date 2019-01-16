@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-	<parameter name="driver" value="${driver}" /> <!--测试浏览器：支持火狐，谷歌，IE-->
+	<parameter name="driver" value="FirefoxDriver" /> <!--测试浏览器：支持火狐，谷歌，IE-->
 	<parameter name="nodeURL" value="" /> <!--selenium grid分布式运行node节点url，如不用分布式运行，则留空-->
-	<parameter name="BaseUrl" value="https://testbank.mindai.com/" />  <!-- 测试系统基础Url-->
+	<parameter name="BaseUrl" value="https://test2bank.mindai.com/" />  <!-- 测试系统基础Url-->
 	<parameter name="HouTaiUrl" value="http://121.196.208.139:8085/" />  <!-- 测试系统基础Url-->
 	<parameter name="XfdUrl" value="http://121.196.215.15:8088/" />  <!-- 测试系统基础Url-->	
 	<parameter name="UserName" value="" /> <!-- 系统登录用户名-->
 	<parameter name="PassWord" value="" />  <!-- 系统登录密码-->
-    <parameter name="smtpUserName" value="hepeng@mindai.com" />  <!-- 测试报告邮件发送：smtp身份证验证-->
-    <parameter name="smtpPassWord" value="Mindaitianxia2017" />  <!-- 测试报告邮件发送：smtp身份证验证-->
+    <parameter name="smtpUserName" value="" />  <!-- 测试报告邮件发送：smtp身份证验证-->
+    <parameter name="smtpPassWord" value="Mindaitianxia2018" />  <!-- 测试报告邮件发送：smtp身份证验证-->
     <parameter name="smtpHost" value="smtp.exmail.qq.com" /> <!-- 测试报告邮件发送：smtp主机地址-->
     <parameter name="smtpPort" value="465" />  <!-- 测试报告邮件发送：smtp主机端口-->
     <parameter name="mailTitle" value="${mailTitle}" />  <!-- 测试报告邮件发送：邮件标题-->
@@ -26,7 +26,7 @@
         <!--<parameter name="nodeURL" value="" /> &lt;!&ndash;selenium grid分布式运行node节点url，如不用分布式运行，则留空&ndash;&gt;-->
         <classes>
                   <!-- <class name="org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login" />    --> 
-                    <class name="org.webdriver.mindaiwebui.cases.Jjfabiaotest"> </class>/>  
+                    <class name="org.webdriver.mindaiwebui.cases.LoginTest2"> </class>/>  
                  <!--  <class name="org.webdriver.mindaiwebui.cases.RegistrationTest"> </class> --> 
         </classes>
       </test> <!-- Test -->

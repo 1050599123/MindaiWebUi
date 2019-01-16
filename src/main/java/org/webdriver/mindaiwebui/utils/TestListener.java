@@ -7,10 +7,8 @@ import org.webdriver.mindaiwebui.utils.Log;
 import org.webdriver.mindaiwebui.utils.ScreenShot;
 import org.webdriver.mindaiwebui.utils.TestBaseCase;
 
-import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 /**

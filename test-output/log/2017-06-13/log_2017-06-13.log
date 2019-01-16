@@ -1,0 +1,70 @@
+[2017-06-13 10:40:10,168] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-06-13 10:40:10,169] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的%FirefoxDriver%浏览器并将其初始化
+
+[2017-06-13 10:40:10,207] ERROR org.webdriver.mindaiwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2017-06-13 10:40:10,345] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:40:10,346] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:40:10,346] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:40:10,347] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:40:10,347] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:40:16,834] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-06-13 10:42:17,368] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-06-13 10:42:17,369] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的%FirefoxDriver%浏览器并将其初始化
+
+[2017-06-13 10:42:17,408] ERROR org.webdriver.mindaiwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2017-06-13 10:42:17,530] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:42:17,531] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:42:17,532] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:42:17,532] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:42:17,533] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:42:25,742] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-06-13 10:43:47,654] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-06-13 10:43:47,656] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的${driver}浏览器并将其初始化
+
+[2017-06-13 10:43:47,694] ERROR org.webdriver.mindaiwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2017-06-13 10:43:47,808] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:43:47,809] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:43:47,809] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:43:47,810] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:43:47,810] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:44:00,578] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-06-13 10:48:50,481] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-06-13 10:48:50,483] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的${driver}浏览器并将其初始化
+
+[2017-06-13 10:48:50,518] ERROR org.webdriver.mindaiwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2017-06-13 10:48:50,636] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:48:50,637] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:48:50,637] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:48:50,638] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:48:50,638] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:48:57,468] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-06-13 10:49:03,532] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-06-13 10:49:03,534] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的%FirefoxDriver%浏览器并将其初始化
+
+[2017-06-13 10:49:03,572] ERROR org.webdriver.mindaiwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2017-06-13 10:49:03,688] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:49:03,689] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:49:03,690] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:49:03,690] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:49:03,691] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:49:10,587] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-06-13 10:58:19,173] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-06-13 10:58:19,175] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的%FirefoxDriver%浏览器并将其初始化
+
+[2017-06-13 10:58:19,214] ERROR org.webdriver.mindaiwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2017-06-13 10:58:19,325] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:58:19,325] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:58:19,326] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:58:19,326] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:58:19,327] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 10:58:27,628] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2017-06-13 11:05:12,399] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2017-06-13 11:05:12,401] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的%FirefoxDriver%浏览器并将其初始化
+
+[2017-06-13 11:05:12,439] ERROR org.webdriver.mindaiwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2017-06-13 11:05:12,557] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 11:05:12,558] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 11:05:12,558] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 11:05:12,559] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 11:05:12,559] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:发标失败用例---start
+[2017-06-13 11:05:30,601] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！

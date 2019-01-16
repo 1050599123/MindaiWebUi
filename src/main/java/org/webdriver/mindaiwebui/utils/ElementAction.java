@@ -1,11 +1,16 @@
 package org.webdriver.mindaiwebui.utils;
+import java.awt.image.BufferedImage;
 import java.io.File;
+import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
+import javax.imageio.ImageIO;
+
+import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.ElementNotVisibleException;
@@ -24,6 +29,9 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.google.common.io.Files;
+
+import org.webdriver.mindaiwebui.utils.OCRHelper;
+import org.webdriver.mindaiwebui.utils.ClearImageHelper;
 /**
  * 页面元素操作类--操作页面元素的方法
  * @author Administrator 
@@ -844,7 +852,7 @@ public class ElementAction extends TestBaseCase{
 
 	}
 	/**
-	 * 判断医组元素是否存在
+	 * 判断一组元素是否存在
 	 * @param locator 一组元素定位信息
 	 * @param timeOut 超时时间 秒
 	 * @return 返回boolean true存在，false不存在
@@ -886,5 +894,85 @@ public class ElementAction extends TestBaseCase{
 		webDriverWait.until(ExpectedConditions.visibilityOf(action.findElement(locator))).isDisplayed();
 
 	}
+	/**
+	 * 识别图形验证码
+	 * @param locator
+	 */
+	public  String Getgraphicscode(Locator locator) throws IOException {
+	
+        WebElement ele=findElement(locator);
+		File screenshot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		// 获取整个页面截图
+		BufferedImage fullImg=ImageIO.read(screenshot);
+		// 获取页面上元素的位置
+		org.openqa.selenium.Point point= ele.getLocation();
+		// 获取元素的宽度和高度
+		int eleWidth= ele.getSize().getWidth();
+		int eleHeight= ele.getSize().getHeight();
+		// 裁剪整个页面截图只得到元素截图
+		BufferedImage eleScreenshot= fullImg.getSubimage(point.getX(), point.getY(), eleWidth, eleHeight);
+		ImageIO.write(eleScreenshot, "png", screenshot);	
+		String picName = "F:\\img\\";	
+		//File screenshotLocation= new File("F:/img/test.png");			
+		File filepic=new File(picName+"/tesseract");
+		//判断当前目录是否存在 不存在则创建
+		if(!filepic.exists())
+			filepic.mkdirs();
+		// 将元素截图复制到磁盘
+		File filepicF=new File(picName+"test.png");
+		FileUtils.copyFile(screenshot, filepicF);
+		final String destDir = picName+"/tesseract";
+		String valCode="";
+		//将图像去噪的处理
+		ClearImageHelper.cleanImage(filepicF, destDir);
+		   try {    
+			   //进行图像识别
+	            valCode = new OCRHelper().recognizeText(new File(picName+"test.png"), "png");      
+	           // System.out.println(valCode);   	            
+	    		log.info("图片文字为:" + valCode.replace(",", "").replace("i", "1").replace(" ", "").replace("'", "").replace("o", "0").replace("O", "0").replace("g", "6").replace("B", "8").replace("s", "5").replace("z", "2"));
+	    	
+	        } catch (IOException e) {      
+	            e.printStackTrace();      
+	        } catch (Exception e) {   
+	            e.printStackTrace();   
+	        }
+		 
+		return valCode;     	  			
+	}
+	/**
+	 * 执行js语句
+	 * @param locator
+	 */
+	public  void Dragtoseeelements(Locator locator) throws IOException {
+
+     
+        driver.manage().window().maximize();  
+       
+        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+          
+        
+        // 定义csdn底部  这个元素
+        WebElement element = driver.findElement(By.xpath("//*/dd[@class='foot_sub_menu']/a[1]"));
+        //创建一个javascript 执行实例
+      	JavascriptExecutor je = (JavascriptExecutor) driver;
+      		
+      	//执行js语句，拖拽浏览器滚动条，直到该元素到底部，马上就不可以见
+
+
+
+	}
+	/***
+	 * 去除除数字外的字符
+	 * 
+	 */
+	public String formatInviteCode(String Code) {
+		String str2 = "";
+		for (int i = 0; i < Code.length(); i++) {
+		if (Character.isDigit(Code.charAt(i))) {
+		str2 += Code.charAt(i);
+		  }
+		  }
+		   return str2;
+		}
 
 }
