@@ -101,7 +101,7 @@
                     <div class="method-list-content failed suite-Suite">
                       <span>
                         <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.webdriver.mindaiwebui.cases.LoginTest2" hash-for-method="Login(13620024019, 123456, 张大大, 210505199106040166)">Login(13620024019, 123456, 张大大, 210505199106040166)</a> <!-- method navigator-link -->
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login" hash-for-method="houtaiTaiLogin(hepeng, 123456, 1234, 验证码错误)">houtaiTaiLogin(hepeng, 123456, 1234, 验证码错误)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content failed suite-Suite -->
@@ -119,34 +119,43 @@
           <div class="suite-Suite-class-failed">
             <div class="main-panel-header rounded-window-top">
               <img src="failed.png"/>
-              <span class="class-name">org.webdriver.mindaiwebui.cases.LoginTest2</span>
+              <span class="class-name">org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="Login(13620024019, 123456, 张大大, 210505199106040166)">
-                  </a> <!-- Login(13620024019, 123456, 张大大, 210505199106040166) -->
-                  <span class="method-name">Login</span>
-                  <span class="parameters">(13620024019, 123456, 张大大, 210505199106040166)</span>
-                  <div class="stack-trace">org.openqa.selenium.WebDriverException: Element is not clickable at point (1050.5, 554). Other element would receive the click: &lt;div id=&quot;loading&quot; class=&quot;loadingModal&quot;&gt;&lt;/div&gt;
-Command duration or timeout: 957 milliseconds
+                  <a name="houtaiTaiLogin(hepeng, 123456, 1234, 验证码错误)">
+                  </a> <!-- houtaiTaiLogin(hepeng, 123456, 1234, 验证码错误) -->
+                  <span class="method-name">houtaiTaiLogin</span>
+                  <span class="parameters">(hepeng, 123456, 1234, 验证码错误)</span>
+                  <div class="stack-trace">org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 11 milliseconds
 Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
-System info: host: &apos;hepeng&apos;, ip: &apos;192.168.1.75&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_91&apos;
+System info: host: &apos;hepeng&apos;, ip: &apos;192.168.1.105&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_91&apos;
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: dbc8251c-96ee-4fba-a469-e9e701cd99ea
+Session ID: ae24cd2f-1255-42a2-a3a2-93026c935f64
 	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
 	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
-	at org.webdriver.mindaiwebui.utils.ElementAction.click(ElementAction.java:500)
-	at org.webdriver.mindaiwebui.action.joyreachadsAction.&lt;init&gt;(joyreachadsAction.java:30)
-	at org.webdriver.mindaiwebui.cases.LoginTest2.Login(LoginTest2.java:37)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:140)
+	at org.webdriver.mindaiwebui.utils.ElementAction.clear(ElementAction.java:717)
+	at org.webdriver.mindaiwebui.action.HouTaiLoginAction.&lt;init&gt;(HouTaiLoginAction.java:19)
+	at org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login.houtaiTaiLogin(HouTai_Login.java:39)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
+System info: host: &apos;hepeng&apos;, ip: &apos;192.168.1.105&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_91&apos;
+Driver info: driver.version: unknown
+	at &lt;anonymous class&gt;.fxdriver.preconditions.visible(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:10092)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.checkPreconditions_(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12644)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
 ... Removed 28 stack frames
 </div> <!-- stack-trace -->
                   <em>
-(测试用例)                  </em>
+(后台用户登陆)                  </em>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
@@ -174,8 +183,8 @@ Session ID: dbc8251c-96ee-4fba-a469-e9e701cd99ea
   &lt;parameter name=&quot;driver&quot; value=&quot;FirefoxDriver&quot;/&gt;
   &lt;parameter name=&quot;smtpUserName&quot; value=&quot;&quot;/&gt;
   &lt;parameter name=&quot;recipients&quot; value=&quot;hepeng@mindai.com&quot;/&gt;
-  &lt;parameter name=&quot;HouTaiUrl&quot; value=&quot;http://121.196.208.139:8085/&quot;/&gt;
-  &lt;parameter name=&quot;BaseUrl&quot; value=&quot;https://testbank.mindai.com/&quot;/&gt;
+  &lt;parameter name=&quot;HouTaiUrl&quot; value=&quot;http://test2adminbank.mindai.com/&quot;/&gt;
+  &lt;parameter name=&quot;BaseUrl&quot; value=&quot;https://test2bank.mindai.com/&quot;/&gt;
   &lt;parameter name=&quot;logUrl&quot; value=&quot;http://192.168.1.193:8088/log_2017-02-10.html&quot;/&gt;
   &lt;listeners&gt;
     &lt;listener class-name=&quot;org.webdriver.mindaiwebui.utils.TestListener&quot;/&gt;
@@ -183,7 +192,7 @@ Session ID: dbc8251c-96ee-4fba-a469-e9e701cd99ea
   &lt;/listeners&gt;
   &lt;test name=&quot;后台用户登陆用例&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;org.webdriver.mindaiwebui.cases.LoginTest2&quot;/&gt;
+      &lt;class name=&quot;org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- 后台用户登陆用例 --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -225,14 +234,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'Login')
-data.setCell(0, 2, 'org.webdriver.mindaiwebui.cases.LoginTest2')
-data.setCell(0, 3, 4015);
+data.setCell(0, 1, 'houtaiTaiLogin')
+data.setCell(0, 2, 'org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login')
+data.setCell(0, 3, 1480);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 4 seconds</span>
+              <span class="suite-total-time">Total running time: 1 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -258,7 +267,7 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">org.webdriver.mindaiwebui.cases.LoginTest2</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">setup(FirefoxDriver, )</span>
                 <span class="method-start">0 ms</span>
@@ -266,12 +275,12 @@ return data;
               <div class="test-method">
                 <img src="failed.png">
                 </img>
-                <span class="method-name">Login(13620024019, 123456, 张大大, 210505199106040166)</span>
-                <span class="method-start">3652 ms</span>
+                <span class="method-name">houtaiTaiLogin(hepeng, 123456, 1234, 验证码错误)</span>
+                <span class="method-start">3250 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-test after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">7684 ms</span>
+                <span class="method-start">4749 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

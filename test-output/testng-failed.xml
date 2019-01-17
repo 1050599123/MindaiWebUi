@@ -14,8 +14,8 @@
   <parameter name="driver" value="FirefoxDriver"/>
   <parameter name="smtpUserName" value=""/>
   <parameter name="recipients" value="hepeng@mindai.com"/>
-  <parameter name="HouTaiUrl" value="http://121.196.208.139:8085/"/>
-  <parameter name="BaseUrl" value="https://testbank.mindai.com/"/>
+  <parameter name="HouTaiUrl" value="http://test2adminbank.mindai.com/"/>
+  <parameter name="BaseUrl" value="https://test2bank.mindai.com/"/>
   <parameter name="logUrl" value="http://192.168.1.193:8088/log_2017-02-10.html"/>
   <listeners>
     <listener class-name="org.webdriver.mindaiwebui.utils.TestListener"/>
@@ -23,13 +23,13 @@
   </listeners>
   <test name="后台用户登陆用例(failed)">
     <classes>
-      <class name="org.webdriver.mindaiwebui.cases.LoginTest2">
+      <class name="org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login">
         <methods>
+          <include name="houtaiTaiLogin" invocation-numbers="0"/>
           <include name="tearDown"/>
-          <include name="Login" invocation-numbers="0"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- org.webdriver.mindaiwebui.cases.LoginTest2 -->
+      </class> <!-- org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login -->
     </classes>
   </test> <!-- 后台用户登陆用例(failed) -->
 </suite> <!-- Failed suite [Suite] -->

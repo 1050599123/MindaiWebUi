@@ -375,3 +375,440 @@
 [2019-01-16 17:07:53,018] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
 [2019-01-16 17:07:53,674] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
 [2019-01-16 17:07:55,267] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 17:36:56,447] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 17:36:56,449] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 17:36:59,619] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 17:36:59,624] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 17:37:00,309] INFO  org.webdriver.mindaiwebui.pageObject.HouTai_LoginPage 打开浏览器，访问http://test2adminbank.mindai.comadmin/index/login网址!
+[2019-01-16 17:37:00,448] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:00,964] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:01,474] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:01,986] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:02,498] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:03,008] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:03,520] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:04,033] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:04,543] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:05,053] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:05,566] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:06,076] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:06,591] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:07,103] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:37:07,614] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:48:09,497] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 17:48:09,499] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 17:48:12,731] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 17:48:12,737] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 17:48:14,532] INFO  org.webdriver.mindaiwebui.pageObject.HouTai_LoginPage 打开浏览器，访问http://test2adminbank.mindai.comadmin/index/login网址!
+[2019-01-16 17:48:14,564] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:48:15,081] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:48:15,591] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:48:16,100] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:48:16,612] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:48:17,126] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:48:17,637] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:48:18,149] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:48:18,660] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:48:19,173] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:49:16,855] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 17:49:16,857] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 17:49:20,100] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 17:49:20,105] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 17:49:21,473] INFO  org.webdriver.mindaiwebui.pageObject.HouTai_LoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 17:49:21,499] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:49:21,577] ERROR org.webdriver.mindaiwebui.utils.ElementAction 清除input值失败:后台登陆用户名输入框[By.id:username]
+[2019-01-16 17:49:21,580] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--failed
+[2019-01-16 17:49:21,581] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 17:49:21,594] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--failed
+[2019-01-16 17:49:21,595] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 17:49:21,993] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 17:49:23,677] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 17:51:55,958] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 17:51:55,959] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 17:51:59,357] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 17:52:00,635] INFO  org.webdriver.mindaiwebui.pageObject.HouTai_LoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 17:52:00,662] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:52:00,752] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--failed
+[2019-01-16 17:52:00,753] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 17:52:01,219] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 17:52:04,473] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 17:58:43,437] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 17:58:43,439] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 17:58:47,001] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 17:58:47,796] INFO  org.webdriver.mindaiwebui.pageObject.HouTai_LoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 17:58:47,814] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 17:58:47,904] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--failed
+[2019-01-16 17:58:47,905] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 17:58:48,405] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 17:58:49,923] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 18:02:19,660] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 18:02:19,662] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 18:02:22,979] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 18:02:27,125] INFO  org.webdriver.mindaiwebui.pageObject.HouTai_LoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 18:02:27,149] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.xpath://*[@id='username']]
+[2019-01-16 18:02:27,232] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--failed
+[2019-01-16 18:02:27,233] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 18:02:27,715] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 18:02:29,296] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 18:08:42,262] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 18:08:42,264] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 18:08:45,453] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 18:08:46,295] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 18:08:46,314] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:08:46,384] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:08:46,384] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:08:46,437] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:lirenjie]
+[2019-01-16 18:08:46,438] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:08:46,464] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:08:46,464] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:08:46,501] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.xpath://input[@name='password' and @class='login_text1']value:123456]
+[2019-01-16 18:08:46,502] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicodeImg]
+[2019-01-16 18:08:46,530] ERROR org.webdriver.mindaiwebui.utils.ElementAction 清除input值失败:验证码输入框[By.id:valicodeImg]
+[2019-01-16 18:08:46,546] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--failed
+[2019-01-16 18:08:46,546] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 18:08:46,958] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 18:08:48,531] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 18:12:23,634] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 18:12:23,636] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 18:12:26,858] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 18:12:27,794] INFO  org.webdriver.mindaiwebui.pageObject.HouTai_LoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 18:12:27,812] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：后台登陆用户名输入框方式[By.id:username]
+[2019-01-16 18:12:27,890] ERROR org.webdriver.mindaiwebui.utils.ElementAction 清除input值失败:后台登陆用户名输入框[By.id:username]
+[2019-01-16 18:12:27,907] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--failed
+[2019-01-16 18:12:27,908] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 18:12:28,341] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 18:12:29,897] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 18:16:45,546] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 18:16:45,548] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 18:16:48,740] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 18:16:49,726] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 18:16:49,758] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:16:49,825] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:16:49,825] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:16:49,872] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:hepeng]
+[2019-01-16 18:16:49,872] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:16:49,898] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:16:49,898] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:16:49,938] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.xpath://input[@name='password' and @class='login_text1']value:123456]
+[2019-01-16 18:16:49,939] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-16 18:16:50,747] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:8449
+[2019-01-16 18:16:50,747] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:16:50,770] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-16 18:16:50,771] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:16:50,803] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:8449]
+[2019-01-16 18:16:51,804] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-16 18:16:52,655] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-16 18:16:53,657] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-16 18:16:53,657] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 18:16:54,083] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 18:16:55,887] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 18:19:33,085] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 18:19:33,087] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 18:19:36,361] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 18:19:37,218] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 18:19:37,250] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:19:37,318] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:19:37,318] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:19:37,366] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:hepeng]
+[2019-01-16 18:19:37,366] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:19:37,390] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:19:37,391] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:19:37,437] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.xpath://input[@name='password' and @class='login_text1']value:123456]
+[2019-01-16 18:19:37,437] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-16 18:19:38,232] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:4773
+[2019-01-16 18:19:38,232] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:19:38,256] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-16 18:19:38,257] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:19:38,296] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:4773]
+[2019-01-16 18:19:39,296] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-16 18:19:39,919] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-16 18:19:40,921] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-16 18:19:40,921] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 18:19:41,612] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 18:19:43,418] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 18:20:21,882] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 18:20:21,885] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 18:20:25,148] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 18:20:25,974] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 18:20:26,003] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:20:26,080] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:20:26,080] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:20:26,132] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:hepeng]
+[2019-01-16 18:20:26,133] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:20:26,154] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:20:26,155] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:20:26,198] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.xpath://input[@name='password' and @class='login_text1']value:123456]
+[2019-01-16 18:20:26,198] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-16 18:20:27,007] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:
+[2019-01-16 18:20:27,007] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:20:27,037] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-16 18:20:27,038] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:20:27,068] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:]
+[2019-01-16 18:20:28,068] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-16 18:20:28,139] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-16 18:20:29,142] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-16 18:20:29,142] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 18:20:29,622] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 18:20:31,131] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 18:23:30,739] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 18:23:30,741] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 18:23:33,968] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 18:23:34,880] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 18:23:34,915] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:username]
+[2019-01-16 18:23:34,979] ERROR org.webdriver.mindaiwebui.utils.ElementAction 清除input值失败:用户名输入框[By.id:username]
+[2019-01-16 18:23:34,998] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--failed
+[2019-01-16 18:23:34,999] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 18:23:35,438] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 18:23:37,004] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 18:25:12,370] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 18:25:12,372] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 18:25:15,639] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 18:25:16,551] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 18:25:16,584] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:25:16,648] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:25:16,649] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:25:16,702] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:hepeng]
+[2019-01-16 18:25:16,702] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:25:16,725] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:25:16,726] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:25:16,770] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.xpath://input[@name='password' and @class='login_text1']value:123456]
+[2019-01-16 18:25:16,770] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-16 18:25:17,582] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:6862
+[2019-01-16 18:25:17,583] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:25:17,610] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-16 18:25:17,610] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:25:17,648] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:6862]
+[2019-01-16 18:25:18,648] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-16 18:25:19,376] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-16 18:25:20,378] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-16 18:25:20,378] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 18:25:21,092] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 18:25:22,796] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 18:28:47,337] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 18:28:47,338] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 18:28:50,628] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 18:28:51,788] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 18:28:51,815] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:28:51,879] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:28:51,879] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:28:51,931] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:hepeng]
+[2019-01-16 18:28:51,932] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:28:51,974] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.xpath://input[@name='password' and @class='login_text1']value:123456]
+[2019-01-16 18:28:51,975] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-16 18:28:52,782] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:9379
+[2019-01-16 18:28:52,783] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:28:52,819] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:9379]
+[2019-01-16 18:28:53,820] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-16 18:28:54,508] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-16 18:28:55,510] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-16 18:28:55,510] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 18:28:55,992] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 18:28:57,709] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 18:53:00,276] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 18:53:00,277] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 18:53:03,474] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 18:53:04,815] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 18:53:04,848] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:53:04,919] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:53:04,919] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:53:04,971] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:lirenjie]
+[2019-01-16 18:53:04,971] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:53:05,002] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:53:05,003] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:53:05,048] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.xpath://input[@name='password' and @class='login_text1']value:123456]
+[2019-01-16 18:53:05,049] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-16 18:53:05,841] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:
+[2019-01-16 18:53:05,842] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:53:05,868] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-16 18:53:05,868] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:53:05,898] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:]
+[2019-01-16 18:53:06,899] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-16 18:53:06,970] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-16 18:53:17,972] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-16 18:53:17,973] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 18:53:18,464] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 18:53:20,157] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 18:54:20,424] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 18:54:20,426] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 18:54:23,811] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 18:54:24,763] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 18:54:24,806] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:54:24,876] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:54:24,876] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:54:24,921] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:lirenjie]
+[2019-01-16 18:54:24,921] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:54:24,949] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:54:24,950] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:54:24,989] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.xpath://input[@name='password' and @class='login_text1']value:123456]
+[2019-01-16 18:54:24,990] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-16 18:54:25,805] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:6557
+[2019-01-16 18:54:25,805] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:54:25,830] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-16 18:54:25,830] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:54:25,869] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:6557]
+[2019-01-16 18:54:26,870] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-16 18:54:27,448] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-16 18:54:38,449] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-16 18:54:38,450] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 18:54:38,886] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 18:54:40,622] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 18:56:52,739] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 18:56:52,741] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 18:56:55,957] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 18:56:56,908] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 18:56:56,930] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:56:56,996] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:56:56,997] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 18:56:57,054] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:lirenjie]
+[2019-01-16 18:56:57,054] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:56:57,083] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:56:57,084] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 18:56:57,125] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.xpath://input[@name='password' and @class='login_text1']value:123456]
+[2019-01-16 18:57:27,125] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-16 18:57:27,950] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:8378
+[2019-01-16 18:57:27,951] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:57:27,975] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-16 18:57:27,975] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 18:57:28,012] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:8378]
+[2019-01-16 18:57:29,012] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-16 18:57:29,634] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-16 18:57:40,635] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-16 18:57:40,636] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 18:57:41,089] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 18:57:42,805] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 19:00:39,187] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 19:00:39,189] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 19:00:42,482] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 19:00:43,399] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 19:00:43,416] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:00:43,488] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:00:43,489] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:00:43,534] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:lirenjie]
+[2019-01-16 19:00:43,535] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.xpath://input[@name='password' and @class='login_text1']]
+[2019-01-16 19:00:43,579] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.xpath://input[@name='password' and @class='login_text1']value:123456]
+[2019-01-16 19:01:13,579] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-16 19:01:14,354] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:2843
+[2019-01-16 19:01:14,354] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 19:01:14,382] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-16 19:01:14,382] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 19:01:14,417] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:2843]
+[2019-01-16 19:01:15,417] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-16 19:01:15,983] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-16 19:01:26,985] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-16 19:01:26,986] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 19:01:27,490] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 19:01:29,622] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 19:02:24,923] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 19:02:24,925] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 19:02:28,138] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 19:02:29,055] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 19:02:29,078] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:02:29,144] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:02:29,145] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:02:29,204] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:lirenjie]
+[2019-01-16 19:02:29,205] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginPassword]
+[2019-01-16 19:02:29,248] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.id:loginPasswordvalue:123456]
+[2019-01-16 19:02:59,248] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-16 19:03:00,037] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:1705
+[2019-01-16 19:03:00,038] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 19:03:00,068] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-16 19:03:00,068] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 19:03:00,102] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:1705]
+[2019-01-16 19:03:01,102] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-16 19:03:01,670] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-16 19:03:12,672] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-16 19:03:12,672] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 19:03:13,205] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 19:03:14,927] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 19:04:05,154] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 19:04:05,156] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 19:04:08,374] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 19:04:09,322] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 19:04:09,350] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:04:09,414] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:04:09,414] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:04:09,472] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:123456]
+[2019-01-16 19:04:09,472] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginPassword]
+[2019-01-16 19:04:09,519] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.id:loginPasswordvalue:123456]
+[2019-01-16 19:04:39,519] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-16 19:04:40,312] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:9240
+[2019-01-16 19:04:40,312] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 19:04:40,337] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-16 19:04:40,337] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 19:04:40,375] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:9240]
+[2019-01-16 19:04:41,375] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-16 19:04:41,975] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-16 19:04:52,976] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-16 19:04:52,977] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 19:04:53,464] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 19:04:55,205] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 19:05:32,544] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 19:05:32,546] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 19:05:50,739] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 19:05:51,766] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 19:05:51,790] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:05:51,865] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:05:51,865] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:05:51,914] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:lirenjie]
+[2019-01-16 19:05:51,915] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginPassword]
+[2019-01-16 19:05:51,938] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.id:loginPassword]
+[2019-01-16 19:05:51,938] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginPassword]
+[2019-01-16 19:05:51,985] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.id:loginPasswordvalue:123456]
+[2019-01-16 19:06:21,986] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-16 19:06:22,759] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:9278
+[2019-01-16 19:06:22,759] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 19:06:22,783] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-16 19:06:22,784] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 19:06:22,818] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:9278]
+[2019-01-16 19:06:23,819] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-16 19:06:24,440] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-16 19:06:35,443] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-16 19:06:35,443] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 19:06:36,129] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 19:06:37,863] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-16 19:13:05,479] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-16 19:13:05,480] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-16 19:13:08,652] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-16 19:13:09,513] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-16 19:13:09,534] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:13:09,606] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:13:09,606] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-16 19:13:09,660] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:lirenjie]
+[2019-01-16 19:13:09,661] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginPassword]
+[2019-01-16 19:13:09,685] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.id:loginPassword]
+[2019-01-16 19:13:09,685] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginPassword]
+[2019-01-16 19:13:09,732] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.id:loginPasswordvalue:123456]
+[2019-01-16 19:13:09,732] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-16 19:13:10,578] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:2140
+[2019-01-16 19:13:10,578] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 19:13:10,602] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-16 19:13:10,602] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-16 19:13:10,639] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:2140]
+[2019-01-16 19:13:11,639] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-16 19:13:12,230] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-16 19:13:13,232] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-16 19:13:13,232] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-16 19:13:13,669] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-16 19:13:16,228] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！

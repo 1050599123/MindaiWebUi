@@ -40,6 +40,16 @@ public Locator 密码输入框() throws IOException
    return locator;
  }
 /***
+* 图形验证码
+* @return
+* @throws IOException
+*/
+public Locator 图形验证码() throws IOException
+{
+  Locator locator=getLocator("图形验证码");
+  return locator;
+}
+/***
 * 验证码
 * @return
 * @throws IOException

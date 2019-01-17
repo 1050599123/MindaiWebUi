@@ -47,6 +47,16 @@ public Locator 后台验证码输入框() throws IOException
   return locator;
 }
 /***
+* 图形验证码
+* @return
+* @throws IOException
+*/
+public Locator 图形验证码() throws IOException
+{
+  Locator locator=getLocator("图形验证码");
+  return locator;
+}
+/***
 * 登录
 * @return
 * @throws IOException

@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="8358" started-at="2018-11-21T09:17:59Z" finished-at="2018-11-21T09:18:07Z">
+  <suite name="Suite" duration-ms="5148" started-at="2019-01-16T09:49:16Z" finished-at="2019-01-16T09:49:21Z">
     <groups>
     </groups>
-    <test name="后台用户登陆用例" duration-ms="8358" started-at="2018-11-21T09:17:59Z" finished-at="2018-11-21T09:18:07Z">
-      <class name="org.webdriver.mindaiwebui.cases.LoginTest2">
-        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest2@24269709]" name="setup" is-config="true" duration-ms="3500" started-at="2018-11-21T17:17:59Z" finished-at="2018-11-21T17:18:02Z">
+    <test name="后台用户登陆用例" duration-ms="5148" started-at="2019-01-16T09:49:16Z" finished-at="2019-01-16T09:49:21Z">
+      <class name="org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login@74650e52]" name="setup" is-config="true" duration-ms="3106" started-at="2019-01-16T17:49:16Z" finished-at="2019-01-16T17:49:19Z">
           <params>
             <param index="0">
               <value>
@@ -23,11 +23,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest2@24269709]" name="Login" duration-ms="4015" started-at="2018-11-21T17:18:02Z" description="测试用例" data-provider="longinData" finished-at="2018-11-21T17:18:06Z">
+        <test-method status="FAIL" signature="houtaiTaiLogin(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login@74650e52]" name="houtaiTaiLogin" duration-ms="1480" started-at="2019-01-16T17:49:20Z" description="后台用户登陆" data-provider="houtaiLogin" finished-at="2019-01-16T17:49:21Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[13620024019]]>
+                <![CDATA[hepeng]]>
               </value>
             </param>
             <param index="1">
@@ -37,33 +37,33 @@
             </param>
             <param index="2">
               <value>
-                <![CDATA[张大大]]>
+                <![CDATA[1234]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[210505199106040166]]>
+                <![CDATA[验证码错误]]>
               </value>
             </param>
           </params>
-          <exception class="org.openqa.selenium.WebDriverException">
+          <exception class="org.openqa.selenium.ElementNotVisibleException">
             <message>
-              <![CDATA[Element is not clickable at point (1050.5, 554). Other element would receive the click: <div id="loading" class="loadingModal"></div>
-Command duration or timeout: 957 milliseconds
+              <![CDATA[Element is not currently visible and so may not be interacted with
+Command duration or timeout: 11 milliseconds
 Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
-System info: host: 'hepeng', ip: '192.168.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+System info: host: 'hepeng', ip: '192.168.1.105', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: dbc8251c-96ee-4fba-a469-e9e701cd99ea]]>
+Session ID: ae24cd2f-1255-42a2-a3a2-93026c935f64]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.WebDriverException: Element is not clickable at point (1050.5, 554). Other element would receive the click: <div id="loading" class="loadingModal"></div>
-Command duration or timeout: 957 milliseconds
+              <![CDATA[org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Command duration or timeout: 11 milliseconds
 Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
-System info: host: 'hepeng', ip: '192.168.1.75', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+System info: host: 'hepeng', ip: '192.168.1.105', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
 Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: dbc8251c-96ee-4fba-a469-e9e701cd99ea
+Session ID: ae24cd2f-1255-42a2-a3a2-93026c935f64
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -72,10 +72,10 @@ Session ID: dbc8251c-96ee-4fba-a469-e9e701cd99ea
 	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
 	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
 	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
-	at org.webdriver.mindaiwebui.utils.ElementAction.click(ElementAction.java:500)
-	at org.webdriver.mindaiwebui.action.joyreachadsAction.<init>(joyreachadsAction.java:30)
-	at org.webdriver.mindaiwebui.cases.LoginTest2.Login(LoginTest2.java:37)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:140)
+	at org.webdriver.mindaiwebui.utils.ElementAction.clear(ElementAction.java:717)
+	at org.webdriver.mindaiwebui.action.HouTaiLoginAction.<init>(HouTaiLoginAction.java:19)
+	at org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login.houtaiTaiLogin(HouTai_Login.java:39)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -100,17 +100,26 @@ Session ID: dbc8251c-96ee-4fba-a469-e9e701cd99ea
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:236)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:81)
+Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'hepeng', ip: '192.168.1.105', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_91'
+Driver info: driver.version: unknown
+	at <anonymous class>.fxdriver.preconditions.visible(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:10092)
+	at <anonymous class>.DelayedCommand.prototype.checkPreconditions_(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12644)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          </exception> <!-- org.openqa.selenium.ElementNotVisibleException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.webdriver.mindaiwebui.cases.LoginTest2@24269709]" name="tearDown" is-config="true" duration-ms="671" started-at="2018-11-21T17:18:06Z" finished-at="2018-11-21T17:18:07Z">
+        </test-method> <!-- houtaiTaiLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login@74650e52]" name="tearDown" is-config="true" duration-ms="397" started-at="2019-01-16T17:49:21Z" finished-at="2019-01-16T17:49:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- org.webdriver.mindaiwebui.cases.LoginTest2 -->
+      </class> <!-- org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login -->
     </test> <!-- 后台用户登陆用例 -->
   </suite> <!-- Suite -->
 </testng-results>
