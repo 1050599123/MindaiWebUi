@@ -3,6 +3,7 @@ import org.webdriver.mindaiwebui.utils.Log;
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
@@ -13,6 +14,9 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 import java.net.MalformedURLException;
 import java.net.URL;
 
+
+import java.util.HashMap;
+import java.util.Map;
 
 import org.testng.annotations.Parameters;
 import org.testng.annotations.BeforeTest;
@@ -87,8 +91,12 @@ public class TestBaseCase {
 				this.driver=new FirefoxDriver(firefoxProfile);
 				break;
 			case "ChormeDriver":
-				System.setProperty("webdriver.chrome.driver", "src\\main\\resources\\driver\\chrome\\chromedriver.exe");		
-				this.driver=new ChromeDriver();
+				System.setProperty("webdriver.chrome.driver", "src\\main\\resources\\driver\\chrome\\chromedriver.exe");	
+				Map<String, String> mobileEmulation = new HashMap<>();
+				mobileEmulation.put("deviceName", "Nexus 5");			 
+				ChromeOptions chromeOptions = new ChromeOptions(); chromeOptions.setExperimentalOption("mobileEmulation", mobileEmulation);			 
+				this.driver = new ChromeDriver(chromeOptions);
+			//	this.driver=new ChromeDriver();
 				break;
 			case "InternetExplorerDriver":
 				System.setProperty("webdriver.ie.driver", "resource\\IEDriverServer_Win32_2.48.0\\IEDriverServer.exe");

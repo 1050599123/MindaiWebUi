@@ -1,7 +1,6 @@
 package org.webdriver.mindaiwebui.cases;
 
 import org.webdriver.mindaiwebui.action.SignoutAction;
-import org.webdriver.mindaiwebui.action.UpAction;
 import org.webdriver.mindaiwebui.pageObject.LoginPage;
 import org.webdriver.mindaiwebui.utils.*;
 import org.webdriver.mindaiwebui.db.*;

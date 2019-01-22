@@ -509,6 +509,24 @@ public class ElementAction extends TestBaseCase{
 
 	}
 	/**
+	 * 特殊单击操作
+	 * @param locator  元素locator
+	 */
+	public  void Javascriptclick(Locator locator)
+	{
+		try {
+			WebElement webElement=findElement(locator);
+			((JavascriptExecutor)driver).executeScript("arguments[0].click();", webElement);
+			log.info("click元素："+locator.getLocalorName()+"["+"By."+locator.getBy()+":"+locator.getElement()+"]成功！");
+		} catch (NoSuchElementException e) {
+			// TODO: handle exception
+			log.error("找不到元素，click失败:"+locator.getLocalorName()+"["+"By."+locator.getBy()+":"+locator.getElement()+"]");
+			e.printStackTrace();
+			throw e;
+		}
+
+	}
+	/**
 	 * 选择下拉框操作
 	 * @param locator  元素locator
 	 * @param text 选择下拉值

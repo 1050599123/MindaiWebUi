@@ -1,24 +1,15 @@
 package org.webdriver.mindaiwebui.cases;
 
-import org.webdriver.mindaiwebui.action.UpAction;
-import org.webdriver.mindaiwebui.pageObject.LoginPage;
 import org.webdriver.mindaiwebui.utils.*;
-import org.webdriver.mindaiwebui.db.*;
-import org.openqa.selenium.Alert;
 import org.apache.log4j.Logger;
 import org.dom4j.DocumentException;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.DataProvider;  
 import org.testng.annotations.Test;  
 import org.webdriver.mindaiwebui.action.LoginAction;
 import org.webdriver.mindaiwebui.action.InvestmentAction;
 import org.webdriver.mindaiwebui.action.SignoutAction;
-import org.webdriver.mindaiwebui.utils.*;
 	
     public class InvestmentTest extends TestBaseCase {  
-		  private Logger logger = Logger.getLogger(InvestmentTest.class);
 		  ElementAction action=new ElementAction();
 	  
 		   @DataProvider(name="longinData")

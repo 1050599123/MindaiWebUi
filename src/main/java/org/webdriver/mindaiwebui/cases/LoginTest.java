@@ -1,20 +1,13 @@
 package org.webdriver.mindaiwebui.cases;
 
-import org.webdriver.mindaiwebui.action.UpAction;
-import org.webdriver.mindaiwebui.pageObject.LoginPage;
+
 import org.webdriver.mindaiwebui.utils.*;
-import org.webdriver.mindaiwebui.db.*;
-import org.openqa.selenium.Alert;
 import org.apache.log4j.Logger;
 import org.dom4j.DocumentException;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.DataProvider;  
 import org.testng.annotations.Test;  
 import org.testng.annotations.Parameters;
 import org.webdriver.mindaiwebui.action.LoginAction;
-import org.webdriver.mindaiwebui.utils.*;
 import java.io.IOException;
 
     public class LoginTest extends TestBaseCase {  
