@@ -90,7 +90,7 @@
 		<locator type="xpath" timeout="3" value=".//*[@id='loginInfo']/p[4]/input"  desc="登录">登录按钮</locator>
 	</page>	
 			    
-	<page pagename="org.webdriver.mindaiwebui.pageObject.Registrationpage" value="" desc="注册页面">
+	<page pagename="org.webdriver.mindaiwebui.pageObject.Registrationpage" value="" desc="PC投资端注册页">
         <!--前台注册页面-->	
 		<locator type="id" timeout="3" value="regName"  desc="用户名">注册用户名输入框</locator>
 		<locator type="id" timeout="3" value="regPass"  desc="密码">注册密码输入框</locator>
@@ -99,6 +99,15 @@
 		<locator type="id" timeout="3" value="smsCode"  desc="短信验证码">短信验证码输入框</locator>
 		<locator type="id" timeout="3" value="inviter"  desc="推荐人">推荐人输入框</locator>
 		<locator type="id" timeout="3" value="sub"  desc="立即注册">立即注册按钮</locator>
+	</page>
+		<page pagename="org.webdriver.mindaiwebui.pageObject.LoanRegistrationpage" value="" desc="H5借款端端注册页">
+        <!--前台注册页面-->	
+		<locator type="xpath" timeout="3" value="//*[@id='root']/div/div/div/div/div[1]/div[2]/div/div/input"  desc="用户名">注册用户名输入框</locator>
+		<locator type="xpath" timeout="3" value="//*[@id='root']/div/div/div/div/div[2]/a"  desc="下一步按钮">下一步按钮</locator>
+		<locator type="xpath" timeout="3" value="//*[@id='root']/div/div/div/div[2]/div[2]/div[2]/div/div[1]/input"  desc="密码">注册密码输入框</locator>
+		<locator type="xpath" timeout="3" value="//*[@id='root']/div/div/div/div[2]/div[1]/div[2]/div/div[2]/p" desc="获取短信验证码">获取短信验证码</locator>
+		<locator type="xpath" timeout="3" value="//*[@id='root']/div/div/div/div[2]/div[1]/div[2]/div/div[1]/input"  desc="短信验证码">短信验证码输入框</locator>
+		<locator type="xpath" timeout="3" value="//*[@id='root']/div/div/div/div[2]/div[3]/a"  desc="完成注册按钮">完成注册按钮</locator>
 	</page>
 		<page pagename="org.webdriver.mindaiwebui.pageObject.Accountpage" value="" desc="开户页面">
         <!--存管开户页面-->	

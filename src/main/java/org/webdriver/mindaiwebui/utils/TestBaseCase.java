@@ -28,19 +28,19 @@ public class TestBaseCase {
 	public static String description;
 	public Log log=new Log(this.getClass().getSuperclass());
 	@BeforeTest
-	@Parameters({"driver","nodeURL"})
-	public void  setup( String driver,String nodeURL) throws MalformedURLException {
+	@Parameters({"driver","nodeURL","deviceName"})
+	public void  setup( String driver,String nodeURL,String deviceName) throws MalformedURLException {
 		log.info("------------------开始执行测试---------------");
 		if(nodeURL.equals("")||nodeURL.isEmpty())
 		{
-			log.info("读取testng.xml配置的"+driver+"浏览器并将其初始化\n");
+			log.info("读取testng.xml配置的"+driver+"浏览器并将其初始化");
 			try {
-				this.driver=setDriver(driver);
+				this.driver=setDriver(driver,deviceName);
 			} catch (Exception e) {
 				log.error("没有成功浏览器环境配置错误");
 				e.printStackTrace();
 			}
-			System.out.println(nodeURL);
+			//System.out.println(nodeURL);
 			this.driver.manage().window().maximize();
 		}
 		else {
@@ -69,7 +69,7 @@ public class TestBaseCase {
 	 * @author 
 	 *
 	 */
-	private WebDriver setDriver(String browsername)
+	private WebDriver setDriver(String browsername,String deviceName)
 	{
 
 		switch (browsername)
@@ -91,12 +91,16 @@ public class TestBaseCase {
 				this.driver=new FirefoxDriver(firefoxProfile);
 				break;
 			case "ChormeDriver":
-				System.setProperty("webdriver.chrome.driver", "src\\main\\resources\\driver\\chrome\\chromedriver.exe");	
-				Map<String, String> mobileEmulation = new HashMap<>();
-				mobileEmulation.put("deviceName", "Nexus 5");			 
-				ChromeOptions chromeOptions = new ChromeOptions(); chromeOptions.setExperimentalOption("mobileEmulation", mobileEmulation);			 
-				this.driver = new ChromeDriver(chromeOptions);
-			//	this.driver=new ChromeDriver();
+				System.setProperty("webdriver.chrome.driver", "src\\main\\resources\\driver\\chrome\\chromedriver.exe");					
+				if(!("").equals(deviceName)){
+					log.info("设置浏览器为手机模式模拟:"+deviceName+"访问");
+					Map<String, String> mobileEmulation = new HashMap<>();
+					mobileEmulation.put("deviceName", deviceName);			 
+					ChromeOptions chromeOptions = new ChromeOptions(); chromeOptions.setExperimentalOption("mobileEmulation", mobileEmulation);	
+					this.driver = new ChromeDriver(chromeOptions);
+				}else{
+					this.driver=new ChromeDriver();
+				}				
 				break;
 			case "InternetExplorerDriver":
 				System.setProperty("webdriver.ie.driver", "resource\\IEDriverServer_Win32_2.48.0\\IEDriverServer.exe");

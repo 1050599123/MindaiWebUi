@@ -35,10 +35,10 @@ import java.io.IOException;
 			//代替testng参数化的方法
 			String BaseUrl= XmlReadUtil.getTestngParametersValue("testng.xml","BaseUrl");			
 			//调用注册方法
-			RegistrationAction RegistrationAction=new RegistrationAction(BaseUrl+"/register.html",regName,regPass,imgCode,inviter);
+			new RegistrationAction(BaseUrl+"/register.html",regName,regPass,imgCode,inviter);
 			action.sleep(1);   
 			//调用退出方法
-			SignoutAction SignoutAction=new SignoutAction(); 
+			new SignoutAction(); 
 			//设置检查点
 		//	Assertion.VerityTextPresent(message,"验证是否出现预期的错误提示信息:"+message);
 			//设置断言

@@ -7,9 +7,9 @@ import org.webdriver.mindaiwebui.db.ReadProperties;
 public class ConnDb {
 	private Log log=new Log(this.getClass());
 	public  Connection getConn(String DataBaseName)	{
-		String driver = "com.mysql.jdbc.Driver";
-		String jdbcUrl = "jdbc:mysql://120.27.177.229:3306/"
-				+ DataBaseName;
+		String driver = "com.mysql.cj.jdbc.Driver";
+		String jdbcUrl = "jdbc:mysql://116.62.173.3:3306/"
+				+ DataBaseName+"?characterEncoding=utf-8&useSSL=false";
 		String username = "test_admin";
 		String password = "7HuowaffDtoVtc58yiAw";
 		Connection conn = null;

@@ -2,11 +2,11 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
 	<parameter name="driver" value="ChormeDriver" /> <!--测试浏览器：支持火狐，谷歌，IE-->
+	<parameter name="deviceName" value="iPhone X" />  <!-- 谷歌浏览器手机模式模拟手机型号名称-->	
 	<parameter name="nodeURL" value="" /> <!--selenium grid分布式运行node节点url，如不用分布式运行，则留空-->
 	<parameter name="BaseUrl" value="https://test2bank.mindai.com/" />  <!-- 测试前台Url-->
 	<parameter name="HouTaiUrl" value="http://test2adminbank.mindai.com/" />  <!-- 测试后台Url-->
 	<parameter name="LoanUrl" value="https://testbo2.mindai.com/" />  <!-- 借款端Url-->
-	<parameter name="XfdUrl" value="http://121.196.215.15:8088/" />  <!-- 消金进件Url-->	
 	<parameter name="UserName" value="" /> <!-- 系统登录用户名-->
 	<parameter name="PassWord" value="" />  <!-- 系统登录密码-->
     <parameter name="smtpUserName" value="" />  <!-- 测试报告邮件发送：smtp身份证验证-->
@@ -27,7 +27,7 @@
         <!--<parameter name="nodeURL" value="" /> &lt;!&ndash;selenium grid分布式运行node节点url，如不用分布式运行，则留空&ndash;&gt;-->
         <classes>
                   <!--   <class name="org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login" />   -->  
-                      <class name="org.webdriver.mindaiwebui.cases.LoanLoginTest"> </class>/>   
+                      <class name="org.webdriver.mindaiwebui.cases.LoanOpenaccount"> </class>/>   
                  <!--  <class name="org.webdriver.mindaiwebui.cases.RegistrationTest"> </class> --> 
         </classes>
       </test> <!-- Test -->

@@ -11,8 +11,8 @@ import org.webdriver.mindaiwebui.action.SignoutAction;
 import org.webdriver.mindaiwebui.action.joyreachadsAction;
 import org.webdriver.mindaiwebui.action.XwAccountAction;
 	
-    public class LoginTest2 extends TestBaseCase {  
-		  private Logger logger = Logger.getLogger(LoginTest2.class);
+    public class Openaccount extends TestBaseCase {  
+		  private Logger logger = Logger.getLogger(Openaccount.class);
 		  ElementAction action=new ElementAction();
 	  
 		   @DataProvider(name="longinData")
