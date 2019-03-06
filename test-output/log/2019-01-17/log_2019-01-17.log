@@ -1,0 +1,197 @@
+[2019-01-17 09:06:48,162] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-17 09:06:48,164] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的FirefoxDriver浏览器并将其初始化
+
+[2019-01-17 09:06:51,424] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-17 09:06:52,805] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-17 09:06:52,829] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-17 09:06:52,895] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-17 09:06:52,896] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-17 09:06:52,945] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:lirenjie]
+[2019-01-17 09:06:52,946] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginPassword]
+[2019-01-17 09:06:52,990] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.id:loginPassword]
+[2019-01-17 09:06:52,990] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginPassword]
+[2019-01-17 09:06:53,033] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.id:loginPasswordvalue:lirenjie]
+[2019-01-17 09:06:53,033] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-17 09:06:53,859] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:2270
+[2019-01-17 09:06:53,859] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-17 09:06:53,885] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-17 09:06:53,885] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-17 09:06:53,921] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:2270]
+[2019-01-17 09:06:54,921] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-17 09:06:55,511] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-17 09:06:56,512] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-17 09:06:56,513] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-17 09:06:56,957] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-17 09:06:58,511] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-17 09:10:27,969] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-17 09:10:27,971] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的ChormeDriver浏览器并将其初始化
+
+[2019-01-17 09:10:34,804] ERROR org.webdriver.mindaiwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2019-01-17 09:10:34,946] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-17 09:10:36,794] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-17 09:11:02,723] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-17 09:11:02,725] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的ChormeDriver浏览器并将其初始化
+
+[2019-01-17 09:11:05,012] ERROR org.webdriver.mindaiwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2019-01-17 09:11:05,141] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-17 09:11:06,996] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-17 09:28:00,852] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-17 09:28:00,854] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的ChormeDriver浏览器并将其初始化
+
+[2019-01-17 09:28:04,713] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-17 09:28:05,935] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-17 09:28:05,954] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-17 09:28:06,029] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-17 09:28:06,029] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-17 09:28:06,121] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:lirenjie]
+[2019-01-17 09:28:06,122] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginPassword]
+[2019-01-17 09:28:06,166] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.id:loginPassword]
+[2019-01-17 09:28:06,167] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginPassword]
+[2019-01-17 09:28:06,235] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.id:loginPasswordvalue:lirenjie]
+[2019-01-17 09:28:06,235] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-17 09:28:07,196] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:6935
+[2019-01-17 09:28:07,197] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-17 09:28:07,234] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-17 09:28:07,234] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-17 09:28:07,291] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:6935]
+[2019-01-17 09:28:08,291] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-17 09:28:08,531] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-17 09:28:09,533] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-17 09:28:09,533] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-17 09:28:10,501] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-17 09:28:12,220] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-17 09:33:59,814] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-17 09:33:59,816] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的ChormeDriver浏览器并将其初始化
+
+[2019-01-17 09:34:03,667] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---start
+[2019-01-17 09:34:04,645] INFO  org.webdriver.mindaiwebui.pageObject.HtLoginPage 打开浏览器，访问http://test2adminbank.mindai.com/admin/index/login网址!
+[2019-01-17 09:34:04,662] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-17 09:34:04,727] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-17 09:34:04,728] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.xpath://input[@id='username' and @class='login_text']]
+[2019-01-17 09:34:04,837] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.xpath://input[@id='username' and @class='login_text']value:hepeng]
+[2019-01-17 09:34:04,838] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginPassword]
+[2019-01-17 09:34:04,878] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.id:loginPassword]
+[2019-01-17 09:34:04,879] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginPassword]
+[2019-01-17 09:34:04,950] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.id:loginPasswordvalue:123456]
+[2019-01-17 09:34:04,951] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：图形验证码方式[By.id:valicodeImg]
+[2019-01-17 09:34:05,922] INFO  org.webdriver.mindaiwebui.utils.ElementAction 图片文字为:3960
+[2019-01-17 09:34:05,922] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-17 09:34:05,961] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:验证码输入框[By.id:valicode]
+[2019-01-17 09:34:05,962] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：验证码输入框方式[By.id:valicode]
+[2019-01-17 09:34:06,023] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：验证码输入框[By.id:valicodevalue:3960]
+[2019-01-17 09:34:07,023] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath:.//*[@id='loginInfo']/p[4]/input]
+[2019-01-17 09:34:07,595] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath:.//*[@id='loginInfo']/p[4]/input]成功！
+[2019-01-17 09:34:17,597] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 后台用户登陆--passed
+[2019-01-17 09:34:17,597] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:后台用户登陆---end
+[2019-01-17 09:34:18,557] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-17 09:34:20,279] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-17 16:14:16,232] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-17 16:14:16,233] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的ChormeDriver浏览器并将其初始化
+
+[2019-01-17 16:14:20,070] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2019-01-17 16:14:22,469] INFO  org.webdriver.mindaiwebui.pageObject.LoginPage 打开浏览器，访问https://testbo2.mindai.com/borrower/index.html#/login网址!
+[2019-01-17 16:14:22,473] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:22,999] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:23,513] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:24,027] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:24,542] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:25,056] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:25,571] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:26,084] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:26,598] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:27,109] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:27,619] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:28,133] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:28,647] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:29,161] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:29,674] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:30,187] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:30,701] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:31,215] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:31,727] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:32,237] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:32,749] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:33,264] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:33,779] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:34,293] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:34,806] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:35,318] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:35,831] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:36,340] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:36,854] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:37,368] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:37,881] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:38,394] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:38,905] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:39,417] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:39,927] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:40,440] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:40,954] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:41,467] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:41,980] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:42,494] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:userName]
+[2019-01-17 16:14:42,506] INFO  org.webdriver.mindaiwebui.utils.ElementAction 超时无法定位页面元素
+[2019-01-17 16:14:42,912] ERROR org.webdriver.mindaiwebui.utils.ScreenShot 错误截图：F:\testcase\webuiauto\test-output\snapshot\2019-01-17 161442518.jpg
+[2019-01-17 16:14:42,913] INFO  org.webdriver.mindaiwebui.utils.ElementAction 2019-01-17 161442518
+[2019-01-17 16:14:42,914] ERROR org.webdriver.mindaiwebui.utils.ElementAction 清除input值失败:用户名输入框[By.id:userName]
+[2019-01-17 16:14:42,926] ERROR org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--failed
+[2019-01-17 16:14:42,926] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2019-01-17 16:14:43,876] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-17 16:14:45,771] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-17 16:21:04,055] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-17 16:21:04,057] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的ChormeDriver浏览器并将其初始化
+
+[2019-01-17 16:21:07,943] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2019-01-17 16:21:12,394] INFO  org.webdriver.mindaiwebui.pageObject.LoanLoginPage 打开浏览器，访问https://testbo2.mindai.com/borrower/index.html#/login网址!
+[2019-01-17 16:21:12,415] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.name:userName]
+[2019-01-17 16:21:12,469] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.name:userName]
+[2019-01-17 16:21:12,470] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.name:userName]
+[2019-01-17 16:21:12,589] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.name:userNamevalue:13630024025]
+[2019-01-17 16:21:12,589] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.name:password]
+[2019-01-17 16:21:12,627] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.name:password]
+[2019-01-17 16:21:12,628] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.name:password]
+[2019-01-17 16:21:12,702] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.name:passwordvalue:123456]
+[2019-01-17 16:21:13,702] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath://*[@id='root']/div/div/div[2]/div[3]/a/span]
+[2019-01-17 16:21:13,772] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath://*[@id='root']/div/div/div[2]/div[3]/a/span]成功！
+[2019-01-17 16:21:26,774] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--passed
+[2019-01-17 16:21:26,774] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2019-01-17 16:21:27,733] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-17 16:21:29,433] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-17 16:22:15,366] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-17 16:22:15,367] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的ChormeDriver浏览器并将其初始化
+
+[2019-01-17 16:22:19,211] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2019-01-17 16:22:20,249] INFO  org.webdriver.mindaiwebui.pageObject.LoanLoginPage 打开浏览器，访问https://testbo2.mindai.com/borrower/index.html#/login网址!
+[2019-01-17 16:22:20,265] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.name:userName]
+[2019-01-17 16:22:20,321] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.name:userName]
+[2019-01-17 16:22:20,322] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.name:userName]
+[2019-01-17 16:22:20,437] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.name:userNamevalue:13630024025]
+[2019-01-17 16:22:20,437] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.name:password]
+[2019-01-17 16:22:20,478] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.name:password]
+[2019-01-17 16:22:20,479] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.name:password]
+[2019-01-17 16:22:20,552] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.name:passwordvalue:123456]
+[2019-01-17 16:22:21,552] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath://*[@id='root']/div/div/div[2]/div[3]/a/span]
+[2019-01-17 16:22:21,623] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath://*[@id='root']/div/div/div[2]/div[3]/a/span]成功！
+[2019-01-17 16:22:32,626] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--passed
+[2019-01-17 16:22:32,626] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2019-01-17 16:22:33,537] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-17 16:22:35,304] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
+[2019-01-17 16:25:48,699] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2019-01-17 16:25:48,701] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase 读取testng.xml配置的ChormeDriver浏览器并将其初始化
+
+[2019-01-17 16:25:52,504] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---start
+[2019-01-17 16:25:53,952] INFO  org.webdriver.mindaiwebui.pageObject.LoanLoginPage 打开浏览器，访问https://testbo2.mindai.com/borrower/index.html#/login网址!
+[2019-01-17 16:25:53,968] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.name:userName]
+[2019-01-17 16:25:54,017] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:用户名输入框[By.name:userName]
+[2019-01-17 16:25:54,018] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：用户名输入框方式[By.name:userName]
+[2019-01-17 16:25:54,132] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：用户名输入框[By.name:userNamevalue:13630024025]
+[2019-01-17 16:25:54,133] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.name:password]
+[2019-01-17 16:25:54,174] INFO  org.webdriver.mindaiwebui.utils.ElementAction 清除input值:密码输入框[By.name:password]
+[2019-01-17 16:25:54,174] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：密码输入框方式[By.name:password]
+[2019-01-17 16:25:54,250] INFO  org.webdriver.mindaiwebui.utils.ElementAction input输入：密码输入框[By.name:passwordvalue:123456]
+[2019-01-17 16:25:55,250] INFO  org.webdriver.mindaiwebui.utils.ElementAction 查找元素：登录按钮方式[By.xpath://*[@id='root']/div/div/div[2]/div[3]/a]
+[2019-01-17 16:25:55,321] INFO  org.webdriver.mindaiwebui.utils.ElementAction click元素：登录按钮[By.xpath://*[@id='root']/div/div/div[2]/div[3]/a]成功！
+[2019-01-17 16:26:06,323] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例: 测试用例--passed
+[2019-01-17 16:26:06,323] INFO  org.webdriver.mindaiwebui.utils.TestListener 测试用例:测试用例---end
+[2019-01-17 16:26:07,302] INFO  org.webdriver.mindaiwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2019-01-17 16:26:10,909] ERROR org.webdriver.mindaiwebui.utils.SendMail 发送邮件失败！
