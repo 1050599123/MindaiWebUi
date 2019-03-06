@@ -8,10 +8,11 @@
   <parameter name="nodeURL" value=""/>
   <parameter name="smtpPassWord" value="Mindaitianxia2018"/>
   <parameter name="reportUrl" value="http://192.168.1.193:8087/report.html"/>
+  <parameter name="deviceName" value=""/>
   <parameter name="PassWord" value=""/>
-  <parameter name="XfdUrl" value="http://121.196.215.15:8088/"/>
+  <parameter name="LoanUrl" value="https://testbo2.mindai.com/"/>
   <parameter name="smtpHost" value="smtp.exmail.qq.com"/>
-  <parameter name="driver" value="FirefoxDriver"/>
+  <parameter name="driver" value="ChormeDriver"/>
   <parameter name="smtpUserName" value=""/>
   <parameter name="recipients" value="hepeng@mindai.com"/>
   <parameter name="HouTaiUrl" value="http://test2adminbank.mindai.com/"/>
@@ -23,13 +24,13 @@
   </listeners>
   <test name="后台用户登陆用例(failed)">
     <classes>
-      <class name="org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login">
+      <class name="org.webdriver.mindaiwebui.cases.Openaccount">
         <methods>
-          <include name="houtaiTaiLogin" invocation-numbers="0"/>
           <include name="tearDown"/>
+          <include name="Login" invocation-numbers="0"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login -->
+      </class> <!-- org.webdriver.mindaiwebui.cases.Openaccount -->
     </classes>
   </test> <!-- 后台用户登陆用例(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -22,6 +22,7 @@ public class joyreachadsAction extends TestBaseCase{
         action.type(loginPage.用户名输入框(),userName);
         action.clear(loginPage.密码输入框());
         action.type(loginPage.密码输入框(),password); 
+        
         String imgCode=action.Getgraphicscode(loginPage.图形验证码());
         action.clear(loginPage.验证码输入框());
         action.type(loginPage.验证码输入框(),imgCode);        

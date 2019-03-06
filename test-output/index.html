@@ -23,7 +23,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+      <span class="top-banner-font-1">1 suite</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -37,7 +37,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-Suite">
-              <span class="suite-name border-failed">Suite</span>
+              <span class="suite-name border-passed">Suite</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -90,21 +90,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method, 1 failed,   </span>
+                    <span class="method-stats">1 method,   1 passed</span>
                   </li>
                   <li>
-                    <span class="method-list-title failed">Failed methods</span>
-                    <span class="show-or-hide-methods failed">
-                      <a href="#" panel-name="suite-Suite" class="hide-methods failed suite-Suite"> (hide)</a> <!-- hide-methods failed suite-Suite -->
-                      <a href="#" panel-name="suite-Suite" class="show-methods failed suite-Suite"> (show)</a> <!-- show-methods failed suite-Suite -->
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Suite" class="hide-methods passed suite-Suite"> (hide)</a> <!-- hide-methods passed suite-Suite -->
+                      <a href="#" panel-name="suite-Suite" class="show-methods passed suite-Suite"> (show)</a> <!-- show-methods passed suite-Suite -->
                     </span>
-                    <div class="method-list-content failed suite-Suite">
+                    <div class="method-list-content passed suite-Suite">
                       <span>
-                        <img width="3%" src="failed.png"/>
-                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login" hash-for-method="houtaiTaiLogin(hepeng, 123456, 1234, 验证码错误)">houtaiTaiLogin(hepeng, 123456, 1234, 验证码错误)</a> <!-- method navigator-link -->
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite" title="org.webdriver.mindaiwebui.cases.Openaccount" hash-for-method="Login(13630024080, 123456, , 皮卡丘, 320101198006010043, 6228435540398678769, 13630024080, 123456, 123456, 12...)">Login(13630024080, 123456, , 皮卡丘, 320101198006010043, 6228435540398678769, 13630024080, 123456, 123456, 12...)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
-                    </div> <!-- method-list-content failed suite-Suite -->
+                    </div> <!-- method-list-content passed suite-Suite -->
                   </li>
                 </ul>
               </div> <!-- suite-section-content -->
@@ -116,50 +116,24 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Suite" class="panel Suite">
-          <div class="suite-Suite-class-failed">
+          <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
-              <img src="failed.png"/>
-              <span class="class-name">org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login</span>
+              <img src="passed.png"/>
+              <span class="class-name">org.webdriver.mindaiwebui.cases.Openaccount</span>
             </div> <!-- main-panel-header rounded-window-top -->
             <div class="main-panel-content rounded-window-bottom">
               <div class="method">
                 <div class="method-content">
-                  <a name="houtaiTaiLogin(hepeng, 123456, 1234, 验证码错误)">
-                  </a> <!-- houtaiTaiLogin(hepeng, 123456, 1234, 验证码错误) -->
-                  <span class="method-name">houtaiTaiLogin</span>
-                  <span class="parameters">(hepeng, 123456, 1234, 验证码错误)</span>
-                  <div class="stack-trace">org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
-Command duration or timeout: 11 milliseconds
-Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
-System info: host: &apos;hepeng&apos;, ip: &apos;192.168.1.105&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_91&apos;
-Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=43.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
-Session ID: ae24cd2f-1255-42a2-a3a2-93026c935f64
-	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
-	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
-	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:140)
-	at org.webdriver.mindaiwebui.utils.ElementAction.clear(ElementAction.java:717)
-	at org.webdriver.mindaiwebui.action.HouTaiLoginAction.&lt;init&gt;(HouTaiLoginAction.java:19)
-	at org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login.houtaiTaiLogin(HouTai_Login.java:39)
-Caused by: org.openqa.selenium.ElementNotVisibleException: Element is not currently visible and so may not be interacted with
-Build info: version: &apos;2.53.1&apos;, revision: &apos;a36b8b1cd5757287168e54b817830adce9b0158d&apos;, time: &apos;2016-06-30 19:26:09&apos;
-System info: host: &apos;hepeng&apos;, ip: &apos;192.168.1.105&apos;, os.name: &apos;Windows 7&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.1&apos;, java.version: &apos;1.8.0_91&apos;
-Driver info: driver.version: unknown
-	at &lt;anonymous class&gt;.fxdriver.preconditions.visible(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:10092)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.checkPreconditions_(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12644)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.executeInternal_(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
-	at &lt;anonymous class&gt;.DelayedCommand.prototype.execute/&lt;(file:///C:/Users/ADMINI~1/AppData/Local/Temp/anonymous7097530111824071378webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
-... Removed 28 stack frames
-</div> <!-- stack-trace -->
+                  <a name="Login(13630024080, 123456, , 皮卡丘, 320101198006010043, 6228435540398678769, 13630024080, 123456, 123456, 12...)">
+                  </a> <!-- Login(13630024080, 123456, , 皮卡丘, 320101198006010043, 6228435540398678769, 13630024080, 123456, 123456, 12...) -->
+                  <span class="method-name">Login</span>
+                  <span class="parameters">(13630024080, 123456, , 皮卡丘, 320101198006010043, 6228435540398678769, 13630024080, 123456, 123456, 123456, 500)</span>
                   <em>
-(后台用户登陆)                  </em>
+(测试用例)                  </em>
                 </div> <!-- method-content -->
               </div> <!-- method -->
             </div> <!-- main-panel-content rounded-window-bottom -->
-          </div> <!-- suite-Suite-class-failed -->
+          </div> <!-- suite-Suite-class-passed -->
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
@@ -177,10 +151,11 @@ Driver info: driver.version: unknown
   &lt;parameter name=&quot;nodeURL&quot; value=&quot;&quot;/&gt;
   &lt;parameter name=&quot;smtpPassWord&quot; value=&quot;Mindaitianxia2018&quot;/&gt;
   &lt;parameter name=&quot;reportUrl&quot; value=&quot;http://192.168.1.193:8087/report.html&quot;/&gt;
+  &lt;parameter name=&quot;deviceName&quot; value=&quot;&quot;/&gt;
   &lt;parameter name=&quot;PassWord&quot; value=&quot;&quot;/&gt;
-  &lt;parameter name=&quot;XfdUrl&quot; value=&quot;http://121.196.215.15:8088/&quot;/&gt;
+  &lt;parameter name=&quot;LoanUrl&quot; value=&quot;https://testbo2.mindai.com/&quot;/&gt;
   &lt;parameter name=&quot;smtpHost&quot; value=&quot;smtp.exmail.qq.com&quot;/&gt;
-  &lt;parameter name=&quot;driver&quot; value=&quot;FirefoxDriver&quot;/&gt;
+  &lt;parameter name=&quot;driver&quot; value=&quot;ChormeDriver&quot;/&gt;
   &lt;parameter name=&quot;smtpUserName&quot; value=&quot;&quot;/&gt;
   &lt;parameter name=&quot;recipients&quot; value=&quot;hepeng@mindai.com&quot;/&gt;
   &lt;parameter name=&quot;HouTaiUrl&quot; value=&quot;http://test2adminbank.mindai.com/&quot;/&gt;
@@ -192,7 +167,7 @@ Driver info: driver.version: unknown
   &lt;/listeners&gt;
   &lt;test name=&quot;后台用户登陆用例&quot;&gt;
     &lt;classes&gt;
-      &lt;class name=&quot;org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login&quot;/&gt;
+      &lt;class name=&quot;org.webdriver.mindaiwebui.cases.Openaccount&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- 后台用户登陆用例 --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -234,14 +209,14 @@ data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
 data.addRows(1);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'houtaiTaiLogin')
-data.setCell(0, 2, 'org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login')
-data.setCell(0, 3, 1480);
+data.setCell(0, 1, 'Login')
+data.setCell(0, 2, 'org.webdriver.mindaiwebui.cases.Openaccount')
+data.setCell(0, 3, 20513);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 1 seconds</span>
+              <span class="suite-total-time">Total running time: 20 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -267,20 +242,18 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">org.webdriver.mindaiwebui.cases.Openaccount</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
-                <span class="method-name">setup(FirefoxDriver, )</span>
+                <span class="method-name">setup(ChormeDriver, , )</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-test before -->
               <div class="test-method">
-                <img src="failed.png">
-                </img>
-                <span class="method-name">houtaiTaiLogin(hepeng, 123456, 1234, 验证码错误)</span>
-                <span class="method-start">3250 ms</span>
+                <span class="method-name">Login(13630024080, 123456, , 皮卡丘, 320101198006010043, 6228435540398678769, 13630024080, 123456, 123456, 12...)</span>
+                <span class="method-start">3801 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-test after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">4749 ms</span>
+                <span class="method-start">24319 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

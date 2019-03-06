@@ -27,15 +27,15 @@ import java.io.IOException;
 				//读取登录用例测试数据 
 			   String filePath="src/main/resources/data/ExcelTests.xls";
 				//读取第一个sheet，第2行到第5行-第2到第4列之间的数据
-			   return ExcelReadUtil.case_data_excel(2, 1, 1, 1, 5,filePath);
+			   return ExcelReadUtil.case_data_excel(1, 1, 1, 2, 5,filePath);
 			}
 		   
 	    @Test(description="注册失败用例",dataProvider = "longinData")
-	    public void Login( String regName,String regPass,String imgCode,String inviter,String message) throws Exception, DocumentException{ 
+	    public void RegistrationAction( String regName,String regPass,String inviter,String message) throws Exception, DocumentException{ 
 			//代替testng参数化的方法
 			String BaseUrl= XmlReadUtil.getTestngParametersValue("testng.xml","BaseUrl");			
 			//调用注册方法
-			new RegistrationAction(BaseUrl+"/register.html",regName,regPass,imgCode,inviter);
+			new RegistrationAction(BaseUrl+"/register.html",regName,regPass,inviter);
 			action.sleep(1);   
 			//调用退出方法
 			new SignoutAction(); 

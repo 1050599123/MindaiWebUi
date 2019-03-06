@@ -94,7 +94,8 @@
         <!--前台注册页面-->	
 		<locator type="id" timeout="3" value="regName"  desc="用户名">注册用户名输入框</locator>
 		<locator type="id" timeout="3" value="regPass"  desc="密码">注册密码输入框</locator>
-		<locator type="id" timeout="3" value="imgCode"  desc="图形验证码">图形验证码输入框</locator>
+		<locator type="id" timeout="3" value="valicode"  desc="图形验证码">图形验证码</locator>
+		<locator type="id" timeout="3" value="imgCode"  desc="图形验证码输入框">图形验证码输入框</locator>
 		<locator type="xpath" timeout="3" value="//button[@type='button']" desc="获取短信验证码">获取短信验证码</locator>
 		<locator type="id" timeout="3" value="smsCode"  desc="短信验证码">短信验证码输入框</locator>
 		<locator type="id" timeout="3" value="inviter"  desc="推荐人">推荐人输入框</locator>
