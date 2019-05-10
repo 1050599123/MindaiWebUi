@@ -5,6 +5,7 @@ import org.webdriver.mindaiwebui.utils.*;
 import org.apache.log4j.Logger;
 import org.dom4j.DocumentException;
 import org.testng.annotations.DataProvider;  
+import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;  
 import org.webdriver.mindaiwebui.action.RechargeAction;
 import org.webdriver.mindaiwebui.action.RegistrationAction;
@@ -30,8 +31,8 @@ import org.webdriver.mindaiwebui.action.XwAccountAction;
 			//代替testng参数化的方法
 			String BaseUrl= XmlReadUtil.getTestngParametersValue("testng.xml","BaseUrl");	
 			//调用登录方法
-		//	new joyreachadsAction(BaseUrl+"/login.html",userName,password);
-			//调用注册方法
+			new joyreachadsAction(BaseUrl+"/login.html",userName,password);
+		/*	//调用注册方法
 			new RegistrationAction(BaseUrl+"/register.html",userName,password,inviter);
 			action.sleep(1); 
 			//调用开户方法
@@ -41,7 +42,7 @@ import org.webdriver.mindaiwebui.action.XwAccountAction;
 		//	new RechargeAction(money,ppassword); 
 			action.sleep(3); 
 			//调用退出方法
-			new SignoutAction(); 
+			new SignoutAction(); */
 			//设置检查点 
 		//	Assertion.VerityTextPresent(message,"验证是否出现预期的错误提示信息:"+message);
 		//	action.sleep(1); 

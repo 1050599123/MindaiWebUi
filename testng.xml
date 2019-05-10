@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!-- <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">-->  
 <suite name="Suite">
 	<parameter name="driver" value="ChormeDriver" /> <!--测试浏览器：支持火狐，谷歌，IE-->
 	<parameter name="deviceName" value="" />  <!-- 谷歌浏览器手机模式模拟手机型号名称-->	
@@ -10,7 +10,7 @@
 	<parameter name="UserName" value="" /> <!-- 系统登录用户名-->
 	<parameter name="PassWord" value="" />  <!-- 系统登录密码-->
     <parameter name="smtpUserName" value="" />  <!-- 测试报告邮件发送：smtp身份证验证-->
-    <parameter name="smtpPassWord" value="Mindaitianxia2018" />  <!-- 测试报告邮件发送：smtp身份证验证-->
+    <parameter name="smtpPassWord" value="Md@hp2019" />  <!-- 测试报告邮件发送：smtp身份证验证-->
     <parameter name="smtpHost" value="smtp.exmail.qq.com" /> <!-- 测试报告邮件发送：smtp主机地址-->
     <parameter name="smtpPort" value="465" />  <!-- 测试报告邮件发送：smtp主机端口-->
     <parameter name="mailTitle" value="${mailTitle}" />  <!-- 测试报告邮件发送：邮件标题-->
@@ -27,7 +27,7 @@
         <!--<parameter name="nodeURL" value="" /> &lt;!&ndash;selenium grid分布式运行node节点url，如不用分布式运行，则留空&ndash;&gt;-->
         <classes>
                   <!--   <class name="org.webdriver.mindaiwebui.houTaiTestcases.HouTai_Login" />   -->  
-                      <class name="org.webdriver.mindaiwebui.cases.Openaccount"> </class>/>   
+                      <class name="org.webdriver.mindaiwebui.cases.Openaccount">  </class>/>   
                  <!--  <class name="org.webdriver.mindaiwebui.cases.RegistrationTest"> </class> --> 
         </classes>
       </test> <!-- Test -->

@@ -19,7 +19,7 @@ import java.io.IOException;
 			public void login(String BaseUrl) throws IOException
 			{	
 				//调用登录方法，输入正确的用户名和密码
-		  		LoginAction loginAction=new LoginAction(BaseUrl+"/login.html","13928755754","123456","123456");
+		  		new LoginAction(BaseUrl+"/login.html","13928755754","123456","123456");
 				action.sleep(2);
 				//设置检查点
 				Assertion.VerityTextPresentPrecision("13928755754","输入正确的用户名和密码，验证是否成功进入主页");
@@ -28,7 +28,7 @@ import java.io.IOException;
 			}
 			//数据驱动案例--start
 	  
-		   @DataProvider(name="longinData")
+		  /*   @DataProvider(name="longinData")
 			public Object[][] loginData()
 			{
 				//读取登录用例测试数据 
@@ -50,7 +50,7 @@ import java.io.IOException;
 		 	Assertion.VerityError();
 
 
-	    } 
+	    } */
 	      
 
 	  

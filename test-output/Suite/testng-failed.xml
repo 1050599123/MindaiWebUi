@@ -12,7 +12,7 @@
   <parameter name="PassWord" value=""/>
   <parameter name="LoanUrl" value="https://testbo2.mindai.com/"/>
   <parameter name="smtpHost" value="smtp.exmail.qq.com"/>
-  <parameter name="driver" value="ChormeDriver"/>
+  <parameter name="driver" value="FirefoxDriver"/>
   <parameter name="smtpUserName" value=""/>
   <parameter name="recipients" value="hepeng@mindai.com"/>
   <parameter name="HouTaiUrl" value="http://test2adminbank.mindai.com/"/>

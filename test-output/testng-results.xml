@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="25302" started-at="2019-03-05T09:05:44Z" finished-at="2019-03-05T09:06:10Z">
+  <suite name="Suite" duration-ms="10555" started-at="2019-04-08T08:00:11Z" finished-at="2019-04-08T08:00:21Z">
     <groups>
     </groups>
-    <test name="后台用户登陆用例" duration-ms="25302" started-at="2019-03-05T09:05:44Z" finished-at="2019-03-05T09:06:10Z">
+    <test name="后台用户登陆用例" duration-ms="10555" started-at="2019-04-08T08:00:11Z" finished-at="2019-04-08T08:00:21Z">
       <class name="org.webdriver.mindaiwebui.cases.Openaccount">
-        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Openaccount@74650e52]" name="setup" is-config="true" duration-ms="3672" started-at="2019-03-05T17:05:44Z" finished-at="2019-03-05T17:05:48Z">
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Openaccount@3b088d51]" name="setup" is-config="true" duration-ms="3657" started-at="2019-04-08T16:00:11Z" finished-at="2019-04-08T16:00:14Z">
           <params>
             <param index="0">
               <value>
@@ -28,7 +28,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Openaccount@74650e52]" name="Login" duration-ms="20513" started-at="2019-03-05T17:05:48Z" description="测试用例" data-provider="longinData" finished-at="2019-03-05T17:06:09Z">
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:org.webdriver.mindaiwebui.cases.Openaccount@3b088d51]" name="Login" duration-ms="5864" started-at="2019-04-08T16:00:14Z" description="测试用例" data-provider="longinData" finished-at="2019-04-08T16:00:20Z">
           <params>
             <param index="0">
               <value>
@@ -89,7 +89,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.webdriver.mindaiwebui.cases.Openaccount@74650e52]" name="tearDown" is-config="true" duration-ms="980" started-at="2019-03-05T17:06:09Z" finished-at="2019-03-05T17:06:10Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.webdriver.mindaiwebui.cases.Openaccount@3b088d51]" name="tearDown" is-config="true" duration-ms="911" started-at="2019-04-08T16:00:20Z" finished-at="2019-04-08T16:00:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
